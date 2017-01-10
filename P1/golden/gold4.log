@@ -1,0 +1,2887 @@
+0 s: Thread Read BMP is initialized
+0 s: Thread Read BMP attempting to send frame0 to DCT
+0 s: Thread Read BMP has sent frame0 to DCT
+0 s: Thread Read BMP attempting to send frame1 to DCT
+0 s: Thread Read BMP has sent frame1 to DCT
+0 s: Thread Read BMP attempting to send frame2 to DCT
+0 s: Thread Read BMP has sent frame2 to DCT
+0 s: Thread Read BMP attempting to send frame3 to DCT
+0 s: Thread Read BMP has sent frame3 to DCT
+0 s: Thread Read BMP attempting to send frame4 to DCT
+0 s: Thread DCT is initialized
+0 s: Thread DCT is attempting to receive frame0 from Read BMP
+0 s: Thread Quantize is initialized
+0 s: Thread Quantize is attempting to receive frame0 from DCT
+0 s: Thread ZigZag is initialized
+0 s: Thread ZigZag is attempting to receive frame0 from Quantize
+0 s: Thread Huffman is initialized
+0 s: Thread Huffman is attempting to receive frame0 from ZigZag
+0 s: Thread DCT has received frame0 from Read BMP
+0 s: Thread DCT is attempting to send frame0 to Quantize
+0 s: Thread DCT has sent frame0 to Quantize
+0 s: Thread DCT is attempting to receive frame1 from Read BMP
+0 s: Thread DCT has received frame1 from Read BMP
+0 s: Thread DCT is attempting to send frame1 to Quantize
+0 s: Thread DCT has sent frame1 to Quantize
+0 s: Thread DCT is attempting to receive frame2 from Read BMP
+0 s: Thread DCT has received frame2 from Read BMP
+0 s: Thread DCT is attempting to send frame2 to Quantize
+0 s: Thread DCT has sent frame2 to Quantize
+0 s: Thread DCT is attempting to receive frame3 from Read BMP
+0 s: Thread DCT has received frame3 from Read BMP
+0 s: Thread DCT is attempting to send frame3 to Quantize
+0 s: Thread DCT has sent frame3 to Quantize
+0 s: Thread DCT is attempting to receive frame4 from Read BMP
+0 s: Thread Read BMP has sent frame4 to DCT
+0 s: Thread Read BMP attempting to send frame5 to DCT
+0 s: Thread Read BMP has sent frame5 to DCT
+0 s: Thread Read BMP attempting to send frame6 to DCT
+0 s: Thread Read BMP has sent frame6 to DCT
+0 s: Thread Read BMP attempting to send frame7 to DCT
+0 s: Thread Read BMP has sent frame7 to DCT
+0 s: Thread Read BMP attempting to send frame8 to DCT
+0 s: Thread Quantize has received frame0 from DCT
+0 s: Thread Quantize is attempting to send frame0 to ZigZag
+0 s: Thread Quantize has sent frame0 to ZigZag
+0 s: Thread Quantize is attempting to receive frame1 from DCT
+0 s: Thread Quantize has received frame1 from DCT
+0 s: Thread Quantize is attempting to send frame1 to ZigZag
+0 s: Thread Quantize has sent frame1 to ZigZag
+0 s: Thread Quantize is attempting to receive frame2 from DCT
+0 s: Thread Quantize has received frame2 from DCT
+0 s: Thread Quantize is attempting to send frame2 to ZigZag
+0 s: Thread Quantize has sent frame2 to ZigZag
+0 s: Thread Quantize is attempting to receive frame3 from DCT
+0 s: Thread Quantize has received frame3 from DCT
+0 s: Thread Quantize is attempting to send frame3 to ZigZag
+0 s: Thread Quantize has sent frame3 to ZigZag
+0 s: Thread Quantize is attempting to receive frame4 from DCT
+0 s: Thread DCT has received frame4 from Read BMP
+0 s: Thread DCT is attempting to send frame4 to Quantize
+0 s: Thread DCT has sent frame4 to Quantize
+0 s: Thread DCT is attempting to receive frame5 from Read BMP
+0 s: Thread DCT has received frame5 from Read BMP
+0 s: Thread DCT is attempting to send frame5 to Quantize
+0 s: Thread DCT has sent frame5 to Quantize
+0 s: Thread DCT is attempting to receive frame6 from Read BMP
+0 s: Thread DCT has received frame6 from Read BMP
+0 s: Thread DCT is attempting to send frame6 to Quantize
+0 s: Thread DCT has sent frame6 to Quantize
+0 s: Thread DCT is attempting to receive frame7 from Read BMP
+0 s: Thread DCT has received frame7 from Read BMP
+0 s: Thread DCT is attempting to send frame7 to Quantize
+0 s: Thread DCT has sent frame7 to Quantize
+0 s: Thread DCT is attempting to receive frame8 from Read BMP
+0 s: Thread ZigZag has received frame0 from Quantize
+0 s: Thread ZigZag is attempting to send frame0 to Huffman
+0 s: Thread ZigZag has sent frame0 to Huffman
+0 s: Thread ZigZag is attempting to receive frame1 from Quantize
+0 s: Thread ZigZag has received frame1 from Quantize
+0 s: Thread ZigZag is attempting to send frame1 to Huffman
+0 s: Thread ZigZag has sent frame1 to Huffman
+0 s: Thread ZigZag is attempting to receive frame2 from Quantize
+0 s: Thread ZigZag has received frame2 from Quantize
+0 s: Thread ZigZag is attempting to send frame2 to Huffman
+0 s: Thread ZigZag has sent frame2 to Huffman
+0 s: Thread ZigZag is attempting to receive frame3 from Quantize
+0 s: Thread ZigZag has received frame3 from Quantize
+0 s: Thread ZigZag is attempting to send frame3 to Huffman
+0 s: Thread ZigZag has sent frame3 to Huffman
+0 s: Thread ZigZag is attempting to receive frame4 from Quantize
+0 s: Thread Read BMP has sent frame8 to DCT
+0 s: Thread Read BMP attempting to send frame9 to DCT
+0 s: Thread Read BMP has sent frame9 to DCT
+0 s: Thread Read BMP attempting to send frame10 to DCT
+0 s: Thread Read BMP has sent frame10 to DCT
+0 s: Thread Read BMP attempting to send frame11 to DCT
+0 s: Thread Read BMP has sent frame11 to DCT
+0 s: Thread Read BMP attempting to send frame12 to DCT
+0 s: Thread Quantize has received frame4 from DCT
+0 s: Thread Quantize is attempting to send frame4 to ZigZag
+0 s: Thread Quantize has sent frame4 to ZigZag
+0 s: Thread Quantize is attempting to receive frame5 from DCT
+0 s: Thread Quantize has received frame5 from DCT
+0 s: Thread Quantize is attempting to send frame5 to ZigZag
+0 s: Thread Quantize has sent frame5 to ZigZag
+0 s: Thread Quantize is attempting to receive frame6 from DCT
+0 s: Thread Quantize has received frame6 from DCT
+0 s: Thread Quantize is attempting to send frame6 to ZigZag
+0 s: Thread Quantize has sent frame6 to ZigZag
+0 s: Thread Quantize is attempting to receive frame7 from DCT
+0 s: Thread Quantize has received frame7 from DCT
+0 s: Thread Quantize is attempting to send frame7 to ZigZag
+0 s: Thread Quantize has sent frame7 to ZigZag
+0 s: Thread Quantize is attempting to receive frame8 from DCT
+0 s: Thread Huffman has received frame0 from ZigZag
+0 s: Thread Huffman is attempting to receive frame1 from ZigZag
+0 s: Thread Huffman has received frame1 from ZigZag
+0 s: Thread Huffman is attempting to receive frame2 from ZigZag
+0 s: Thread Huffman has received frame2 from ZigZag
+0 s: Thread Huffman is attempting to receive frame3 from ZigZag
+0 s: Thread Huffman has received frame3 from ZigZag
+0 s: Thread Huffman is attempting to receive frame4 from ZigZag
+0 s: Thread DCT has received frame8 from Read BMP
+0 s: Thread DCT is attempting to send frame8 to Quantize
+0 s: Thread DCT has sent frame8 to Quantize
+0 s: Thread DCT is attempting to receive frame9 from Read BMP
+0 s: Thread DCT has received frame9 from Read BMP
+0 s: Thread DCT is attempting to send frame9 to Quantize
+0 s: Thread DCT has sent frame9 to Quantize
+0 s: Thread DCT is attempting to receive frame10 from Read BMP
+0 s: Thread DCT has received frame10 from Read BMP
+0 s: Thread DCT is attempting to send frame10 to Quantize
+0 s: Thread DCT has sent frame10 to Quantize
+0 s: Thread DCT is attempting to receive frame11 from Read BMP
+0 s: Thread DCT has received frame11 from Read BMP
+0 s: Thread DCT is attempting to send frame11 to Quantize
+0 s: Thread DCT has sent frame11 to Quantize
+0 s: Thread DCT is attempting to receive frame12 from Read BMP
+0 s: Thread ZigZag has received frame4 from Quantize
+0 s: Thread ZigZag is attempting to send frame4 to Huffman
+0 s: Thread ZigZag has sent frame4 to Huffman
+0 s: Thread ZigZag is attempting to receive frame5 from Quantize
+0 s: Thread ZigZag has received frame5 from Quantize
+0 s: Thread ZigZag is attempting to send frame5 to Huffman
+0 s: Thread ZigZag has sent frame5 to Huffman
+0 s: Thread ZigZag is attempting to receive frame6 from Quantize
+0 s: Thread ZigZag has received frame6 from Quantize
+0 s: Thread ZigZag is attempting to send frame6 to Huffman
+0 s: Thread ZigZag has sent frame6 to Huffman
+0 s: Thread ZigZag is attempting to receive frame7 from Quantize
+0 s: Thread ZigZag has received frame7 from Quantize
+0 s: Thread ZigZag is attempting to send frame7 to Huffman
+0 s: Thread ZigZag has sent frame7 to Huffman
+0 s: Thread ZigZag is attempting to receive frame8 from Quantize
+0 s: Thread Read BMP has sent frame12 to DCT
+0 s: Thread Read BMP attempting to send frame13 to DCT
+0 s: Thread Read BMP has sent frame13 to DCT
+0 s: Thread Read BMP attempting to send frame14 to DCT
+0 s: Thread Read BMP has sent frame14 to DCT
+0 s: Thread Read BMP attempting to send frame15 to DCT
+0 s: Thread Read BMP has sent frame15 to DCT
+0 s: Thread Read BMP attempting to send frame16 to DCT
+0 s: Thread Quantize has received frame8 from DCT
+0 s: Thread Quantize is attempting to send frame8 to ZigZag
+0 s: Thread Quantize has sent frame8 to ZigZag
+0 s: Thread Quantize is attempting to receive frame9 from DCT
+0 s: Thread Quantize has received frame9 from DCT
+0 s: Thread Quantize is attempting to send frame9 to ZigZag
+0 s: Thread Quantize has sent frame9 to ZigZag
+0 s: Thread Quantize is attempting to receive frame10 from DCT
+0 s: Thread Quantize has received frame10 from DCT
+0 s: Thread Quantize is attempting to send frame10 to ZigZag
+0 s: Thread Quantize has sent frame10 to ZigZag
+0 s: Thread Quantize is attempting to receive frame11 from DCT
+0 s: Thread Quantize has received frame11 from DCT
+0 s: Thread Quantize is attempting to send frame11 to ZigZag
+0 s: Thread Quantize has sent frame11 to ZigZag
+0 s: Thread Quantize is attempting to receive frame12 from DCT
+0 s: Thread Huffman has received frame4 from ZigZag
+0 s: Thread Huffman is attempting to receive frame5 from ZigZag
+0 s: Thread Huffman has received frame5 from ZigZag
+0 s: Thread Huffman is attempting to receive frame6 from ZigZag
+0 s: Thread Huffman has received frame6 from ZigZag
+0 s: Thread Huffman is attempting to receive frame7 from ZigZag
+0 s: Thread Huffman has received frame7 from ZigZag
+0 s: Thread Huffman is attempting to receive frame8 from ZigZag
+0 s: Thread DCT has received frame12 from Read BMP
+0 s: Thread DCT is attempting to send frame12 to Quantize
+0 s: Thread DCT has sent frame12 to Quantize
+0 s: Thread DCT is attempting to receive frame13 from Read BMP
+0 s: Thread DCT has received frame13 from Read BMP
+0 s: Thread DCT is attempting to send frame13 to Quantize
+0 s: Thread DCT has sent frame13 to Quantize
+0 s: Thread DCT is attempting to receive frame14 from Read BMP
+0 s: Thread DCT has received frame14 from Read BMP
+0 s: Thread DCT is attempting to send frame14 to Quantize
+0 s: Thread DCT has sent frame14 to Quantize
+0 s: Thread DCT is attempting to receive frame15 from Read BMP
+0 s: Thread DCT has received frame15 from Read BMP
+0 s: Thread DCT is attempting to send frame15 to Quantize
+0 s: Thread DCT has sent frame15 to Quantize
+0 s: Thread DCT is attempting to receive frame16 from Read BMP
+0 s: Thread ZigZag has received frame8 from Quantize
+0 s: Thread ZigZag is attempting to send frame8 to Huffman
+0 s: Thread ZigZag has sent frame8 to Huffman
+0 s: Thread ZigZag is attempting to receive frame9 from Quantize
+0 s: Thread ZigZag has received frame9 from Quantize
+0 s: Thread ZigZag is attempting to send frame9 to Huffman
+0 s: Thread ZigZag has sent frame9 to Huffman
+0 s: Thread ZigZag is attempting to receive frame10 from Quantize
+0 s: Thread ZigZag has received frame10 from Quantize
+0 s: Thread ZigZag is attempting to send frame10 to Huffman
+0 s: Thread ZigZag has sent frame10 to Huffman
+0 s: Thread ZigZag is attempting to receive frame11 from Quantize
+0 s: Thread ZigZag has received frame11 from Quantize
+0 s: Thread ZigZag is attempting to send frame11 to Huffman
+0 s: Thread ZigZag has sent frame11 to Huffman
+0 s: Thread ZigZag is attempting to receive frame12 from Quantize
+0 s: Thread Read BMP has sent frame16 to DCT
+0 s: Thread Read BMP attempting to send frame17 to DCT
+0 s: Thread Read BMP has sent frame17 to DCT
+0 s: Thread Read BMP attempting to send frame18 to DCT
+0 s: Thread Read BMP has sent frame18 to DCT
+0 s: Thread Read BMP attempting to send frame19 to DCT
+0 s: Thread Read BMP has sent frame19 to DCT
+0 s: Thread Read BMP attempting to send frame20 to DCT
+0 s: Thread Quantize has received frame12 from DCT
+0 s: Thread Quantize is attempting to send frame12 to ZigZag
+0 s: Thread Quantize has sent frame12 to ZigZag
+0 s: Thread Quantize is attempting to receive frame13 from DCT
+0 s: Thread Quantize has received frame13 from DCT
+0 s: Thread Quantize is attempting to send frame13 to ZigZag
+0 s: Thread Quantize has sent frame13 to ZigZag
+0 s: Thread Quantize is attempting to receive frame14 from DCT
+0 s: Thread Quantize has received frame14 from DCT
+0 s: Thread Quantize is attempting to send frame14 to ZigZag
+0 s: Thread Quantize has sent frame14 to ZigZag
+0 s: Thread Quantize is attempting to receive frame15 from DCT
+0 s: Thread Quantize has received frame15 from DCT
+0 s: Thread Quantize is attempting to send frame15 to ZigZag
+0 s: Thread Quantize has sent frame15 to ZigZag
+0 s: Thread Quantize is attempting to receive frame16 from DCT
+0 s: Thread Huffman has received frame8 from ZigZag
+0 s: Thread Huffman is attempting to receive frame9 from ZigZag
+0 s: Thread Huffman has received frame9 from ZigZag
+0 s: Thread Huffman is attempting to receive frame10 from ZigZag
+0 s: Thread Huffman has received frame10 from ZigZag
+0 s: Thread Huffman is attempting to receive frame11 from ZigZag
+0 s: Thread Huffman has received frame11 from ZigZag
+0 s: Thread Huffman is attempting to receive frame12 from ZigZag
+0 s: Thread DCT has received frame16 from Read BMP
+0 s: Thread DCT is attempting to send frame16 to Quantize
+0 s: Thread DCT has sent frame16 to Quantize
+0 s: Thread DCT is attempting to receive frame17 from Read BMP
+0 s: Thread DCT has received frame17 from Read BMP
+0 s: Thread DCT is attempting to send frame17 to Quantize
+0 s: Thread DCT has sent frame17 to Quantize
+0 s: Thread DCT is attempting to receive frame18 from Read BMP
+0 s: Thread DCT has received frame18 from Read BMP
+0 s: Thread DCT is attempting to send frame18 to Quantize
+0 s: Thread DCT has sent frame18 to Quantize
+0 s: Thread DCT is attempting to receive frame19 from Read BMP
+0 s: Thread DCT has received frame19 from Read BMP
+0 s: Thread DCT is attempting to send frame19 to Quantize
+0 s: Thread DCT has sent frame19 to Quantize
+0 s: Thread DCT is attempting to receive frame20 from Read BMP
+0 s: Thread ZigZag has received frame12 from Quantize
+0 s: Thread ZigZag is attempting to send frame12 to Huffman
+0 s: Thread ZigZag has sent frame12 to Huffman
+0 s: Thread ZigZag is attempting to receive frame13 from Quantize
+0 s: Thread ZigZag has received frame13 from Quantize
+0 s: Thread ZigZag is attempting to send frame13 to Huffman
+0 s: Thread ZigZag has sent frame13 to Huffman
+0 s: Thread ZigZag is attempting to receive frame14 from Quantize
+0 s: Thread ZigZag has received frame14 from Quantize
+0 s: Thread ZigZag is attempting to send frame14 to Huffman
+0 s: Thread ZigZag has sent frame14 to Huffman
+0 s: Thread ZigZag is attempting to receive frame15 from Quantize
+0 s: Thread ZigZag has received frame15 from Quantize
+0 s: Thread ZigZag is attempting to send frame15 to Huffman
+0 s: Thread ZigZag has sent frame15 to Huffman
+0 s: Thread ZigZag is attempting to receive frame16 from Quantize
+0 s: Thread Read BMP has sent frame20 to DCT
+0 s: Thread Read BMP attempting to send frame21 to DCT
+0 s: Thread Read BMP has sent frame21 to DCT
+0 s: Thread Read BMP attempting to send frame22 to DCT
+0 s: Thread Read BMP has sent frame22 to DCT
+0 s: Thread Read BMP attempting to send frame23 to DCT
+0 s: Thread Read BMP has sent frame23 to DCT
+0 s: Thread Read BMP attempting to send frame24 to DCT
+0 s: Thread Quantize has received frame16 from DCT
+0 s: Thread Quantize is attempting to send frame16 to ZigZag
+0 s: Thread Quantize has sent frame16 to ZigZag
+0 s: Thread Quantize is attempting to receive frame17 from DCT
+0 s: Thread Quantize has received frame17 from DCT
+0 s: Thread Quantize is attempting to send frame17 to ZigZag
+0 s: Thread Quantize has sent frame17 to ZigZag
+0 s: Thread Quantize is attempting to receive frame18 from DCT
+0 s: Thread Quantize has received frame18 from DCT
+0 s: Thread Quantize is attempting to send frame18 to ZigZag
+0 s: Thread Quantize has sent frame18 to ZigZag
+0 s: Thread Quantize is attempting to receive frame19 from DCT
+0 s: Thread Quantize has received frame19 from DCT
+0 s: Thread Quantize is attempting to send frame19 to ZigZag
+0 s: Thread Quantize has sent frame19 to ZigZag
+0 s: Thread Quantize is attempting to receive frame20 from DCT
+0 s: Thread Huffman has received frame12 from ZigZag
+0 s: Thread Huffman is attempting to receive frame13 from ZigZag
+0 s: Thread Huffman has received frame13 from ZigZag
+0 s: Thread Huffman is attempting to receive frame14 from ZigZag
+0 s: Thread Huffman has received frame14 from ZigZag
+0 s: Thread Huffman is attempting to receive frame15 from ZigZag
+0 s: Thread Huffman has received frame15 from ZigZag
+0 s: Thread Huffman is attempting to receive frame16 from ZigZag
+0 s: Thread DCT has received frame20 from Read BMP
+0 s: Thread DCT is attempting to send frame20 to Quantize
+0 s: Thread DCT has sent frame20 to Quantize
+0 s: Thread DCT is attempting to receive frame21 from Read BMP
+0 s: Thread DCT has received frame21 from Read BMP
+0 s: Thread DCT is attempting to send frame21 to Quantize
+0 s: Thread DCT has sent frame21 to Quantize
+0 s: Thread DCT is attempting to receive frame22 from Read BMP
+0 s: Thread DCT has received frame22 from Read BMP
+0 s: Thread DCT is attempting to send frame22 to Quantize
+0 s: Thread DCT has sent frame22 to Quantize
+0 s: Thread DCT is attempting to receive frame23 from Read BMP
+0 s: Thread DCT has received frame23 from Read BMP
+0 s: Thread DCT is attempting to send frame23 to Quantize
+0 s: Thread DCT has sent frame23 to Quantize
+0 s: Thread DCT is attempting to receive frame24 from Read BMP
+0 s: Thread ZigZag has received frame16 from Quantize
+0 s: Thread ZigZag is attempting to send frame16 to Huffman
+0 s: Thread ZigZag has sent frame16 to Huffman
+0 s: Thread ZigZag is attempting to receive frame17 from Quantize
+0 s: Thread ZigZag has received frame17 from Quantize
+0 s: Thread ZigZag is attempting to send frame17 to Huffman
+0 s: Thread ZigZag has sent frame17 to Huffman
+0 s: Thread ZigZag is attempting to receive frame18 from Quantize
+0 s: Thread ZigZag has received frame18 from Quantize
+0 s: Thread ZigZag is attempting to send frame18 to Huffman
+0 s: Thread ZigZag has sent frame18 to Huffman
+0 s: Thread ZigZag is attempting to receive frame19 from Quantize
+0 s: Thread ZigZag has received frame19 from Quantize
+0 s: Thread ZigZag is attempting to send frame19 to Huffman
+0 s: Thread ZigZag has sent frame19 to Huffman
+0 s: Thread ZigZag is attempting to receive frame20 from Quantize
+0 s: Thread Read BMP has sent frame24 to DCT
+0 s: Thread Read BMP attempting to send frame25 to DCT
+0 s: Thread Read BMP has sent frame25 to DCT
+0 s: Thread Read BMP attempting to send frame26 to DCT
+0 s: Thread Read BMP has sent frame26 to DCT
+0 s: Thread Read BMP attempting to send frame27 to DCT
+0 s: Thread Read BMP has sent frame27 to DCT
+0 s: Thread Read BMP attempting to send frame28 to DCT
+0 s: Thread Quantize has received frame20 from DCT
+0 s: Thread Quantize is attempting to send frame20 to ZigZag
+0 s: Thread Quantize has sent frame20 to ZigZag
+0 s: Thread Quantize is attempting to receive frame21 from DCT
+0 s: Thread Quantize has received frame21 from DCT
+0 s: Thread Quantize is attempting to send frame21 to ZigZag
+0 s: Thread Quantize has sent frame21 to ZigZag
+0 s: Thread Quantize is attempting to receive frame22 from DCT
+0 s: Thread Quantize has received frame22 from DCT
+0 s: Thread Quantize is attempting to send frame22 to ZigZag
+0 s: Thread Quantize has sent frame22 to ZigZag
+0 s: Thread Quantize is attempting to receive frame23 from DCT
+0 s: Thread Quantize has received frame23 from DCT
+0 s: Thread Quantize is attempting to send frame23 to ZigZag
+0 s: Thread Quantize has sent frame23 to ZigZag
+0 s: Thread Quantize is attempting to receive frame24 from DCT
+0 s: Thread Huffman has received frame16 from ZigZag
+0 s: Thread Huffman is attempting to receive frame17 from ZigZag
+0 s: Thread Huffman has received frame17 from ZigZag
+0 s: Thread Huffman is attempting to receive frame18 from ZigZag
+0 s: Thread Huffman has received frame18 from ZigZag
+0 s: Thread Huffman is attempting to receive frame19 from ZigZag
+0 s: Thread Huffman has received frame19 from ZigZag
+0 s: Thread Huffman is attempting to receive frame20 from ZigZag
+0 s: Thread DCT has received frame24 from Read BMP
+0 s: Thread DCT is attempting to send frame24 to Quantize
+0 s: Thread DCT has sent frame24 to Quantize
+0 s: Thread DCT is attempting to receive frame25 from Read BMP
+0 s: Thread DCT has received frame25 from Read BMP
+0 s: Thread DCT is attempting to send frame25 to Quantize
+0 s: Thread DCT has sent frame25 to Quantize
+0 s: Thread DCT is attempting to receive frame26 from Read BMP
+0 s: Thread DCT has received frame26 from Read BMP
+0 s: Thread DCT is attempting to send frame26 to Quantize
+0 s: Thread DCT has sent frame26 to Quantize
+0 s: Thread DCT is attempting to receive frame27 from Read BMP
+0 s: Thread DCT has received frame27 from Read BMP
+0 s: Thread DCT is attempting to send frame27 to Quantize
+0 s: Thread DCT has sent frame27 to Quantize
+0 s: Thread DCT is attempting to receive frame28 from Read BMP
+0 s: Thread ZigZag has received frame20 from Quantize
+0 s: Thread ZigZag is attempting to send frame20 to Huffman
+0 s: Thread ZigZag has sent frame20 to Huffman
+0 s: Thread ZigZag is attempting to receive frame21 from Quantize
+0 s: Thread ZigZag has received frame21 from Quantize
+0 s: Thread ZigZag is attempting to send frame21 to Huffman
+0 s: Thread ZigZag has sent frame21 to Huffman
+0 s: Thread ZigZag is attempting to receive frame22 from Quantize
+0 s: Thread ZigZag has received frame22 from Quantize
+0 s: Thread ZigZag is attempting to send frame22 to Huffman
+0 s: Thread ZigZag has sent frame22 to Huffman
+0 s: Thread ZigZag is attempting to receive frame23 from Quantize
+0 s: Thread ZigZag has received frame23 from Quantize
+0 s: Thread ZigZag is attempting to send frame23 to Huffman
+0 s: Thread ZigZag has sent frame23 to Huffman
+0 s: Thread ZigZag is attempting to receive frame24 from Quantize
+0 s: Thread Read BMP has sent frame28 to DCT
+0 s: Thread Read BMP attempting to send frame29 to DCT
+0 s: Thread Read BMP has sent frame29 to DCT
+0 s: Thread Read BMP attempting to send frame30 to DCT
+0 s: Thread Read BMP has sent frame30 to DCT
+0 s: Thread Read BMP attempting to send frame31 to DCT
+0 s: Thread Read BMP has sent frame31 to DCT
+0 s: Thread Read BMP attempting to send frame32 to DCT
+0 s: Thread Quantize has received frame24 from DCT
+0 s: Thread Quantize is attempting to send frame24 to ZigZag
+0 s: Thread Quantize has sent frame24 to ZigZag
+0 s: Thread Quantize is attempting to receive frame25 from DCT
+0 s: Thread Quantize has received frame25 from DCT
+0 s: Thread Quantize is attempting to send frame25 to ZigZag
+0 s: Thread Quantize has sent frame25 to ZigZag
+0 s: Thread Quantize is attempting to receive frame26 from DCT
+0 s: Thread Quantize has received frame26 from DCT
+0 s: Thread Quantize is attempting to send frame26 to ZigZag
+0 s: Thread Quantize has sent frame26 to ZigZag
+0 s: Thread Quantize is attempting to receive frame27 from DCT
+0 s: Thread Quantize has received frame27 from DCT
+0 s: Thread Quantize is attempting to send frame27 to ZigZag
+0 s: Thread Quantize has sent frame27 to ZigZag
+0 s: Thread Quantize is attempting to receive frame28 from DCT
+0 s: Thread Huffman has received frame20 from ZigZag
+0 s: Thread Huffman is attempting to receive frame21 from ZigZag
+0 s: Thread Huffman has received frame21 from ZigZag
+0 s: Thread Huffman is attempting to receive frame22 from ZigZag
+0 s: Thread Huffman has received frame22 from ZigZag
+0 s: Thread Huffman is attempting to receive frame23 from ZigZag
+0 s: Thread Huffman has received frame23 from ZigZag
+0 s: Thread Huffman is attempting to receive frame24 from ZigZag
+0 s: Thread DCT has received frame28 from Read BMP
+0 s: Thread DCT is attempting to send frame28 to Quantize
+0 s: Thread DCT has sent frame28 to Quantize
+0 s: Thread DCT is attempting to receive frame29 from Read BMP
+0 s: Thread DCT has received frame29 from Read BMP
+0 s: Thread DCT is attempting to send frame29 to Quantize
+0 s: Thread DCT has sent frame29 to Quantize
+0 s: Thread DCT is attempting to receive frame30 from Read BMP
+0 s: Thread DCT has received frame30 from Read BMP
+0 s: Thread DCT is attempting to send frame30 to Quantize
+0 s: Thread DCT has sent frame30 to Quantize
+0 s: Thread DCT is attempting to receive frame31 from Read BMP
+0 s: Thread DCT has received frame31 from Read BMP
+0 s: Thread DCT is attempting to send frame31 to Quantize
+0 s: Thread DCT has sent frame31 to Quantize
+0 s: Thread DCT is attempting to receive frame32 from Read BMP
+0 s: Thread ZigZag has received frame24 from Quantize
+0 s: Thread ZigZag is attempting to send frame24 to Huffman
+0 s: Thread ZigZag has sent frame24 to Huffman
+0 s: Thread ZigZag is attempting to receive frame25 from Quantize
+0 s: Thread ZigZag has received frame25 from Quantize
+0 s: Thread ZigZag is attempting to send frame25 to Huffman
+0 s: Thread ZigZag has sent frame25 to Huffman
+0 s: Thread ZigZag is attempting to receive frame26 from Quantize
+0 s: Thread ZigZag has received frame26 from Quantize
+0 s: Thread ZigZag is attempting to send frame26 to Huffman
+0 s: Thread ZigZag has sent frame26 to Huffman
+0 s: Thread ZigZag is attempting to receive frame27 from Quantize
+0 s: Thread ZigZag has received frame27 from Quantize
+0 s: Thread ZigZag is attempting to send frame27 to Huffman
+0 s: Thread ZigZag has sent frame27 to Huffman
+0 s: Thread ZigZag is attempting to receive frame28 from Quantize
+0 s: Thread Read BMP has sent frame32 to DCT
+0 s: Thread Read BMP attempting to send frame33 to DCT
+0 s: Thread Read BMP has sent frame33 to DCT
+0 s: Thread Read BMP attempting to send frame34 to DCT
+0 s: Thread Read BMP has sent frame34 to DCT
+0 s: Thread Read BMP attempting to send frame35 to DCT
+0 s: Thread Read BMP has sent frame35 to DCT
+0 s: Thread Read BMP attempting to send frame36 to DCT
+0 s: Thread Quantize has received frame28 from DCT
+0 s: Thread Quantize is attempting to send frame28 to ZigZag
+0 s: Thread Quantize has sent frame28 to ZigZag
+0 s: Thread Quantize is attempting to receive frame29 from DCT
+0 s: Thread Quantize has received frame29 from DCT
+0 s: Thread Quantize is attempting to send frame29 to ZigZag
+0 s: Thread Quantize has sent frame29 to ZigZag
+0 s: Thread Quantize is attempting to receive frame30 from DCT
+0 s: Thread Quantize has received frame30 from DCT
+0 s: Thread Quantize is attempting to send frame30 to ZigZag
+0 s: Thread Quantize has sent frame30 to ZigZag
+0 s: Thread Quantize is attempting to receive frame31 from DCT
+0 s: Thread Quantize has received frame31 from DCT
+0 s: Thread Quantize is attempting to send frame31 to ZigZag
+0 s: Thread Quantize has sent frame31 to ZigZag
+0 s: Thread Quantize is attempting to receive frame32 from DCT
+0 s: Thread Huffman has received frame24 from ZigZag
+0 s: Thread Huffman is attempting to receive frame25 from ZigZag
+0 s: Thread Huffman has received frame25 from ZigZag
+0 s: Thread Huffman is attempting to receive frame26 from ZigZag
+0 s: Thread Huffman has received frame26 from ZigZag
+0 s: Thread Huffman is attempting to receive frame27 from ZigZag
+0 s: Thread Huffman has received frame27 from ZigZag
+0 s: Thread Huffman is attempting to receive frame28 from ZigZag
+0 s: Thread DCT has received frame32 from Read BMP
+0 s: Thread DCT is attempting to send frame32 to Quantize
+0 s: Thread DCT has sent frame32 to Quantize
+0 s: Thread DCT is attempting to receive frame33 from Read BMP
+0 s: Thread DCT has received frame33 from Read BMP
+0 s: Thread DCT is attempting to send frame33 to Quantize
+0 s: Thread DCT has sent frame33 to Quantize
+0 s: Thread DCT is attempting to receive frame34 from Read BMP
+0 s: Thread DCT has received frame34 from Read BMP
+0 s: Thread DCT is attempting to send frame34 to Quantize
+0 s: Thread DCT has sent frame34 to Quantize
+0 s: Thread DCT is attempting to receive frame35 from Read BMP
+0 s: Thread DCT has received frame35 from Read BMP
+0 s: Thread DCT is attempting to send frame35 to Quantize
+0 s: Thread DCT has sent frame35 to Quantize
+0 s: Thread DCT is attempting to receive frame36 from Read BMP
+0 s: Thread ZigZag has received frame28 from Quantize
+0 s: Thread ZigZag is attempting to send frame28 to Huffman
+0 s: Thread ZigZag has sent frame28 to Huffman
+0 s: Thread ZigZag is attempting to receive frame29 from Quantize
+0 s: Thread ZigZag has received frame29 from Quantize
+0 s: Thread ZigZag is attempting to send frame29 to Huffman
+0 s: Thread ZigZag has sent frame29 to Huffman
+0 s: Thread ZigZag is attempting to receive frame30 from Quantize
+0 s: Thread ZigZag has received frame30 from Quantize
+0 s: Thread ZigZag is attempting to send frame30 to Huffman
+0 s: Thread ZigZag has sent frame30 to Huffman
+0 s: Thread ZigZag is attempting to receive frame31 from Quantize
+0 s: Thread ZigZag has received frame31 from Quantize
+0 s: Thread ZigZag is attempting to send frame31 to Huffman
+0 s: Thread ZigZag has sent frame31 to Huffman
+0 s: Thread ZigZag is attempting to receive frame32 from Quantize
+0 s: Thread Read BMP has sent frame36 to DCT
+0 s: Thread Read BMP attempting to send frame37 to DCT
+0 s: Thread Read BMP has sent frame37 to DCT
+0 s: Thread Read BMP attempting to send frame38 to DCT
+0 s: Thread Read BMP has sent frame38 to DCT
+0 s: Thread Read BMP attempting to send frame39 to DCT
+0 s: Thread Read BMP has sent frame39 to DCT
+0 s: Thread Read BMP attempting to send frame40 to DCT
+0 s: Thread Quantize has received frame32 from DCT
+0 s: Thread Quantize is attempting to send frame32 to ZigZag
+0 s: Thread Quantize has sent frame32 to ZigZag
+0 s: Thread Quantize is attempting to receive frame33 from DCT
+0 s: Thread Quantize has received frame33 from DCT
+0 s: Thread Quantize is attempting to send frame33 to ZigZag
+0 s: Thread Quantize has sent frame33 to ZigZag
+0 s: Thread Quantize is attempting to receive frame34 from DCT
+0 s: Thread Quantize has received frame34 from DCT
+0 s: Thread Quantize is attempting to send frame34 to ZigZag
+0 s: Thread Quantize has sent frame34 to ZigZag
+0 s: Thread Quantize is attempting to receive frame35 from DCT
+0 s: Thread Quantize has received frame35 from DCT
+0 s: Thread Quantize is attempting to send frame35 to ZigZag
+0 s: Thread Quantize has sent frame35 to ZigZag
+0 s: Thread Quantize is attempting to receive frame36 from DCT
+0 s: Thread Huffman has received frame28 from ZigZag
+0 s: Thread Huffman is attempting to receive frame29 from ZigZag
+0 s: Thread Huffman has received frame29 from ZigZag
+0 s: Thread Huffman is attempting to receive frame30 from ZigZag
+0 s: Thread Huffman has received frame30 from ZigZag
+0 s: Thread Huffman is attempting to receive frame31 from ZigZag
+0 s: Thread Huffman has received frame31 from ZigZag
+0 s: Thread Huffman is attempting to receive frame32 from ZigZag
+0 s: Thread DCT has received frame36 from Read BMP
+0 s: Thread DCT is attempting to send frame36 to Quantize
+0 s: Thread DCT has sent frame36 to Quantize
+0 s: Thread DCT is attempting to receive frame37 from Read BMP
+0 s: Thread DCT has received frame37 from Read BMP
+0 s: Thread DCT is attempting to send frame37 to Quantize
+0 s: Thread DCT has sent frame37 to Quantize
+0 s: Thread DCT is attempting to receive frame38 from Read BMP
+0 s: Thread DCT has received frame38 from Read BMP
+0 s: Thread DCT is attempting to send frame38 to Quantize
+0 s: Thread DCT has sent frame38 to Quantize
+0 s: Thread DCT is attempting to receive frame39 from Read BMP
+0 s: Thread DCT has received frame39 from Read BMP
+0 s: Thread DCT is attempting to send frame39 to Quantize
+0 s: Thread DCT has sent frame39 to Quantize
+0 s: Thread DCT is attempting to receive frame40 from Read BMP
+0 s: Thread ZigZag has received frame32 from Quantize
+0 s: Thread ZigZag is attempting to send frame32 to Huffman
+0 s: Thread ZigZag has sent frame32 to Huffman
+0 s: Thread ZigZag is attempting to receive frame33 from Quantize
+0 s: Thread ZigZag has received frame33 from Quantize
+0 s: Thread ZigZag is attempting to send frame33 to Huffman
+0 s: Thread ZigZag has sent frame33 to Huffman
+0 s: Thread ZigZag is attempting to receive frame34 from Quantize
+0 s: Thread ZigZag has received frame34 from Quantize
+0 s: Thread ZigZag is attempting to send frame34 to Huffman
+0 s: Thread ZigZag has sent frame34 to Huffman
+0 s: Thread ZigZag is attempting to receive frame35 from Quantize
+0 s: Thread ZigZag has received frame35 from Quantize
+0 s: Thread ZigZag is attempting to send frame35 to Huffman
+0 s: Thread ZigZag has sent frame35 to Huffman
+0 s: Thread ZigZag is attempting to receive frame36 from Quantize
+0 s: Thread Read BMP has sent frame40 to DCT
+0 s: Thread Read BMP attempting to send frame41 to DCT
+0 s: Thread Read BMP has sent frame41 to DCT
+0 s: Thread Read BMP attempting to send frame42 to DCT
+0 s: Thread Read BMP has sent frame42 to DCT
+0 s: Thread Read BMP attempting to send frame43 to DCT
+0 s: Thread Read BMP has sent frame43 to DCT
+0 s: Thread Read BMP attempting to send frame44 to DCT
+0 s: Thread Quantize has received frame36 from DCT
+0 s: Thread Quantize is attempting to send frame36 to ZigZag
+0 s: Thread Quantize has sent frame36 to ZigZag
+0 s: Thread Quantize is attempting to receive frame37 from DCT
+0 s: Thread Quantize has received frame37 from DCT
+0 s: Thread Quantize is attempting to send frame37 to ZigZag
+0 s: Thread Quantize has sent frame37 to ZigZag
+0 s: Thread Quantize is attempting to receive frame38 from DCT
+0 s: Thread Quantize has received frame38 from DCT
+0 s: Thread Quantize is attempting to send frame38 to ZigZag
+0 s: Thread Quantize has sent frame38 to ZigZag
+0 s: Thread Quantize is attempting to receive frame39 from DCT
+0 s: Thread Quantize has received frame39 from DCT
+0 s: Thread Quantize is attempting to send frame39 to ZigZag
+0 s: Thread Quantize has sent frame39 to ZigZag
+0 s: Thread Quantize is attempting to receive frame40 from DCT
+0 s: Thread Huffman has received frame32 from ZigZag
+0 s: Thread Huffman is attempting to receive frame33 from ZigZag
+0 s: Thread Huffman has received frame33 from ZigZag
+0 s: Thread Huffman is attempting to receive frame34 from ZigZag
+0 s: Thread Huffman has received frame34 from ZigZag
+0 s: Thread Huffman is attempting to receive frame35 from ZigZag
+0 s: Thread Huffman has received frame35 from ZigZag
+0 s: Thread Huffman is attempting to receive frame36 from ZigZag
+0 s: Thread DCT has received frame40 from Read BMP
+0 s: Thread DCT is attempting to send frame40 to Quantize
+0 s: Thread DCT has sent frame40 to Quantize
+0 s: Thread DCT is attempting to receive frame41 from Read BMP
+0 s: Thread DCT has received frame41 from Read BMP
+0 s: Thread DCT is attempting to send frame41 to Quantize
+0 s: Thread DCT has sent frame41 to Quantize
+0 s: Thread DCT is attempting to receive frame42 from Read BMP
+0 s: Thread DCT has received frame42 from Read BMP
+0 s: Thread DCT is attempting to send frame42 to Quantize
+0 s: Thread DCT has sent frame42 to Quantize
+0 s: Thread DCT is attempting to receive frame43 from Read BMP
+0 s: Thread DCT has received frame43 from Read BMP
+0 s: Thread DCT is attempting to send frame43 to Quantize
+0 s: Thread DCT has sent frame43 to Quantize
+0 s: Thread DCT is attempting to receive frame44 from Read BMP
+0 s: Thread ZigZag has received frame36 from Quantize
+0 s: Thread ZigZag is attempting to send frame36 to Huffman
+0 s: Thread ZigZag has sent frame36 to Huffman
+0 s: Thread ZigZag is attempting to receive frame37 from Quantize
+0 s: Thread ZigZag has received frame37 from Quantize
+0 s: Thread ZigZag is attempting to send frame37 to Huffman
+0 s: Thread ZigZag has sent frame37 to Huffman
+0 s: Thread ZigZag is attempting to receive frame38 from Quantize
+0 s: Thread ZigZag has received frame38 from Quantize
+0 s: Thread ZigZag is attempting to send frame38 to Huffman
+0 s: Thread ZigZag has sent frame38 to Huffman
+0 s: Thread ZigZag is attempting to receive frame39 from Quantize
+0 s: Thread ZigZag has received frame39 from Quantize
+0 s: Thread ZigZag is attempting to send frame39 to Huffman
+0 s: Thread ZigZag has sent frame39 to Huffman
+0 s: Thread ZigZag is attempting to receive frame40 from Quantize
+0 s: Thread Read BMP has sent frame44 to DCT
+0 s: Thread Read BMP attempting to send frame45 to DCT
+0 s: Thread Read BMP has sent frame45 to DCT
+0 s: Thread Read BMP attempting to send frame46 to DCT
+0 s: Thread Read BMP has sent frame46 to DCT
+0 s: Thread Read BMP attempting to send frame47 to DCT
+0 s: Thread Read BMP has sent frame47 to DCT
+0 s: Thread Read BMP attempting to send frame48 to DCT
+0 s: Thread Quantize has received frame40 from DCT
+0 s: Thread Quantize is attempting to send frame40 to ZigZag
+0 s: Thread Quantize has sent frame40 to ZigZag
+0 s: Thread Quantize is attempting to receive frame41 from DCT
+0 s: Thread Quantize has received frame41 from DCT
+0 s: Thread Quantize is attempting to send frame41 to ZigZag
+0 s: Thread Quantize has sent frame41 to ZigZag
+0 s: Thread Quantize is attempting to receive frame42 from DCT
+0 s: Thread Quantize has received frame42 from DCT
+0 s: Thread Quantize is attempting to send frame42 to ZigZag
+0 s: Thread Quantize has sent frame42 to ZigZag
+0 s: Thread Quantize is attempting to receive frame43 from DCT
+0 s: Thread Quantize has received frame43 from DCT
+0 s: Thread Quantize is attempting to send frame43 to ZigZag
+0 s: Thread Quantize has sent frame43 to ZigZag
+0 s: Thread Quantize is attempting to receive frame44 from DCT
+0 s: Thread Huffman has received frame36 from ZigZag
+0 s: Thread Huffman is attempting to receive frame37 from ZigZag
+0 s: Thread Huffman has received frame37 from ZigZag
+0 s: Thread Huffman is attempting to receive frame38 from ZigZag
+0 s: Thread Huffman has received frame38 from ZigZag
+0 s: Thread Huffman is attempting to receive frame39 from ZigZag
+0 s: Thread Huffman has received frame39 from ZigZag
+0 s: Thread Huffman is attempting to receive frame40 from ZigZag
+0 s: Thread DCT has received frame44 from Read BMP
+0 s: Thread DCT is attempting to send frame44 to Quantize
+0 s: Thread DCT has sent frame44 to Quantize
+0 s: Thread DCT is attempting to receive frame45 from Read BMP
+0 s: Thread DCT has received frame45 from Read BMP
+0 s: Thread DCT is attempting to send frame45 to Quantize
+0 s: Thread DCT has sent frame45 to Quantize
+0 s: Thread DCT is attempting to receive frame46 from Read BMP
+0 s: Thread DCT has received frame46 from Read BMP
+0 s: Thread DCT is attempting to send frame46 to Quantize
+0 s: Thread DCT has sent frame46 to Quantize
+0 s: Thread DCT is attempting to receive frame47 from Read BMP
+0 s: Thread DCT has received frame47 from Read BMP
+0 s: Thread DCT is attempting to send frame47 to Quantize
+0 s: Thread DCT has sent frame47 to Quantize
+0 s: Thread DCT is attempting to receive frame48 from Read BMP
+0 s: Thread ZigZag has received frame40 from Quantize
+0 s: Thread ZigZag is attempting to send frame40 to Huffman
+0 s: Thread ZigZag has sent frame40 to Huffman
+0 s: Thread ZigZag is attempting to receive frame41 from Quantize
+0 s: Thread ZigZag has received frame41 from Quantize
+0 s: Thread ZigZag is attempting to send frame41 to Huffman
+0 s: Thread ZigZag has sent frame41 to Huffman
+0 s: Thread ZigZag is attempting to receive frame42 from Quantize
+0 s: Thread ZigZag has received frame42 from Quantize
+0 s: Thread ZigZag is attempting to send frame42 to Huffman
+0 s: Thread ZigZag has sent frame42 to Huffman
+0 s: Thread ZigZag is attempting to receive frame43 from Quantize
+0 s: Thread ZigZag has received frame43 from Quantize
+0 s: Thread ZigZag is attempting to send frame43 to Huffman
+0 s: Thread ZigZag has sent frame43 to Huffman
+0 s: Thread ZigZag is attempting to receive frame44 from Quantize
+0 s: Thread Read BMP has sent frame48 to DCT
+0 s: Thread Read BMP attempting to send frame49 to DCT
+0 s: Thread Read BMP has sent frame49 to DCT
+0 s: Thread Read BMP attempting to send frame50 to DCT
+0 s: Thread Read BMP has sent frame50 to DCT
+0 s: Thread Read BMP attempting to send frame51 to DCT
+0 s: Thread Read BMP has sent frame51 to DCT
+0 s: Thread Read BMP attempting to send frame52 to DCT
+0 s: Thread Quantize has received frame44 from DCT
+0 s: Thread Quantize is attempting to send frame44 to ZigZag
+0 s: Thread Quantize has sent frame44 to ZigZag
+0 s: Thread Quantize is attempting to receive frame45 from DCT
+0 s: Thread Quantize has received frame45 from DCT
+0 s: Thread Quantize is attempting to send frame45 to ZigZag
+0 s: Thread Quantize has sent frame45 to ZigZag
+0 s: Thread Quantize is attempting to receive frame46 from DCT
+0 s: Thread Quantize has received frame46 from DCT
+0 s: Thread Quantize is attempting to send frame46 to ZigZag
+0 s: Thread Quantize has sent frame46 to ZigZag
+0 s: Thread Quantize is attempting to receive frame47 from DCT
+0 s: Thread Quantize has received frame47 from DCT
+0 s: Thread Quantize is attempting to send frame47 to ZigZag
+0 s: Thread Quantize has sent frame47 to ZigZag
+0 s: Thread Quantize is attempting to receive frame48 from DCT
+0 s: Thread Huffman has received frame40 from ZigZag
+0 s: Thread Huffman is attempting to receive frame41 from ZigZag
+0 s: Thread Huffman has received frame41 from ZigZag
+0 s: Thread Huffman is attempting to receive frame42 from ZigZag
+0 s: Thread Huffman has received frame42 from ZigZag
+0 s: Thread Huffman is attempting to receive frame43 from ZigZag
+0 s: Thread Huffman has received frame43 from ZigZag
+0 s: Thread Huffman is attempting to receive frame44 from ZigZag
+0 s: Thread DCT has received frame48 from Read BMP
+0 s: Thread DCT is attempting to send frame48 to Quantize
+0 s: Thread DCT has sent frame48 to Quantize
+0 s: Thread DCT is attempting to receive frame49 from Read BMP
+0 s: Thread DCT has received frame49 from Read BMP
+0 s: Thread DCT is attempting to send frame49 to Quantize
+0 s: Thread DCT has sent frame49 to Quantize
+0 s: Thread DCT is attempting to receive frame50 from Read BMP
+0 s: Thread DCT has received frame50 from Read BMP
+0 s: Thread DCT is attempting to send frame50 to Quantize
+0 s: Thread DCT has sent frame50 to Quantize
+0 s: Thread DCT is attempting to receive frame51 from Read BMP
+0 s: Thread DCT has received frame51 from Read BMP
+0 s: Thread DCT is attempting to send frame51 to Quantize
+0 s: Thread DCT has sent frame51 to Quantize
+0 s: Thread DCT is attempting to receive frame52 from Read BMP
+0 s: Thread ZigZag has received frame44 from Quantize
+0 s: Thread ZigZag is attempting to send frame44 to Huffman
+0 s: Thread ZigZag has sent frame44 to Huffman
+0 s: Thread ZigZag is attempting to receive frame45 from Quantize
+0 s: Thread ZigZag has received frame45 from Quantize
+0 s: Thread ZigZag is attempting to send frame45 to Huffman
+0 s: Thread ZigZag has sent frame45 to Huffman
+0 s: Thread ZigZag is attempting to receive frame46 from Quantize
+0 s: Thread ZigZag has received frame46 from Quantize
+0 s: Thread ZigZag is attempting to send frame46 to Huffman
+0 s: Thread ZigZag has sent frame46 to Huffman
+0 s: Thread ZigZag is attempting to receive frame47 from Quantize
+0 s: Thread ZigZag has received frame47 from Quantize
+0 s: Thread ZigZag is attempting to send frame47 to Huffman
+0 s: Thread ZigZag has sent frame47 to Huffman
+0 s: Thread ZigZag is attempting to receive frame48 from Quantize
+0 s: Thread Read BMP has sent frame52 to DCT
+0 s: Thread Read BMP attempting to send frame53 to DCT
+0 s: Thread Read BMP has sent frame53 to DCT
+0 s: Thread Read BMP attempting to send frame54 to DCT
+0 s: Thread Read BMP has sent frame54 to DCT
+0 s: Thread Read BMP attempting to send frame55 to DCT
+0 s: Thread Read BMP has sent frame55 to DCT
+0 s: Thread Read BMP attempting to send frame56 to DCT
+0 s: Thread Quantize has received frame48 from DCT
+0 s: Thread Quantize is attempting to send frame48 to ZigZag
+0 s: Thread Quantize has sent frame48 to ZigZag
+0 s: Thread Quantize is attempting to receive frame49 from DCT
+0 s: Thread Quantize has received frame49 from DCT
+0 s: Thread Quantize is attempting to send frame49 to ZigZag
+0 s: Thread Quantize has sent frame49 to ZigZag
+0 s: Thread Quantize is attempting to receive frame50 from DCT
+0 s: Thread Quantize has received frame50 from DCT
+0 s: Thread Quantize is attempting to send frame50 to ZigZag
+0 s: Thread Quantize has sent frame50 to ZigZag
+0 s: Thread Quantize is attempting to receive frame51 from DCT
+0 s: Thread Quantize has received frame51 from DCT
+0 s: Thread Quantize is attempting to send frame51 to ZigZag
+0 s: Thread Quantize has sent frame51 to ZigZag
+0 s: Thread Quantize is attempting to receive frame52 from DCT
+0 s: Thread Huffman has received frame44 from ZigZag
+0 s: Thread Huffman is attempting to receive frame45 from ZigZag
+0 s: Thread Huffman has received frame45 from ZigZag
+0 s: Thread Huffman is attempting to receive frame46 from ZigZag
+0 s: Thread Huffman has received frame46 from ZigZag
+0 s: Thread Huffman is attempting to receive frame47 from ZigZag
+0 s: Thread Huffman has received frame47 from ZigZag
+0 s: Thread Huffman is attempting to receive frame48 from ZigZag
+0 s: Thread DCT has received frame52 from Read BMP
+0 s: Thread DCT is attempting to send frame52 to Quantize
+0 s: Thread DCT has sent frame52 to Quantize
+0 s: Thread DCT is attempting to receive frame53 from Read BMP
+0 s: Thread DCT has received frame53 from Read BMP
+0 s: Thread DCT is attempting to send frame53 to Quantize
+0 s: Thread DCT has sent frame53 to Quantize
+0 s: Thread DCT is attempting to receive frame54 from Read BMP
+0 s: Thread DCT has received frame54 from Read BMP
+0 s: Thread DCT is attempting to send frame54 to Quantize
+0 s: Thread DCT has sent frame54 to Quantize
+0 s: Thread DCT is attempting to receive frame55 from Read BMP
+0 s: Thread DCT has received frame55 from Read BMP
+0 s: Thread DCT is attempting to send frame55 to Quantize
+0 s: Thread DCT has sent frame55 to Quantize
+0 s: Thread DCT is attempting to receive frame56 from Read BMP
+0 s: Thread ZigZag has received frame48 from Quantize
+0 s: Thread ZigZag is attempting to send frame48 to Huffman
+0 s: Thread ZigZag has sent frame48 to Huffman
+0 s: Thread ZigZag is attempting to receive frame49 from Quantize
+0 s: Thread ZigZag has received frame49 from Quantize
+0 s: Thread ZigZag is attempting to send frame49 to Huffman
+0 s: Thread ZigZag has sent frame49 to Huffman
+0 s: Thread ZigZag is attempting to receive frame50 from Quantize
+0 s: Thread ZigZag has received frame50 from Quantize
+0 s: Thread ZigZag is attempting to send frame50 to Huffman
+0 s: Thread ZigZag has sent frame50 to Huffman
+0 s: Thread ZigZag is attempting to receive frame51 from Quantize
+0 s: Thread ZigZag has received frame51 from Quantize
+0 s: Thread ZigZag is attempting to send frame51 to Huffman
+0 s: Thread ZigZag has sent frame51 to Huffman
+0 s: Thread ZigZag is attempting to receive frame52 from Quantize
+0 s: Thread Read BMP has sent frame56 to DCT
+0 s: Thread Read BMP attempting to send frame57 to DCT
+0 s: Thread Read BMP has sent frame57 to DCT
+0 s: Thread Read BMP attempting to send frame58 to DCT
+0 s: Thread Read BMP has sent frame58 to DCT
+0 s: Thread Read BMP attempting to send frame59 to DCT
+0 s: Thread Read BMP has sent frame59 to DCT
+0 s: Thread Read BMP attempting to send frame60 to DCT
+0 s: Thread Quantize has received frame52 from DCT
+0 s: Thread Quantize is attempting to send frame52 to ZigZag
+0 s: Thread Quantize has sent frame52 to ZigZag
+0 s: Thread Quantize is attempting to receive frame53 from DCT
+0 s: Thread Quantize has received frame53 from DCT
+0 s: Thread Quantize is attempting to send frame53 to ZigZag
+0 s: Thread Quantize has sent frame53 to ZigZag
+0 s: Thread Quantize is attempting to receive frame54 from DCT
+0 s: Thread Quantize has received frame54 from DCT
+0 s: Thread Quantize is attempting to send frame54 to ZigZag
+0 s: Thread Quantize has sent frame54 to ZigZag
+0 s: Thread Quantize is attempting to receive frame55 from DCT
+0 s: Thread Quantize has received frame55 from DCT
+0 s: Thread Quantize is attempting to send frame55 to ZigZag
+0 s: Thread Quantize has sent frame55 to ZigZag
+0 s: Thread Quantize is attempting to receive frame56 from DCT
+0 s: Thread Huffman has received frame48 from ZigZag
+0 s: Thread Huffman is attempting to receive frame49 from ZigZag
+0 s: Thread Huffman has received frame49 from ZigZag
+0 s: Thread Huffman is attempting to receive frame50 from ZigZag
+0 s: Thread Huffman has received frame50 from ZigZag
+0 s: Thread Huffman is attempting to receive frame51 from ZigZag
+0 s: Thread Huffman has received frame51 from ZigZag
+0 s: Thread Huffman is attempting to receive frame52 from ZigZag
+0 s: Thread DCT has received frame56 from Read BMP
+0 s: Thread DCT is attempting to send frame56 to Quantize
+0 s: Thread DCT has sent frame56 to Quantize
+0 s: Thread DCT is attempting to receive frame57 from Read BMP
+0 s: Thread DCT has received frame57 from Read BMP
+0 s: Thread DCT is attempting to send frame57 to Quantize
+0 s: Thread DCT has sent frame57 to Quantize
+0 s: Thread DCT is attempting to receive frame58 from Read BMP
+0 s: Thread DCT has received frame58 from Read BMP
+0 s: Thread DCT is attempting to send frame58 to Quantize
+0 s: Thread DCT has sent frame58 to Quantize
+0 s: Thread DCT is attempting to receive frame59 from Read BMP
+0 s: Thread DCT has received frame59 from Read BMP
+0 s: Thread DCT is attempting to send frame59 to Quantize
+0 s: Thread DCT has sent frame59 to Quantize
+0 s: Thread DCT is attempting to receive frame60 from Read BMP
+0 s: Thread ZigZag has received frame52 from Quantize
+0 s: Thread ZigZag is attempting to send frame52 to Huffman
+0 s: Thread ZigZag has sent frame52 to Huffman
+0 s: Thread ZigZag is attempting to receive frame53 from Quantize
+0 s: Thread ZigZag has received frame53 from Quantize
+0 s: Thread ZigZag is attempting to send frame53 to Huffman
+0 s: Thread ZigZag has sent frame53 to Huffman
+0 s: Thread ZigZag is attempting to receive frame54 from Quantize
+0 s: Thread ZigZag has received frame54 from Quantize
+0 s: Thread ZigZag is attempting to send frame54 to Huffman
+0 s: Thread ZigZag has sent frame54 to Huffman
+0 s: Thread ZigZag is attempting to receive frame55 from Quantize
+0 s: Thread ZigZag has received frame55 from Quantize
+0 s: Thread ZigZag is attempting to send frame55 to Huffman
+0 s: Thread ZigZag has sent frame55 to Huffman
+0 s: Thread ZigZag is attempting to receive frame56 from Quantize
+0 s: Thread Read BMP has sent frame60 to DCT
+0 s: Thread Read BMP attempting to send frame61 to DCT
+0 s: Thread Read BMP has sent frame61 to DCT
+0 s: Thread Read BMP attempting to send frame62 to DCT
+0 s: Thread Read BMP has sent frame62 to DCT
+0 s: Thread Read BMP attempting to send frame63 to DCT
+0 s: Thread Read BMP has sent frame63 to DCT
+0 s: Thread Read BMP attempting to send frame64 to DCT
+0 s: Thread Quantize has received frame56 from DCT
+0 s: Thread Quantize is attempting to send frame56 to ZigZag
+0 s: Thread Quantize has sent frame56 to ZigZag
+0 s: Thread Quantize is attempting to receive frame57 from DCT
+0 s: Thread Quantize has received frame57 from DCT
+0 s: Thread Quantize is attempting to send frame57 to ZigZag
+0 s: Thread Quantize has sent frame57 to ZigZag
+0 s: Thread Quantize is attempting to receive frame58 from DCT
+0 s: Thread Quantize has received frame58 from DCT
+0 s: Thread Quantize is attempting to send frame58 to ZigZag
+0 s: Thread Quantize has sent frame58 to ZigZag
+0 s: Thread Quantize is attempting to receive frame59 from DCT
+0 s: Thread Quantize has received frame59 from DCT
+0 s: Thread Quantize is attempting to send frame59 to ZigZag
+0 s: Thread Quantize has sent frame59 to ZigZag
+0 s: Thread Quantize is attempting to receive frame60 from DCT
+0 s: Thread Huffman has received frame52 from ZigZag
+0 s: Thread Huffman is attempting to receive frame53 from ZigZag
+0 s: Thread Huffman has received frame53 from ZigZag
+0 s: Thread Huffman is attempting to receive frame54 from ZigZag
+0 s: Thread Huffman has received frame54 from ZigZag
+0 s: Thread Huffman is attempting to receive frame55 from ZigZag
+0 s: Thread Huffman has received frame55 from ZigZag
+0 s: Thread Huffman is attempting to receive frame56 from ZigZag
+0 s: Thread DCT has received frame60 from Read BMP
+0 s: Thread DCT is attempting to send frame60 to Quantize
+0 s: Thread DCT has sent frame60 to Quantize
+0 s: Thread DCT is attempting to receive frame61 from Read BMP
+0 s: Thread DCT has received frame61 from Read BMP
+0 s: Thread DCT is attempting to send frame61 to Quantize
+0 s: Thread DCT has sent frame61 to Quantize
+0 s: Thread DCT is attempting to receive frame62 from Read BMP
+0 s: Thread DCT has received frame62 from Read BMP
+0 s: Thread DCT is attempting to send frame62 to Quantize
+0 s: Thread DCT has sent frame62 to Quantize
+0 s: Thread DCT is attempting to receive frame63 from Read BMP
+0 s: Thread DCT has received frame63 from Read BMP
+0 s: Thread DCT is attempting to send frame63 to Quantize
+0 s: Thread DCT has sent frame63 to Quantize
+0 s: Thread DCT is attempting to receive frame64 from Read BMP
+0 s: Thread ZigZag has received frame56 from Quantize
+0 s: Thread ZigZag is attempting to send frame56 to Huffman
+0 s: Thread ZigZag has sent frame56 to Huffman
+0 s: Thread ZigZag is attempting to receive frame57 from Quantize
+0 s: Thread ZigZag has received frame57 from Quantize
+0 s: Thread ZigZag is attempting to send frame57 to Huffman
+0 s: Thread ZigZag has sent frame57 to Huffman
+0 s: Thread ZigZag is attempting to receive frame58 from Quantize
+0 s: Thread ZigZag has received frame58 from Quantize
+0 s: Thread ZigZag is attempting to send frame58 to Huffman
+0 s: Thread ZigZag has sent frame58 to Huffman
+0 s: Thread ZigZag is attempting to receive frame59 from Quantize
+0 s: Thread ZigZag has received frame59 from Quantize
+0 s: Thread ZigZag is attempting to send frame59 to Huffman
+0 s: Thread ZigZag has sent frame59 to Huffman
+0 s: Thread ZigZag is attempting to receive frame60 from Quantize
+0 s: Thread Read BMP has sent frame64 to DCT
+0 s: Thread Read BMP attempting to send frame65 to DCT
+0 s: Thread Read BMP has sent frame65 to DCT
+0 s: Thread Read BMP attempting to send frame66 to DCT
+0 s: Thread Read BMP has sent frame66 to DCT
+0 s: Thread Read BMP attempting to send frame67 to DCT
+0 s: Thread Read BMP has sent frame67 to DCT
+0 s: Thread Read BMP attempting to send frame68 to DCT
+0 s: Thread Quantize has received frame60 from DCT
+0 s: Thread Quantize is attempting to send frame60 to ZigZag
+0 s: Thread Quantize has sent frame60 to ZigZag
+0 s: Thread Quantize is attempting to receive frame61 from DCT
+0 s: Thread Quantize has received frame61 from DCT
+0 s: Thread Quantize is attempting to send frame61 to ZigZag
+0 s: Thread Quantize has sent frame61 to ZigZag
+0 s: Thread Quantize is attempting to receive frame62 from DCT
+0 s: Thread Quantize has received frame62 from DCT
+0 s: Thread Quantize is attempting to send frame62 to ZigZag
+0 s: Thread Quantize has sent frame62 to ZigZag
+0 s: Thread Quantize is attempting to receive frame63 from DCT
+0 s: Thread Quantize has received frame63 from DCT
+0 s: Thread Quantize is attempting to send frame63 to ZigZag
+0 s: Thread Quantize has sent frame63 to ZigZag
+0 s: Thread Quantize is attempting to receive frame64 from DCT
+0 s: Thread Huffman has received frame56 from ZigZag
+0 s: Thread Huffman is attempting to receive frame57 from ZigZag
+0 s: Thread Huffman has received frame57 from ZigZag
+0 s: Thread Huffman is attempting to receive frame58 from ZigZag
+0 s: Thread Huffman has received frame58 from ZigZag
+0 s: Thread Huffman is attempting to receive frame59 from ZigZag
+0 s: Thread Huffman has received frame59 from ZigZag
+0 s: Thread Huffman is attempting to receive frame60 from ZigZag
+0 s: Thread DCT has received frame64 from Read BMP
+0 s: Thread DCT is attempting to send frame64 to Quantize
+0 s: Thread DCT has sent frame64 to Quantize
+0 s: Thread DCT is attempting to receive frame65 from Read BMP
+0 s: Thread DCT has received frame65 from Read BMP
+0 s: Thread DCT is attempting to send frame65 to Quantize
+0 s: Thread DCT has sent frame65 to Quantize
+0 s: Thread DCT is attempting to receive frame66 from Read BMP
+0 s: Thread DCT has received frame66 from Read BMP
+0 s: Thread DCT is attempting to send frame66 to Quantize
+0 s: Thread DCT has sent frame66 to Quantize
+0 s: Thread DCT is attempting to receive frame67 from Read BMP
+0 s: Thread DCT has received frame67 from Read BMP
+0 s: Thread DCT is attempting to send frame67 to Quantize
+0 s: Thread DCT has sent frame67 to Quantize
+0 s: Thread DCT is attempting to receive frame68 from Read BMP
+0 s: Thread ZigZag has received frame60 from Quantize
+0 s: Thread ZigZag is attempting to send frame60 to Huffman
+0 s: Thread ZigZag has sent frame60 to Huffman
+0 s: Thread ZigZag is attempting to receive frame61 from Quantize
+0 s: Thread ZigZag has received frame61 from Quantize
+0 s: Thread ZigZag is attempting to send frame61 to Huffman
+0 s: Thread ZigZag has sent frame61 to Huffman
+0 s: Thread ZigZag is attempting to receive frame62 from Quantize
+0 s: Thread ZigZag has received frame62 from Quantize
+0 s: Thread ZigZag is attempting to send frame62 to Huffman
+0 s: Thread ZigZag has sent frame62 to Huffman
+0 s: Thread ZigZag is attempting to receive frame63 from Quantize
+0 s: Thread ZigZag has received frame63 from Quantize
+0 s: Thread ZigZag is attempting to send frame63 to Huffman
+0 s: Thread ZigZag has sent frame63 to Huffman
+0 s: Thread ZigZag is attempting to receive frame64 from Quantize
+0 s: Thread Read BMP has sent frame68 to DCT
+0 s: Thread Read BMP attempting to send frame69 to DCT
+0 s: Thread Read BMP has sent frame69 to DCT
+0 s: Thread Read BMP attempting to send frame70 to DCT
+0 s: Thread Read BMP has sent frame70 to DCT
+0 s: Thread Read BMP attempting to send frame71 to DCT
+0 s: Thread Read BMP has sent frame71 to DCT
+0 s: Thread Read BMP attempting to send frame72 to DCT
+0 s: Thread Quantize has received frame64 from DCT
+0 s: Thread Quantize is attempting to send frame64 to ZigZag
+0 s: Thread Quantize has sent frame64 to ZigZag
+0 s: Thread Quantize is attempting to receive frame65 from DCT
+0 s: Thread Quantize has received frame65 from DCT
+0 s: Thread Quantize is attempting to send frame65 to ZigZag
+0 s: Thread Quantize has sent frame65 to ZigZag
+0 s: Thread Quantize is attempting to receive frame66 from DCT
+0 s: Thread Quantize has received frame66 from DCT
+0 s: Thread Quantize is attempting to send frame66 to ZigZag
+0 s: Thread Quantize has sent frame66 to ZigZag
+0 s: Thread Quantize is attempting to receive frame67 from DCT
+0 s: Thread Quantize has received frame67 from DCT
+0 s: Thread Quantize is attempting to send frame67 to ZigZag
+0 s: Thread Quantize has sent frame67 to ZigZag
+0 s: Thread Quantize is attempting to receive frame68 from DCT
+0 s: Thread Huffman has received frame60 from ZigZag
+0 s: Thread Huffman is attempting to receive frame61 from ZigZag
+0 s: Thread Huffman has received frame61 from ZigZag
+0 s: Thread Huffman is attempting to receive frame62 from ZigZag
+0 s: Thread Huffman has received frame62 from ZigZag
+0 s: Thread Huffman is attempting to receive frame63 from ZigZag
+0 s: Thread Huffman has received frame63 from ZigZag
+0 s: Thread Huffman is attempting to receive frame64 from ZigZag
+0 s: Thread DCT has received frame68 from Read BMP
+0 s: Thread DCT is attempting to send frame68 to Quantize
+0 s: Thread DCT has sent frame68 to Quantize
+0 s: Thread DCT is attempting to receive frame69 from Read BMP
+0 s: Thread DCT has received frame69 from Read BMP
+0 s: Thread DCT is attempting to send frame69 to Quantize
+0 s: Thread DCT has sent frame69 to Quantize
+0 s: Thread DCT is attempting to receive frame70 from Read BMP
+0 s: Thread DCT has received frame70 from Read BMP
+0 s: Thread DCT is attempting to send frame70 to Quantize
+0 s: Thread DCT has sent frame70 to Quantize
+0 s: Thread DCT is attempting to receive frame71 from Read BMP
+0 s: Thread DCT has received frame71 from Read BMP
+0 s: Thread DCT is attempting to send frame71 to Quantize
+0 s: Thread DCT has sent frame71 to Quantize
+0 s: Thread DCT is attempting to receive frame72 from Read BMP
+0 s: Thread ZigZag has received frame64 from Quantize
+0 s: Thread ZigZag is attempting to send frame64 to Huffman
+0 s: Thread ZigZag has sent frame64 to Huffman
+0 s: Thread ZigZag is attempting to receive frame65 from Quantize
+0 s: Thread ZigZag has received frame65 from Quantize
+0 s: Thread ZigZag is attempting to send frame65 to Huffman
+0 s: Thread ZigZag has sent frame65 to Huffman
+0 s: Thread ZigZag is attempting to receive frame66 from Quantize
+0 s: Thread ZigZag has received frame66 from Quantize
+0 s: Thread ZigZag is attempting to send frame66 to Huffman
+0 s: Thread ZigZag has sent frame66 to Huffman
+0 s: Thread ZigZag is attempting to receive frame67 from Quantize
+0 s: Thread ZigZag has received frame67 from Quantize
+0 s: Thread ZigZag is attempting to send frame67 to Huffman
+0 s: Thread ZigZag has sent frame67 to Huffman
+0 s: Thread ZigZag is attempting to receive frame68 from Quantize
+0 s: Thread Read BMP has sent frame72 to DCT
+0 s: Thread Read BMP attempting to send frame73 to DCT
+0 s: Thread Read BMP has sent frame73 to DCT
+0 s: Thread Read BMP attempting to send frame74 to DCT
+0 s: Thread Read BMP has sent frame74 to DCT
+0 s: Thread Read BMP attempting to send frame75 to DCT
+0 s: Thread Read BMP has sent frame75 to DCT
+0 s: Thread Read BMP attempting to send frame76 to DCT
+0 s: Thread Quantize has received frame68 from DCT
+0 s: Thread Quantize is attempting to send frame68 to ZigZag
+0 s: Thread Quantize has sent frame68 to ZigZag
+0 s: Thread Quantize is attempting to receive frame69 from DCT
+0 s: Thread Quantize has received frame69 from DCT
+0 s: Thread Quantize is attempting to send frame69 to ZigZag
+0 s: Thread Quantize has sent frame69 to ZigZag
+0 s: Thread Quantize is attempting to receive frame70 from DCT
+0 s: Thread Quantize has received frame70 from DCT
+0 s: Thread Quantize is attempting to send frame70 to ZigZag
+0 s: Thread Quantize has sent frame70 to ZigZag
+0 s: Thread Quantize is attempting to receive frame71 from DCT
+0 s: Thread Quantize has received frame71 from DCT
+0 s: Thread Quantize is attempting to send frame71 to ZigZag
+0 s: Thread Quantize has sent frame71 to ZigZag
+0 s: Thread Quantize is attempting to receive frame72 from DCT
+0 s: Thread Huffman has received frame64 from ZigZag
+0 s: Thread Huffman is attempting to receive frame65 from ZigZag
+0 s: Thread Huffman has received frame65 from ZigZag
+0 s: Thread Huffman is attempting to receive frame66 from ZigZag
+0 s: Thread Huffman has received frame66 from ZigZag
+0 s: Thread Huffman is attempting to receive frame67 from ZigZag
+0 s: Thread Huffman has received frame67 from ZigZag
+0 s: Thread Huffman is attempting to receive frame68 from ZigZag
+0 s: Thread DCT has received frame72 from Read BMP
+0 s: Thread DCT is attempting to send frame72 to Quantize
+0 s: Thread DCT has sent frame72 to Quantize
+0 s: Thread DCT is attempting to receive frame73 from Read BMP
+0 s: Thread DCT has received frame73 from Read BMP
+0 s: Thread DCT is attempting to send frame73 to Quantize
+0 s: Thread DCT has sent frame73 to Quantize
+0 s: Thread DCT is attempting to receive frame74 from Read BMP
+0 s: Thread DCT has received frame74 from Read BMP
+0 s: Thread DCT is attempting to send frame74 to Quantize
+0 s: Thread DCT has sent frame74 to Quantize
+0 s: Thread DCT is attempting to receive frame75 from Read BMP
+0 s: Thread DCT has received frame75 from Read BMP
+0 s: Thread DCT is attempting to send frame75 to Quantize
+0 s: Thread DCT has sent frame75 to Quantize
+0 s: Thread DCT is attempting to receive frame76 from Read BMP
+0 s: Thread ZigZag has received frame68 from Quantize
+0 s: Thread ZigZag is attempting to send frame68 to Huffman
+0 s: Thread ZigZag has sent frame68 to Huffman
+0 s: Thread ZigZag is attempting to receive frame69 from Quantize
+0 s: Thread ZigZag has received frame69 from Quantize
+0 s: Thread ZigZag is attempting to send frame69 to Huffman
+0 s: Thread ZigZag has sent frame69 to Huffman
+0 s: Thread ZigZag is attempting to receive frame70 from Quantize
+0 s: Thread ZigZag has received frame70 from Quantize
+0 s: Thread ZigZag is attempting to send frame70 to Huffman
+0 s: Thread ZigZag has sent frame70 to Huffman
+0 s: Thread ZigZag is attempting to receive frame71 from Quantize
+0 s: Thread ZigZag has received frame71 from Quantize
+0 s: Thread ZigZag is attempting to send frame71 to Huffman
+0 s: Thread ZigZag has sent frame71 to Huffman
+0 s: Thread ZigZag is attempting to receive frame72 from Quantize
+0 s: Thread Read BMP has sent frame76 to DCT
+0 s: Thread Read BMP attempting to send frame77 to DCT
+0 s: Thread Read BMP has sent frame77 to DCT
+0 s: Thread Read BMP attempting to send frame78 to DCT
+0 s: Thread Read BMP has sent frame78 to DCT
+0 s: Thread Read BMP attempting to send frame79 to DCT
+0 s: Thread Read BMP has sent frame79 to DCT
+0 s: Thread Read BMP attempting to send frame80 to DCT
+0 s: Thread Quantize has received frame72 from DCT
+0 s: Thread Quantize is attempting to send frame72 to ZigZag
+0 s: Thread Quantize has sent frame72 to ZigZag
+0 s: Thread Quantize is attempting to receive frame73 from DCT
+0 s: Thread Quantize has received frame73 from DCT
+0 s: Thread Quantize is attempting to send frame73 to ZigZag
+0 s: Thread Quantize has sent frame73 to ZigZag
+0 s: Thread Quantize is attempting to receive frame74 from DCT
+0 s: Thread Quantize has received frame74 from DCT
+0 s: Thread Quantize is attempting to send frame74 to ZigZag
+0 s: Thread Quantize has sent frame74 to ZigZag
+0 s: Thread Quantize is attempting to receive frame75 from DCT
+0 s: Thread Quantize has received frame75 from DCT
+0 s: Thread Quantize is attempting to send frame75 to ZigZag
+0 s: Thread Quantize has sent frame75 to ZigZag
+0 s: Thread Quantize is attempting to receive frame76 from DCT
+0 s: Thread Huffman has received frame68 from ZigZag
+0 s: Thread Huffman is attempting to receive frame69 from ZigZag
+0 s: Thread Huffman has received frame69 from ZigZag
+0 s: Thread Huffman is attempting to receive frame70 from ZigZag
+0 s: Thread Huffman has received frame70 from ZigZag
+0 s: Thread Huffman is attempting to receive frame71 from ZigZag
+0 s: Thread Huffman has received frame71 from ZigZag
+0 s: Thread Huffman is attempting to receive frame72 from ZigZag
+0 s: Thread DCT has received frame76 from Read BMP
+0 s: Thread DCT is attempting to send frame76 to Quantize
+0 s: Thread DCT has sent frame76 to Quantize
+0 s: Thread DCT is attempting to receive frame77 from Read BMP
+0 s: Thread DCT has received frame77 from Read BMP
+0 s: Thread DCT is attempting to send frame77 to Quantize
+0 s: Thread DCT has sent frame77 to Quantize
+0 s: Thread DCT is attempting to receive frame78 from Read BMP
+0 s: Thread DCT has received frame78 from Read BMP
+0 s: Thread DCT is attempting to send frame78 to Quantize
+0 s: Thread DCT has sent frame78 to Quantize
+0 s: Thread DCT is attempting to receive frame79 from Read BMP
+0 s: Thread DCT has received frame79 from Read BMP
+0 s: Thread DCT is attempting to send frame79 to Quantize
+0 s: Thread DCT has sent frame79 to Quantize
+0 s: Thread DCT is attempting to receive frame80 from Read BMP
+0 s: Thread ZigZag has received frame72 from Quantize
+0 s: Thread ZigZag is attempting to send frame72 to Huffman
+0 s: Thread ZigZag has sent frame72 to Huffman
+0 s: Thread ZigZag is attempting to receive frame73 from Quantize
+0 s: Thread ZigZag has received frame73 from Quantize
+0 s: Thread ZigZag is attempting to send frame73 to Huffman
+0 s: Thread ZigZag has sent frame73 to Huffman
+0 s: Thread ZigZag is attempting to receive frame74 from Quantize
+0 s: Thread ZigZag has received frame74 from Quantize
+0 s: Thread ZigZag is attempting to send frame74 to Huffman
+0 s: Thread ZigZag has sent frame74 to Huffman
+0 s: Thread ZigZag is attempting to receive frame75 from Quantize
+0 s: Thread ZigZag has received frame75 from Quantize
+0 s: Thread ZigZag is attempting to send frame75 to Huffman
+0 s: Thread ZigZag has sent frame75 to Huffman
+0 s: Thread ZigZag is attempting to receive frame76 from Quantize
+0 s: Thread Read BMP has sent frame80 to DCT
+0 s: Thread Read BMP attempting to send frame81 to DCT
+0 s: Thread Read BMP has sent frame81 to DCT
+0 s: Thread Read BMP attempting to send frame82 to DCT
+0 s: Thread Read BMP has sent frame82 to DCT
+0 s: Thread Read BMP attempting to send frame83 to DCT
+0 s: Thread Read BMP has sent frame83 to DCT
+0 s: Thread Read BMP attempting to send frame84 to DCT
+0 s: Thread Quantize has received frame76 from DCT
+0 s: Thread Quantize is attempting to send frame76 to ZigZag
+0 s: Thread Quantize has sent frame76 to ZigZag
+0 s: Thread Quantize is attempting to receive frame77 from DCT
+0 s: Thread Quantize has received frame77 from DCT
+0 s: Thread Quantize is attempting to send frame77 to ZigZag
+0 s: Thread Quantize has sent frame77 to ZigZag
+0 s: Thread Quantize is attempting to receive frame78 from DCT
+0 s: Thread Quantize has received frame78 from DCT
+0 s: Thread Quantize is attempting to send frame78 to ZigZag
+0 s: Thread Quantize has sent frame78 to ZigZag
+0 s: Thread Quantize is attempting to receive frame79 from DCT
+0 s: Thread Quantize has received frame79 from DCT
+0 s: Thread Quantize is attempting to send frame79 to ZigZag
+0 s: Thread Quantize has sent frame79 to ZigZag
+0 s: Thread Quantize is attempting to receive frame80 from DCT
+0 s: Thread Huffman has received frame72 from ZigZag
+0 s: Thread Huffman is attempting to receive frame73 from ZigZag
+0 s: Thread Huffman has received frame73 from ZigZag
+0 s: Thread Huffman is attempting to receive frame74 from ZigZag
+0 s: Thread Huffman has received frame74 from ZigZag
+0 s: Thread Huffman is attempting to receive frame75 from ZigZag
+0 s: Thread Huffman has received frame75 from ZigZag
+0 s: Thread Huffman is attempting to receive frame76 from ZigZag
+0 s: Thread DCT has received frame80 from Read BMP
+0 s: Thread DCT is attempting to send frame80 to Quantize
+0 s: Thread DCT has sent frame80 to Quantize
+0 s: Thread DCT is attempting to receive frame81 from Read BMP
+0 s: Thread DCT has received frame81 from Read BMP
+0 s: Thread DCT is attempting to send frame81 to Quantize
+0 s: Thread DCT has sent frame81 to Quantize
+0 s: Thread DCT is attempting to receive frame82 from Read BMP
+0 s: Thread DCT has received frame82 from Read BMP
+0 s: Thread DCT is attempting to send frame82 to Quantize
+0 s: Thread DCT has sent frame82 to Quantize
+0 s: Thread DCT is attempting to receive frame83 from Read BMP
+0 s: Thread DCT has received frame83 from Read BMP
+0 s: Thread DCT is attempting to send frame83 to Quantize
+0 s: Thread DCT has sent frame83 to Quantize
+0 s: Thread DCT is attempting to receive frame84 from Read BMP
+0 s: Thread ZigZag has received frame76 from Quantize
+0 s: Thread ZigZag is attempting to send frame76 to Huffman
+0 s: Thread ZigZag has sent frame76 to Huffman
+0 s: Thread ZigZag is attempting to receive frame77 from Quantize
+0 s: Thread ZigZag has received frame77 from Quantize
+0 s: Thread ZigZag is attempting to send frame77 to Huffman
+0 s: Thread ZigZag has sent frame77 to Huffman
+0 s: Thread ZigZag is attempting to receive frame78 from Quantize
+0 s: Thread ZigZag has received frame78 from Quantize
+0 s: Thread ZigZag is attempting to send frame78 to Huffman
+0 s: Thread ZigZag has sent frame78 to Huffman
+0 s: Thread ZigZag is attempting to receive frame79 from Quantize
+0 s: Thread ZigZag has received frame79 from Quantize
+0 s: Thread ZigZag is attempting to send frame79 to Huffman
+0 s: Thread ZigZag has sent frame79 to Huffman
+0 s: Thread ZigZag is attempting to receive frame80 from Quantize
+0 s: Thread Read BMP has sent frame84 to DCT
+0 s: Thread Read BMP attempting to send frame85 to DCT
+0 s: Thread Read BMP has sent frame85 to DCT
+0 s: Thread Read BMP attempting to send frame86 to DCT
+0 s: Thread Read BMP has sent frame86 to DCT
+0 s: Thread Read BMP attempting to send frame87 to DCT
+0 s: Thread Read BMP has sent frame87 to DCT
+0 s: Thread Read BMP attempting to send frame88 to DCT
+0 s: Thread Quantize has received frame80 from DCT
+0 s: Thread Quantize is attempting to send frame80 to ZigZag
+0 s: Thread Quantize has sent frame80 to ZigZag
+0 s: Thread Quantize is attempting to receive frame81 from DCT
+0 s: Thread Quantize has received frame81 from DCT
+0 s: Thread Quantize is attempting to send frame81 to ZigZag
+0 s: Thread Quantize has sent frame81 to ZigZag
+0 s: Thread Quantize is attempting to receive frame82 from DCT
+0 s: Thread Quantize has received frame82 from DCT
+0 s: Thread Quantize is attempting to send frame82 to ZigZag
+0 s: Thread Quantize has sent frame82 to ZigZag
+0 s: Thread Quantize is attempting to receive frame83 from DCT
+0 s: Thread Quantize has received frame83 from DCT
+0 s: Thread Quantize is attempting to send frame83 to ZigZag
+0 s: Thread Quantize has sent frame83 to ZigZag
+0 s: Thread Quantize is attempting to receive frame84 from DCT
+0 s: Thread Huffman has received frame76 from ZigZag
+0 s: Thread Huffman is attempting to receive frame77 from ZigZag
+0 s: Thread Huffman has received frame77 from ZigZag
+0 s: Thread Huffman is attempting to receive frame78 from ZigZag
+0 s: Thread Huffman has received frame78 from ZigZag
+0 s: Thread Huffman is attempting to receive frame79 from ZigZag
+0 s: Thread Huffman has received frame79 from ZigZag
+0 s: Thread Huffman is attempting to receive frame80 from ZigZag
+0 s: Thread DCT has received frame84 from Read BMP
+0 s: Thread DCT is attempting to send frame84 to Quantize
+0 s: Thread DCT has sent frame84 to Quantize
+0 s: Thread DCT is attempting to receive frame85 from Read BMP
+0 s: Thread DCT has received frame85 from Read BMP
+0 s: Thread DCT is attempting to send frame85 to Quantize
+0 s: Thread DCT has sent frame85 to Quantize
+0 s: Thread DCT is attempting to receive frame86 from Read BMP
+0 s: Thread DCT has received frame86 from Read BMP
+0 s: Thread DCT is attempting to send frame86 to Quantize
+0 s: Thread DCT has sent frame86 to Quantize
+0 s: Thread DCT is attempting to receive frame87 from Read BMP
+0 s: Thread DCT has received frame87 from Read BMP
+0 s: Thread DCT is attempting to send frame87 to Quantize
+0 s: Thread DCT has sent frame87 to Quantize
+0 s: Thread DCT is attempting to receive frame88 from Read BMP
+0 s: Thread ZigZag has received frame80 from Quantize
+0 s: Thread ZigZag is attempting to send frame80 to Huffman
+0 s: Thread ZigZag has sent frame80 to Huffman
+0 s: Thread ZigZag is attempting to receive frame81 from Quantize
+0 s: Thread ZigZag has received frame81 from Quantize
+0 s: Thread ZigZag is attempting to send frame81 to Huffman
+0 s: Thread ZigZag has sent frame81 to Huffman
+0 s: Thread ZigZag is attempting to receive frame82 from Quantize
+0 s: Thread ZigZag has received frame82 from Quantize
+0 s: Thread ZigZag is attempting to send frame82 to Huffman
+0 s: Thread ZigZag has sent frame82 to Huffman
+0 s: Thread ZigZag is attempting to receive frame83 from Quantize
+0 s: Thread ZigZag has received frame83 from Quantize
+0 s: Thread ZigZag is attempting to send frame83 to Huffman
+0 s: Thread ZigZag has sent frame83 to Huffman
+0 s: Thread ZigZag is attempting to receive frame84 from Quantize
+0 s: Thread Read BMP has sent frame88 to DCT
+0 s: Thread Read BMP attempting to send frame89 to DCT
+0 s: Thread Read BMP has sent frame89 to DCT
+0 s: Thread Read BMP attempting to send frame90 to DCT
+0 s: Thread Read BMP has sent frame90 to DCT
+0 s: Thread Read BMP attempting to send frame91 to DCT
+0 s: Thread Read BMP has sent frame91 to DCT
+0 s: Thread Read BMP attempting to send frame92 to DCT
+0 s: Thread Quantize has received frame84 from DCT
+0 s: Thread Quantize is attempting to send frame84 to ZigZag
+0 s: Thread Quantize has sent frame84 to ZigZag
+0 s: Thread Quantize is attempting to receive frame85 from DCT
+0 s: Thread Quantize has received frame85 from DCT
+0 s: Thread Quantize is attempting to send frame85 to ZigZag
+0 s: Thread Quantize has sent frame85 to ZigZag
+0 s: Thread Quantize is attempting to receive frame86 from DCT
+0 s: Thread Quantize has received frame86 from DCT
+0 s: Thread Quantize is attempting to send frame86 to ZigZag
+0 s: Thread Quantize has sent frame86 to ZigZag
+0 s: Thread Quantize is attempting to receive frame87 from DCT
+0 s: Thread Quantize has received frame87 from DCT
+0 s: Thread Quantize is attempting to send frame87 to ZigZag
+0 s: Thread Quantize has sent frame87 to ZigZag
+0 s: Thread Quantize is attempting to receive frame88 from DCT
+0 s: Thread Huffman has received frame80 from ZigZag
+0 s: Thread Huffman is attempting to receive frame81 from ZigZag
+0 s: Thread Huffman has received frame81 from ZigZag
+0 s: Thread Huffman is attempting to receive frame82 from ZigZag
+0 s: Thread Huffman has received frame82 from ZigZag
+0 s: Thread Huffman is attempting to receive frame83 from ZigZag
+0 s: Thread Huffman has received frame83 from ZigZag
+0 s: Thread Huffman is attempting to receive frame84 from ZigZag
+0 s: Thread DCT has received frame88 from Read BMP
+0 s: Thread DCT is attempting to send frame88 to Quantize
+0 s: Thread DCT has sent frame88 to Quantize
+0 s: Thread DCT is attempting to receive frame89 from Read BMP
+0 s: Thread DCT has received frame89 from Read BMP
+0 s: Thread DCT is attempting to send frame89 to Quantize
+0 s: Thread DCT has sent frame89 to Quantize
+0 s: Thread DCT is attempting to receive frame90 from Read BMP
+0 s: Thread DCT has received frame90 from Read BMP
+0 s: Thread DCT is attempting to send frame90 to Quantize
+0 s: Thread DCT has sent frame90 to Quantize
+0 s: Thread DCT is attempting to receive frame91 from Read BMP
+0 s: Thread DCT has received frame91 from Read BMP
+0 s: Thread DCT is attempting to send frame91 to Quantize
+0 s: Thread DCT has sent frame91 to Quantize
+0 s: Thread DCT is attempting to receive frame92 from Read BMP
+0 s: Thread ZigZag has received frame84 from Quantize
+0 s: Thread ZigZag is attempting to send frame84 to Huffman
+0 s: Thread ZigZag has sent frame84 to Huffman
+0 s: Thread ZigZag is attempting to receive frame85 from Quantize
+0 s: Thread ZigZag has received frame85 from Quantize
+0 s: Thread ZigZag is attempting to send frame85 to Huffman
+0 s: Thread ZigZag has sent frame85 to Huffman
+0 s: Thread ZigZag is attempting to receive frame86 from Quantize
+0 s: Thread ZigZag has received frame86 from Quantize
+0 s: Thread ZigZag is attempting to send frame86 to Huffman
+0 s: Thread ZigZag has sent frame86 to Huffman
+0 s: Thread ZigZag is attempting to receive frame87 from Quantize
+0 s: Thread ZigZag has received frame87 from Quantize
+0 s: Thread ZigZag is attempting to send frame87 to Huffman
+0 s: Thread ZigZag has sent frame87 to Huffman
+0 s: Thread ZigZag is attempting to receive frame88 from Quantize
+0 s: Thread Read BMP has sent frame92 to DCT
+0 s: Thread Read BMP attempting to send frame93 to DCT
+0 s: Thread Read BMP has sent frame93 to DCT
+0 s: Thread Read BMP attempting to send frame94 to DCT
+0 s: Thread Read BMP has sent frame94 to DCT
+0 s: Thread Read BMP attempting to send frame95 to DCT
+0 s: Thread Read BMP has sent frame95 to DCT
+0 s: Thread Read BMP attempting to send frame96 to DCT
+0 s: Thread Quantize has received frame88 from DCT
+0 s: Thread Quantize is attempting to send frame88 to ZigZag
+0 s: Thread Quantize has sent frame88 to ZigZag
+0 s: Thread Quantize is attempting to receive frame89 from DCT
+0 s: Thread Quantize has received frame89 from DCT
+0 s: Thread Quantize is attempting to send frame89 to ZigZag
+0 s: Thread Quantize has sent frame89 to ZigZag
+0 s: Thread Quantize is attempting to receive frame90 from DCT
+0 s: Thread Quantize has received frame90 from DCT
+0 s: Thread Quantize is attempting to send frame90 to ZigZag
+0 s: Thread Quantize has sent frame90 to ZigZag
+0 s: Thread Quantize is attempting to receive frame91 from DCT
+0 s: Thread Quantize has received frame91 from DCT
+0 s: Thread Quantize is attempting to send frame91 to ZigZag
+0 s: Thread Quantize has sent frame91 to ZigZag
+0 s: Thread Quantize is attempting to receive frame92 from DCT
+0 s: Thread Huffman has received frame84 from ZigZag
+0 s: Thread Huffman is attempting to receive frame85 from ZigZag
+0 s: Thread Huffman has received frame85 from ZigZag
+0 s: Thread Huffman is attempting to receive frame86 from ZigZag
+0 s: Thread Huffman has received frame86 from ZigZag
+0 s: Thread Huffman is attempting to receive frame87 from ZigZag
+0 s: Thread Huffman has received frame87 from ZigZag
+0 s: Thread Huffman is attempting to receive frame88 from ZigZag
+0 s: Thread DCT has received frame92 from Read BMP
+0 s: Thread DCT is attempting to send frame92 to Quantize
+0 s: Thread DCT has sent frame92 to Quantize
+0 s: Thread DCT is attempting to receive frame93 from Read BMP
+0 s: Thread DCT has received frame93 from Read BMP
+0 s: Thread DCT is attempting to send frame93 to Quantize
+0 s: Thread DCT has sent frame93 to Quantize
+0 s: Thread DCT is attempting to receive frame94 from Read BMP
+0 s: Thread DCT has received frame94 from Read BMP
+0 s: Thread DCT is attempting to send frame94 to Quantize
+0 s: Thread DCT has sent frame94 to Quantize
+0 s: Thread DCT is attempting to receive frame95 from Read BMP
+0 s: Thread DCT has received frame95 from Read BMP
+0 s: Thread DCT is attempting to send frame95 to Quantize
+0 s: Thread DCT has sent frame95 to Quantize
+0 s: Thread DCT is attempting to receive frame96 from Read BMP
+0 s: Thread ZigZag has received frame88 from Quantize
+0 s: Thread ZigZag is attempting to send frame88 to Huffman
+0 s: Thread ZigZag has sent frame88 to Huffman
+0 s: Thread ZigZag is attempting to receive frame89 from Quantize
+0 s: Thread ZigZag has received frame89 from Quantize
+0 s: Thread ZigZag is attempting to send frame89 to Huffman
+0 s: Thread ZigZag has sent frame89 to Huffman
+0 s: Thread ZigZag is attempting to receive frame90 from Quantize
+0 s: Thread ZigZag has received frame90 from Quantize
+0 s: Thread ZigZag is attempting to send frame90 to Huffman
+0 s: Thread ZigZag has sent frame90 to Huffman
+0 s: Thread ZigZag is attempting to receive frame91 from Quantize
+0 s: Thread ZigZag has received frame91 from Quantize
+0 s: Thread ZigZag is attempting to send frame91 to Huffman
+0 s: Thread ZigZag has sent frame91 to Huffman
+0 s: Thread ZigZag is attempting to receive frame92 from Quantize
+0 s: Thread Read BMP has sent frame96 to DCT
+0 s: Thread Read BMP attempting to send frame97 to DCT
+0 s: Thread Read BMP has sent frame97 to DCT
+0 s: Thread Read BMP attempting to send frame98 to DCT
+0 s: Thread Read BMP has sent frame98 to DCT
+0 s: Thread Read BMP attempting to send frame99 to DCT
+0 s: Thread Read BMP has sent frame99 to DCT
+0 s: Thread Read BMP attempting to send frame100 to DCT
+0 s: Thread Quantize has received frame92 from DCT
+0 s: Thread Quantize is attempting to send frame92 to ZigZag
+0 s: Thread Quantize has sent frame92 to ZigZag
+0 s: Thread Quantize is attempting to receive frame93 from DCT
+0 s: Thread Quantize has received frame93 from DCT
+0 s: Thread Quantize is attempting to send frame93 to ZigZag
+0 s: Thread Quantize has sent frame93 to ZigZag
+0 s: Thread Quantize is attempting to receive frame94 from DCT
+0 s: Thread Quantize has received frame94 from DCT
+0 s: Thread Quantize is attempting to send frame94 to ZigZag
+0 s: Thread Quantize has sent frame94 to ZigZag
+0 s: Thread Quantize is attempting to receive frame95 from DCT
+0 s: Thread Quantize has received frame95 from DCT
+0 s: Thread Quantize is attempting to send frame95 to ZigZag
+0 s: Thread Quantize has sent frame95 to ZigZag
+0 s: Thread Quantize is attempting to receive frame96 from DCT
+0 s: Thread Huffman has received frame88 from ZigZag
+0 s: Thread Huffman is attempting to receive frame89 from ZigZag
+0 s: Thread Huffman has received frame89 from ZigZag
+0 s: Thread Huffman is attempting to receive frame90 from ZigZag
+0 s: Thread Huffman has received frame90 from ZigZag
+0 s: Thread Huffman is attempting to receive frame91 from ZigZag
+0 s: Thread Huffman has received frame91 from ZigZag
+0 s: Thread Huffman is attempting to receive frame92 from ZigZag
+0 s: Thread DCT has received frame96 from Read BMP
+0 s: Thread DCT is attempting to send frame96 to Quantize
+0 s: Thread DCT has sent frame96 to Quantize
+0 s: Thread DCT is attempting to receive frame97 from Read BMP
+0 s: Thread DCT has received frame97 from Read BMP
+0 s: Thread DCT is attempting to send frame97 to Quantize
+0 s: Thread DCT has sent frame97 to Quantize
+0 s: Thread DCT is attempting to receive frame98 from Read BMP
+0 s: Thread DCT has received frame98 from Read BMP
+0 s: Thread DCT is attempting to send frame98 to Quantize
+0 s: Thread DCT has sent frame98 to Quantize
+0 s: Thread DCT is attempting to receive frame99 from Read BMP
+0 s: Thread DCT has received frame99 from Read BMP
+0 s: Thread DCT is attempting to send frame99 to Quantize
+0 s: Thread DCT has sent frame99 to Quantize
+0 s: Thread DCT is attempting to receive frame100 from Read BMP
+0 s: Thread ZigZag has received frame92 from Quantize
+0 s: Thread ZigZag is attempting to send frame92 to Huffman
+0 s: Thread ZigZag has sent frame92 to Huffman
+0 s: Thread ZigZag is attempting to receive frame93 from Quantize
+0 s: Thread ZigZag has received frame93 from Quantize
+0 s: Thread ZigZag is attempting to send frame93 to Huffman
+0 s: Thread ZigZag has sent frame93 to Huffman
+0 s: Thread ZigZag is attempting to receive frame94 from Quantize
+0 s: Thread ZigZag has received frame94 from Quantize
+0 s: Thread ZigZag is attempting to send frame94 to Huffman
+0 s: Thread ZigZag has sent frame94 to Huffman
+0 s: Thread ZigZag is attempting to receive frame95 from Quantize
+0 s: Thread ZigZag has received frame95 from Quantize
+0 s: Thread ZigZag is attempting to send frame95 to Huffman
+0 s: Thread ZigZag has sent frame95 to Huffman
+0 s: Thread ZigZag is attempting to receive frame96 from Quantize
+0 s: Thread Read BMP has sent frame100 to DCT
+0 s: Thread Read BMP attempting to send frame101 to DCT
+0 s: Thread Read BMP has sent frame101 to DCT
+0 s: Thread Read BMP attempting to send frame102 to DCT
+0 s: Thread Read BMP has sent frame102 to DCT
+0 s: Thread Read BMP attempting to send frame103 to DCT
+0 s: Thread Read BMP has sent frame103 to DCT
+0 s: Thread Read BMP attempting to send frame104 to DCT
+0 s: Thread Quantize has received frame96 from DCT
+0 s: Thread Quantize is attempting to send frame96 to ZigZag
+0 s: Thread Quantize has sent frame96 to ZigZag
+0 s: Thread Quantize is attempting to receive frame97 from DCT
+0 s: Thread Quantize has received frame97 from DCT
+0 s: Thread Quantize is attempting to send frame97 to ZigZag
+0 s: Thread Quantize has sent frame97 to ZigZag
+0 s: Thread Quantize is attempting to receive frame98 from DCT
+0 s: Thread Quantize has received frame98 from DCT
+0 s: Thread Quantize is attempting to send frame98 to ZigZag
+0 s: Thread Quantize has sent frame98 to ZigZag
+0 s: Thread Quantize is attempting to receive frame99 from DCT
+0 s: Thread Quantize has received frame99 from DCT
+0 s: Thread Quantize is attempting to send frame99 to ZigZag
+0 s: Thread Quantize has sent frame99 to ZigZag
+0 s: Thread Quantize is attempting to receive frame100 from DCT
+0 s: Thread Huffman has received frame92 from ZigZag
+0 s: Thread Huffman is attempting to receive frame93 from ZigZag
+0 s: Thread Huffman has received frame93 from ZigZag
+0 s: Thread Huffman is attempting to receive frame94 from ZigZag
+0 s: Thread Huffman has received frame94 from ZigZag
+0 s: Thread Huffman is attempting to receive frame95 from ZigZag
+0 s: Thread Huffman has received frame95 from ZigZag
+0 s: Thread Huffman is attempting to receive frame96 from ZigZag
+0 s: Thread DCT has received frame100 from Read BMP
+0 s: Thread DCT is attempting to send frame100 to Quantize
+0 s: Thread DCT has sent frame100 to Quantize
+0 s: Thread DCT is attempting to receive frame101 from Read BMP
+0 s: Thread DCT has received frame101 from Read BMP
+0 s: Thread DCT is attempting to send frame101 to Quantize
+0 s: Thread DCT has sent frame101 to Quantize
+0 s: Thread DCT is attempting to receive frame102 from Read BMP
+0 s: Thread DCT has received frame102 from Read BMP
+0 s: Thread DCT is attempting to send frame102 to Quantize
+0 s: Thread DCT has sent frame102 to Quantize
+0 s: Thread DCT is attempting to receive frame103 from Read BMP
+0 s: Thread DCT has received frame103 from Read BMP
+0 s: Thread DCT is attempting to send frame103 to Quantize
+0 s: Thread DCT has sent frame103 to Quantize
+0 s: Thread DCT is attempting to receive frame104 from Read BMP
+0 s: Thread ZigZag has received frame96 from Quantize
+0 s: Thread ZigZag is attempting to send frame96 to Huffman
+0 s: Thread ZigZag has sent frame96 to Huffman
+0 s: Thread ZigZag is attempting to receive frame97 from Quantize
+0 s: Thread ZigZag has received frame97 from Quantize
+0 s: Thread ZigZag is attempting to send frame97 to Huffman
+0 s: Thread ZigZag has sent frame97 to Huffman
+0 s: Thread ZigZag is attempting to receive frame98 from Quantize
+0 s: Thread ZigZag has received frame98 from Quantize
+0 s: Thread ZigZag is attempting to send frame98 to Huffman
+0 s: Thread ZigZag has sent frame98 to Huffman
+0 s: Thread ZigZag is attempting to receive frame99 from Quantize
+0 s: Thread ZigZag has received frame99 from Quantize
+0 s: Thread ZigZag is attempting to send frame99 to Huffman
+0 s: Thread ZigZag has sent frame99 to Huffman
+0 s: Thread ZigZag is attempting to receive frame100 from Quantize
+0 s: Thread Read BMP has sent frame104 to DCT
+0 s: Thread Read BMP attempting to send frame105 to DCT
+0 s: Thread Read BMP has sent frame105 to DCT
+0 s: Thread Read BMP attempting to send frame106 to DCT
+0 s: Thread Read BMP has sent frame106 to DCT
+0 s: Thread Read BMP attempting to send frame107 to DCT
+0 s: Thread Read BMP has sent frame107 to DCT
+0 s: Thread Read BMP attempting to send frame108 to DCT
+0 s: Thread Quantize has received frame100 from DCT
+0 s: Thread Quantize is attempting to send frame100 to ZigZag
+0 s: Thread Quantize has sent frame100 to ZigZag
+0 s: Thread Quantize is attempting to receive frame101 from DCT
+0 s: Thread Quantize has received frame101 from DCT
+0 s: Thread Quantize is attempting to send frame101 to ZigZag
+0 s: Thread Quantize has sent frame101 to ZigZag
+0 s: Thread Quantize is attempting to receive frame102 from DCT
+0 s: Thread Quantize has received frame102 from DCT
+0 s: Thread Quantize is attempting to send frame102 to ZigZag
+0 s: Thread Quantize has sent frame102 to ZigZag
+0 s: Thread Quantize is attempting to receive frame103 from DCT
+0 s: Thread Quantize has received frame103 from DCT
+0 s: Thread Quantize is attempting to send frame103 to ZigZag
+0 s: Thread Quantize has sent frame103 to ZigZag
+0 s: Thread Quantize is attempting to receive frame104 from DCT
+0 s: Thread Huffman has received frame96 from ZigZag
+0 s: Thread Huffman is attempting to receive frame97 from ZigZag
+0 s: Thread Huffman has received frame97 from ZigZag
+0 s: Thread Huffman is attempting to receive frame98 from ZigZag
+0 s: Thread Huffman has received frame98 from ZigZag
+0 s: Thread Huffman is attempting to receive frame99 from ZigZag
+0 s: Thread Huffman has received frame99 from ZigZag
+0 s: Thread Huffman is attempting to receive frame100 from ZigZag
+0 s: Thread DCT has received frame104 from Read BMP
+0 s: Thread DCT is attempting to send frame104 to Quantize
+0 s: Thread DCT has sent frame104 to Quantize
+0 s: Thread DCT is attempting to receive frame105 from Read BMP
+0 s: Thread DCT has received frame105 from Read BMP
+0 s: Thread DCT is attempting to send frame105 to Quantize
+0 s: Thread DCT has sent frame105 to Quantize
+0 s: Thread DCT is attempting to receive frame106 from Read BMP
+0 s: Thread DCT has received frame106 from Read BMP
+0 s: Thread DCT is attempting to send frame106 to Quantize
+0 s: Thread DCT has sent frame106 to Quantize
+0 s: Thread DCT is attempting to receive frame107 from Read BMP
+0 s: Thread DCT has received frame107 from Read BMP
+0 s: Thread DCT is attempting to send frame107 to Quantize
+0 s: Thread DCT has sent frame107 to Quantize
+0 s: Thread DCT is attempting to receive frame108 from Read BMP
+0 s: Thread ZigZag has received frame100 from Quantize
+0 s: Thread ZigZag is attempting to send frame100 to Huffman
+0 s: Thread ZigZag has sent frame100 to Huffman
+0 s: Thread ZigZag is attempting to receive frame101 from Quantize
+0 s: Thread ZigZag has received frame101 from Quantize
+0 s: Thread ZigZag is attempting to send frame101 to Huffman
+0 s: Thread ZigZag has sent frame101 to Huffman
+0 s: Thread ZigZag is attempting to receive frame102 from Quantize
+0 s: Thread ZigZag has received frame102 from Quantize
+0 s: Thread ZigZag is attempting to send frame102 to Huffman
+0 s: Thread ZigZag has sent frame102 to Huffman
+0 s: Thread ZigZag is attempting to receive frame103 from Quantize
+0 s: Thread ZigZag has received frame103 from Quantize
+0 s: Thread ZigZag is attempting to send frame103 to Huffman
+0 s: Thread ZigZag has sent frame103 to Huffman
+0 s: Thread ZigZag is attempting to receive frame104 from Quantize
+0 s: Thread Read BMP has sent frame108 to DCT
+0 s: Thread Read BMP attempting to send frame109 to DCT
+0 s: Thread Read BMP has sent frame109 to DCT
+0 s: Thread Read BMP attempting to send frame110 to DCT
+0 s: Thread Read BMP has sent frame110 to DCT
+0 s: Thread Read BMP attempting to send frame111 to DCT
+0 s: Thread Read BMP has sent frame111 to DCT
+0 s: Thread Read BMP attempting to send frame112 to DCT
+0 s: Thread Quantize has received frame104 from DCT
+0 s: Thread Quantize is attempting to send frame104 to ZigZag
+0 s: Thread Quantize has sent frame104 to ZigZag
+0 s: Thread Quantize is attempting to receive frame105 from DCT
+0 s: Thread Quantize has received frame105 from DCT
+0 s: Thread Quantize is attempting to send frame105 to ZigZag
+0 s: Thread Quantize has sent frame105 to ZigZag
+0 s: Thread Quantize is attempting to receive frame106 from DCT
+0 s: Thread Quantize has received frame106 from DCT
+0 s: Thread Quantize is attempting to send frame106 to ZigZag
+0 s: Thread Quantize has sent frame106 to ZigZag
+0 s: Thread Quantize is attempting to receive frame107 from DCT
+0 s: Thread Quantize has received frame107 from DCT
+0 s: Thread Quantize is attempting to send frame107 to ZigZag
+0 s: Thread Quantize has sent frame107 to ZigZag
+0 s: Thread Quantize is attempting to receive frame108 from DCT
+0 s: Thread Huffman has received frame100 from ZigZag
+0 s: Thread Huffman is attempting to receive frame101 from ZigZag
+0 s: Thread Huffman has received frame101 from ZigZag
+0 s: Thread Huffman is attempting to receive frame102 from ZigZag
+0 s: Thread Huffman has received frame102 from ZigZag
+0 s: Thread Huffman is attempting to receive frame103 from ZigZag
+0 s: Thread Huffman has received frame103 from ZigZag
+0 s: Thread Huffman is attempting to receive frame104 from ZigZag
+0 s: Thread DCT has received frame108 from Read BMP
+0 s: Thread DCT is attempting to send frame108 to Quantize
+0 s: Thread DCT has sent frame108 to Quantize
+0 s: Thread DCT is attempting to receive frame109 from Read BMP
+0 s: Thread DCT has received frame109 from Read BMP
+0 s: Thread DCT is attempting to send frame109 to Quantize
+0 s: Thread DCT has sent frame109 to Quantize
+0 s: Thread DCT is attempting to receive frame110 from Read BMP
+0 s: Thread DCT has received frame110 from Read BMP
+0 s: Thread DCT is attempting to send frame110 to Quantize
+0 s: Thread DCT has sent frame110 to Quantize
+0 s: Thread DCT is attempting to receive frame111 from Read BMP
+0 s: Thread DCT has received frame111 from Read BMP
+0 s: Thread DCT is attempting to send frame111 to Quantize
+0 s: Thread DCT has sent frame111 to Quantize
+0 s: Thread DCT is attempting to receive frame112 from Read BMP
+0 s: Thread ZigZag has received frame104 from Quantize
+0 s: Thread ZigZag is attempting to send frame104 to Huffman
+0 s: Thread ZigZag has sent frame104 to Huffman
+0 s: Thread ZigZag is attempting to receive frame105 from Quantize
+0 s: Thread ZigZag has received frame105 from Quantize
+0 s: Thread ZigZag is attempting to send frame105 to Huffman
+0 s: Thread ZigZag has sent frame105 to Huffman
+0 s: Thread ZigZag is attempting to receive frame106 from Quantize
+0 s: Thread ZigZag has received frame106 from Quantize
+0 s: Thread ZigZag is attempting to send frame106 to Huffman
+0 s: Thread ZigZag has sent frame106 to Huffman
+0 s: Thread ZigZag is attempting to receive frame107 from Quantize
+0 s: Thread ZigZag has received frame107 from Quantize
+0 s: Thread ZigZag is attempting to send frame107 to Huffman
+0 s: Thread ZigZag has sent frame107 to Huffman
+0 s: Thread ZigZag is attempting to receive frame108 from Quantize
+0 s: Thread Read BMP has sent frame112 to DCT
+0 s: Thread Read BMP attempting to send frame113 to DCT
+0 s: Thread Read BMP has sent frame113 to DCT
+0 s: Thread Read BMP attempting to send frame114 to DCT
+0 s: Thread Read BMP has sent frame114 to DCT
+0 s: Thread Read BMP attempting to send frame115 to DCT
+0 s: Thread Read BMP has sent frame115 to DCT
+0 s: Thread Read BMP attempting to send frame116 to DCT
+0 s: Thread Quantize has received frame108 from DCT
+0 s: Thread Quantize is attempting to send frame108 to ZigZag
+0 s: Thread Quantize has sent frame108 to ZigZag
+0 s: Thread Quantize is attempting to receive frame109 from DCT
+0 s: Thread Quantize has received frame109 from DCT
+0 s: Thread Quantize is attempting to send frame109 to ZigZag
+0 s: Thread Quantize has sent frame109 to ZigZag
+0 s: Thread Quantize is attempting to receive frame110 from DCT
+0 s: Thread Quantize has received frame110 from DCT
+0 s: Thread Quantize is attempting to send frame110 to ZigZag
+0 s: Thread Quantize has sent frame110 to ZigZag
+0 s: Thread Quantize is attempting to receive frame111 from DCT
+0 s: Thread Quantize has received frame111 from DCT
+0 s: Thread Quantize is attempting to send frame111 to ZigZag
+0 s: Thread Quantize has sent frame111 to ZigZag
+0 s: Thread Quantize is attempting to receive frame112 from DCT
+0 s: Thread Huffman has received frame104 from ZigZag
+0 s: Thread Huffman is attempting to receive frame105 from ZigZag
+0 s: Thread Huffman has received frame105 from ZigZag
+0 s: Thread Huffman is attempting to receive frame106 from ZigZag
+0 s: Thread Huffman has received frame106 from ZigZag
+0 s: Thread Huffman is attempting to receive frame107 from ZigZag
+0 s: Thread Huffman has received frame107 from ZigZag
+0 s: Thread Huffman is attempting to receive frame108 from ZigZag
+0 s: Thread DCT has received frame112 from Read BMP
+0 s: Thread DCT is attempting to send frame112 to Quantize
+0 s: Thread DCT has sent frame112 to Quantize
+0 s: Thread DCT is attempting to receive frame113 from Read BMP
+0 s: Thread DCT has received frame113 from Read BMP
+0 s: Thread DCT is attempting to send frame113 to Quantize
+0 s: Thread DCT has sent frame113 to Quantize
+0 s: Thread DCT is attempting to receive frame114 from Read BMP
+0 s: Thread DCT has received frame114 from Read BMP
+0 s: Thread DCT is attempting to send frame114 to Quantize
+0 s: Thread DCT has sent frame114 to Quantize
+0 s: Thread DCT is attempting to receive frame115 from Read BMP
+0 s: Thread DCT has received frame115 from Read BMP
+0 s: Thread DCT is attempting to send frame115 to Quantize
+0 s: Thread DCT has sent frame115 to Quantize
+0 s: Thread DCT is attempting to receive frame116 from Read BMP
+0 s: Thread ZigZag has received frame108 from Quantize
+0 s: Thread ZigZag is attempting to send frame108 to Huffman
+0 s: Thread ZigZag has sent frame108 to Huffman
+0 s: Thread ZigZag is attempting to receive frame109 from Quantize
+0 s: Thread ZigZag has received frame109 from Quantize
+0 s: Thread ZigZag is attempting to send frame109 to Huffman
+0 s: Thread ZigZag has sent frame109 to Huffman
+0 s: Thread ZigZag is attempting to receive frame110 from Quantize
+0 s: Thread ZigZag has received frame110 from Quantize
+0 s: Thread ZigZag is attempting to send frame110 to Huffman
+0 s: Thread ZigZag has sent frame110 to Huffman
+0 s: Thread ZigZag is attempting to receive frame111 from Quantize
+0 s: Thread ZigZag has received frame111 from Quantize
+0 s: Thread ZigZag is attempting to send frame111 to Huffman
+0 s: Thread ZigZag has sent frame111 to Huffman
+0 s: Thread ZigZag is attempting to receive frame112 from Quantize
+0 s: Thread Read BMP has sent frame116 to DCT
+0 s: Thread Read BMP attempting to send frame117 to DCT
+0 s: Thread Read BMP has sent frame117 to DCT
+0 s: Thread Read BMP attempting to send frame118 to DCT
+0 s: Thread Read BMP has sent frame118 to DCT
+0 s: Thread Read BMP attempting to send frame119 to DCT
+0 s: Thread Read BMP has sent frame119 to DCT
+0 s: Thread Read BMP attempting to send frame120 to DCT
+0 s: Thread Quantize has received frame112 from DCT
+0 s: Thread Quantize is attempting to send frame112 to ZigZag
+0 s: Thread Quantize has sent frame112 to ZigZag
+0 s: Thread Quantize is attempting to receive frame113 from DCT
+0 s: Thread Quantize has received frame113 from DCT
+0 s: Thread Quantize is attempting to send frame113 to ZigZag
+0 s: Thread Quantize has sent frame113 to ZigZag
+0 s: Thread Quantize is attempting to receive frame114 from DCT
+0 s: Thread Quantize has received frame114 from DCT
+0 s: Thread Quantize is attempting to send frame114 to ZigZag
+0 s: Thread Quantize has sent frame114 to ZigZag
+0 s: Thread Quantize is attempting to receive frame115 from DCT
+0 s: Thread Quantize has received frame115 from DCT
+0 s: Thread Quantize is attempting to send frame115 to ZigZag
+0 s: Thread Quantize has sent frame115 to ZigZag
+0 s: Thread Quantize is attempting to receive frame116 from DCT
+0 s: Thread Huffman has received frame108 from ZigZag
+0 s: Thread Huffman is attempting to receive frame109 from ZigZag
+0 s: Thread Huffman has received frame109 from ZigZag
+0 s: Thread Huffman is attempting to receive frame110 from ZigZag
+0 s: Thread Huffman has received frame110 from ZigZag
+0 s: Thread Huffman is attempting to receive frame111 from ZigZag
+0 s: Thread Huffman has received frame111 from ZigZag
+0 s: Thread Huffman is attempting to receive frame112 from ZigZag
+0 s: Thread DCT has received frame116 from Read BMP
+0 s: Thread DCT is attempting to send frame116 to Quantize
+0 s: Thread DCT has sent frame116 to Quantize
+0 s: Thread DCT is attempting to receive frame117 from Read BMP
+0 s: Thread DCT has received frame117 from Read BMP
+0 s: Thread DCT is attempting to send frame117 to Quantize
+0 s: Thread DCT has sent frame117 to Quantize
+0 s: Thread DCT is attempting to receive frame118 from Read BMP
+0 s: Thread DCT has received frame118 from Read BMP
+0 s: Thread DCT is attempting to send frame118 to Quantize
+0 s: Thread DCT has sent frame118 to Quantize
+0 s: Thread DCT is attempting to receive frame119 from Read BMP
+0 s: Thread DCT has received frame119 from Read BMP
+0 s: Thread DCT is attempting to send frame119 to Quantize
+0 s: Thread DCT has sent frame119 to Quantize
+0 s: Thread DCT is attempting to receive frame120 from Read BMP
+0 s: Thread ZigZag has received frame112 from Quantize
+0 s: Thread ZigZag is attempting to send frame112 to Huffman
+0 s: Thread ZigZag has sent frame112 to Huffman
+0 s: Thread ZigZag is attempting to receive frame113 from Quantize
+0 s: Thread ZigZag has received frame113 from Quantize
+0 s: Thread ZigZag is attempting to send frame113 to Huffman
+0 s: Thread ZigZag has sent frame113 to Huffman
+0 s: Thread ZigZag is attempting to receive frame114 from Quantize
+0 s: Thread ZigZag has received frame114 from Quantize
+0 s: Thread ZigZag is attempting to send frame114 to Huffman
+0 s: Thread ZigZag has sent frame114 to Huffman
+0 s: Thread ZigZag is attempting to receive frame115 from Quantize
+0 s: Thread ZigZag has received frame115 from Quantize
+0 s: Thread ZigZag is attempting to send frame115 to Huffman
+0 s: Thread ZigZag has sent frame115 to Huffman
+0 s: Thread ZigZag is attempting to receive frame116 from Quantize
+0 s: Thread Read BMP has sent frame120 to DCT
+0 s: Thread Read BMP attempting to send frame121 to DCT
+0 s: Thread Read BMP has sent frame121 to DCT
+0 s: Thread Read BMP attempting to send frame122 to DCT
+0 s: Thread Read BMP has sent frame122 to DCT
+0 s: Thread Read BMP attempting to send frame123 to DCT
+0 s: Thread Read BMP has sent frame123 to DCT
+0 s: Thread Read BMP attempting to send frame124 to DCT
+0 s: Thread Quantize has received frame116 from DCT
+0 s: Thread Quantize is attempting to send frame116 to ZigZag
+0 s: Thread Quantize has sent frame116 to ZigZag
+0 s: Thread Quantize is attempting to receive frame117 from DCT
+0 s: Thread Quantize has received frame117 from DCT
+0 s: Thread Quantize is attempting to send frame117 to ZigZag
+0 s: Thread Quantize has sent frame117 to ZigZag
+0 s: Thread Quantize is attempting to receive frame118 from DCT
+0 s: Thread Quantize has received frame118 from DCT
+0 s: Thread Quantize is attempting to send frame118 to ZigZag
+0 s: Thread Quantize has sent frame118 to ZigZag
+0 s: Thread Quantize is attempting to receive frame119 from DCT
+0 s: Thread Quantize has received frame119 from DCT
+0 s: Thread Quantize is attempting to send frame119 to ZigZag
+0 s: Thread Quantize has sent frame119 to ZigZag
+0 s: Thread Quantize is attempting to receive frame120 from DCT
+0 s: Thread Huffman has received frame112 from ZigZag
+0 s: Thread Huffman is attempting to receive frame113 from ZigZag
+0 s: Thread Huffman has received frame113 from ZigZag
+0 s: Thread Huffman is attempting to receive frame114 from ZigZag
+0 s: Thread Huffman has received frame114 from ZigZag
+0 s: Thread Huffman is attempting to receive frame115 from ZigZag
+0 s: Thread Huffman has received frame115 from ZigZag
+0 s: Thread Huffman is attempting to receive frame116 from ZigZag
+0 s: Thread DCT has received frame120 from Read BMP
+0 s: Thread DCT is attempting to send frame120 to Quantize
+0 s: Thread DCT has sent frame120 to Quantize
+0 s: Thread DCT is attempting to receive frame121 from Read BMP
+0 s: Thread DCT has received frame121 from Read BMP
+0 s: Thread DCT is attempting to send frame121 to Quantize
+0 s: Thread DCT has sent frame121 to Quantize
+0 s: Thread DCT is attempting to receive frame122 from Read BMP
+0 s: Thread DCT has received frame122 from Read BMP
+0 s: Thread DCT is attempting to send frame122 to Quantize
+0 s: Thread DCT has sent frame122 to Quantize
+0 s: Thread DCT is attempting to receive frame123 from Read BMP
+0 s: Thread DCT has received frame123 from Read BMP
+0 s: Thread DCT is attempting to send frame123 to Quantize
+0 s: Thread DCT has sent frame123 to Quantize
+0 s: Thread DCT is attempting to receive frame124 from Read BMP
+0 s: Thread ZigZag has received frame116 from Quantize
+0 s: Thread ZigZag is attempting to send frame116 to Huffman
+0 s: Thread ZigZag has sent frame116 to Huffman
+0 s: Thread ZigZag is attempting to receive frame117 from Quantize
+0 s: Thread ZigZag has received frame117 from Quantize
+0 s: Thread ZigZag is attempting to send frame117 to Huffman
+0 s: Thread ZigZag has sent frame117 to Huffman
+0 s: Thread ZigZag is attempting to receive frame118 from Quantize
+0 s: Thread ZigZag has received frame118 from Quantize
+0 s: Thread ZigZag is attempting to send frame118 to Huffman
+0 s: Thread ZigZag has sent frame118 to Huffman
+0 s: Thread ZigZag is attempting to receive frame119 from Quantize
+0 s: Thread ZigZag has received frame119 from Quantize
+0 s: Thread ZigZag is attempting to send frame119 to Huffman
+0 s: Thread ZigZag has sent frame119 to Huffman
+0 s: Thread ZigZag is attempting to receive frame120 from Quantize
+0 s: Thread Read BMP has sent frame124 to DCT
+0 s: Thread Read BMP attempting to send frame125 to DCT
+0 s: Thread Read BMP has sent frame125 to DCT
+0 s: Thread Read BMP attempting to send frame126 to DCT
+0 s: Thread Read BMP has sent frame126 to DCT
+0 s: Thread Read BMP attempting to send frame127 to DCT
+0 s: Thread Read BMP has sent frame127 to DCT
+0 s: Thread Read BMP attempting to send frame128 to DCT
+0 s: Thread Quantize has received frame120 from DCT
+0 s: Thread Quantize is attempting to send frame120 to ZigZag
+0 s: Thread Quantize has sent frame120 to ZigZag
+0 s: Thread Quantize is attempting to receive frame121 from DCT
+0 s: Thread Quantize has received frame121 from DCT
+0 s: Thread Quantize is attempting to send frame121 to ZigZag
+0 s: Thread Quantize has sent frame121 to ZigZag
+0 s: Thread Quantize is attempting to receive frame122 from DCT
+0 s: Thread Quantize has received frame122 from DCT
+0 s: Thread Quantize is attempting to send frame122 to ZigZag
+0 s: Thread Quantize has sent frame122 to ZigZag
+0 s: Thread Quantize is attempting to receive frame123 from DCT
+0 s: Thread Quantize has received frame123 from DCT
+0 s: Thread Quantize is attempting to send frame123 to ZigZag
+0 s: Thread Quantize has sent frame123 to ZigZag
+0 s: Thread Quantize is attempting to receive frame124 from DCT
+0 s: Thread Huffman has received frame116 from ZigZag
+0 s: Thread Huffman is attempting to receive frame117 from ZigZag
+0 s: Thread Huffman has received frame117 from ZigZag
+0 s: Thread Huffman is attempting to receive frame118 from ZigZag
+0 s: Thread Huffman has received frame118 from ZigZag
+0 s: Thread Huffman is attempting to receive frame119 from ZigZag
+0 s: Thread Huffman has received frame119 from ZigZag
+0 s: Thread Huffman is attempting to receive frame120 from ZigZag
+0 s: Thread DCT has received frame124 from Read BMP
+0 s: Thread DCT is attempting to send frame124 to Quantize
+0 s: Thread DCT has sent frame124 to Quantize
+0 s: Thread DCT is attempting to receive frame125 from Read BMP
+0 s: Thread DCT has received frame125 from Read BMP
+0 s: Thread DCT is attempting to send frame125 to Quantize
+0 s: Thread DCT has sent frame125 to Quantize
+0 s: Thread DCT is attempting to receive frame126 from Read BMP
+0 s: Thread DCT has received frame126 from Read BMP
+0 s: Thread DCT is attempting to send frame126 to Quantize
+0 s: Thread DCT has sent frame126 to Quantize
+0 s: Thread DCT is attempting to receive frame127 from Read BMP
+0 s: Thread DCT has received frame127 from Read BMP
+0 s: Thread DCT is attempting to send frame127 to Quantize
+0 s: Thread DCT has sent frame127 to Quantize
+0 s: Thread DCT is attempting to receive frame128 from Read BMP
+0 s: Thread ZigZag has received frame120 from Quantize
+0 s: Thread ZigZag is attempting to send frame120 to Huffman
+0 s: Thread ZigZag has sent frame120 to Huffman
+0 s: Thread ZigZag is attempting to receive frame121 from Quantize
+0 s: Thread ZigZag has received frame121 from Quantize
+0 s: Thread ZigZag is attempting to send frame121 to Huffman
+0 s: Thread ZigZag has sent frame121 to Huffman
+0 s: Thread ZigZag is attempting to receive frame122 from Quantize
+0 s: Thread ZigZag has received frame122 from Quantize
+0 s: Thread ZigZag is attempting to send frame122 to Huffman
+0 s: Thread ZigZag has sent frame122 to Huffman
+0 s: Thread ZigZag is attempting to receive frame123 from Quantize
+0 s: Thread ZigZag has received frame123 from Quantize
+0 s: Thread ZigZag is attempting to send frame123 to Huffman
+0 s: Thread ZigZag has sent frame123 to Huffman
+0 s: Thread ZigZag is attempting to receive frame124 from Quantize
+0 s: Thread Read BMP has sent frame128 to DCT
+0 s: Thread Read BMP attempting to send frame129 to DCT
+0 s: Thread Read BMP has sent frame129 to DCT
+0 s: Thread Read BMP attempting to send frame130 to DCT
+0 s: Thread Read BMP has sent frame130 to DCT
+0 s: Thread Read BMP attempting to send frame131 to DCT
+0 s: Thread Read BMP has sent frame131 to DCT
+0 s: Thread Read BMP attempting to send frame132 to DCT
+0 s: Thread Quantize has received frame124 from DCT
+0 s: Thread Quantize is attempting to send frame124 to ZigZag
+0 s: Thread Quantize has sent frame124 to ZigZag
+0 s: Thread Quantize is attempting to receive frame125 from DCT
+0 s: Thread Quantize has received frame125 from DCT
+0 s: Thread Quantize is attempting to send frame125 to ZigZag
+0 s: Thread Quantize has sent frame125 to ZigZag
+0 s: Thread Quantize is attempting to receive frame126 from DCT
+0 s: Thread Quantize has received frame126 from DCT
+0 s: Thread Quantize is attempting to send frame126 to ZigZag
+0 s: Thread Quantize has sent frame126 to ZigZag
+0 s: Thread Quantize is attempting to receive frame127 from DCT
+0 s: Thread Quantize has received frame127 from DCT
+0 s: Thread Quantize is attempting to send frame127 to ZigZag
+0 s: Thread Quantize has sent frame127 to ZigZag
+0 s: Thread Quantize is attempting to receive frame128 from DCT
+0 s: Thread Huffman has received frame120 from ZigZag
+0 s: Thread Huffman is attempting to receive frame121 from ZigZag
+0 s: Thread Huffman has received frame121 from ZigZag
+0 s: Thread Huffman is attempting to receive frame122 from ZigZag
+0 s: Thread Huffman has received frame122 from ZigZag
+0 s: Thread Huffman is attempting to receive frame123 from ZigZag
+0 s: Thread Huffman has received frame123 from ZigZag
+0 s: Thread Huffman is attempting to receive frame124 from ZigZag
+0 s: Thread DCT has received frame128 from Read BMP
+0 s: Thread DCT is attempting to send frame128 to Quantize
+0 s: Thread DCT has sent frame128 to Quantize
+0 s: Thread DCT is attempting to receive frame129 from Read BMP
+0 s: Thread DCT has received frame129 from Read BMP
+0 s: Thread DCT is attempting to send frame129 to Quantize
+0 s: Thread DCT has sent frame129 to Quantize
+0 s: Thread DCT is attempting to receive frame130 from Read BMP
+0 s: Thread DCT has received frame130 from Read BMP
+0 s: Thread DCT is attempting to send frame130 to Quantize
+0 s: Thread DCT has sent frame130 to Quantize
+0 s: Thread DCT is attempting to receive frame131 from Read BMP
+0 s: Thread DCT has received frame131 from Read BMP
+0 s: Thread DCT is attempting to send frame131 to Quantize
+0 s: Thread DCT has sent frame131 to Quantize
+0 s: Thread DCT is attempting to receive frame132 from Read BMP
+0 s: Thread ZigZag has received frame124 from Quantize
+0 s: Thread ZigZag is attempting to send frame124 to Huffman
+0 s: Thread ZigZag has sent frame124 to Huffman
+0 s: Thread ZigZag is attempting to receive frame125 from Quantize
+0 s: Thread ZigZag has received frame125 from Quantize
+0 s: Thread ZigZag is attempting to send frame125 to Huffman
+0 s: Thread ZigZag has sent frame125 to Huffman
+0 s: Thread ZigZag is attempting to receive frame126 from Quantize
+0 s: Thread ZigZag has received frame126 from Quantize
+0 s: Thread ZigZag is attempting to send frame126 to Huffman
+0 s: Thread ZigZag has sent frame126 to Huffman
+0 s: Thread ZigZag is attempting to receive frame127 from Quantize
+0 s: Thread ZigZag has received frame127 from Quantize
+0 s: Thread ZigZag is attempting to send frame127 to Huffman
+0 s: Thread ZigZag has sent frame127 to Huffman
+0 s: Thread ZigZag is attempting to receive frame128 from Quantize
+0 s: Thread Read BMP has sent frame132 to DCT
+0 s: Thread Read BMP attempting to send frame133 to DCT
+0 s: Thread Read BMP has sent frame133 to DCT
+0 s: Thread Read BMP attempting to send frame134 to DCT
+0 s: Thread Read BMP has sent frame134 to DCT
+0 s: Thread Read BMP attempting to send frame135 to DCT
+0 s: Thread Read BMP has sent frame135 to DCT
+0 s: Thread Read BMP attempting to send frame136 to DCT
+0 s: Thread Quantize has received frame128 from DCT
+0 s: Thread Quantize is attempting to send frame128 to ZigZag
+0 s: Thread Quantize has sent frame128 to ZigZag
+0 s: Thread Quantize is attempting to receive frame129 from DCT
+0 s: Thread Quantize has received frame129 from DCT
+0 s: Thread Quantize is attempting to send frame129 to ZigZag
+0 s: Thread Quantize has sent frame129 to ZigZag
+0 s: Thread Quantize is attempting to receive frame130 from DCT
+0 s: Thread Quantize has received frame130 from DCT
+0 s: Thread Quantize is attempting to send frame130 to ZigZag
+0 s: Thread Quantize has sent frame130 to ZigZag
+0 s: Thread Quantize is attempting to receive frame131 from DCT
+0 s: Thread Quantize has received frame131 from DCT
+0 s: Thread Quantize is attempting to send frame131 to ZigZag
+0 s: Thread Quantize has sent frame131 to ZigZag
+0 s: Thread Quantize is attempting to receive frame132 from DCT
+0 s: Thread Huffman has received frame124 from ZigZag
+0 s: Thread Huffman is attempting to receive frame125 from ZigZag
+0 s: Thread Huffman has received frame125 from ZigZag
+0 s: Thread Huffman is attempting to receive frame126 from ZigZag
+0 s: Thread Huffman has received frame126 from ZigZag
+0 s: Thread Huffman is attempting to receive frame127 from ZigZag
+0 s: Thread Huffman has received frame127 from ZigZag
+0 s: Thread Huffman is attempting to receive frame128 from ZigZag
+0 s: Thread DCT has received frame132 from Read BMP
+0 s: Thread DCT is attempting to send frame132 to Quantize
+0 s: Thread DCT has sent frame132 to Quantize
+0 s: Thread DCT is attempting to receive frame133 from Read BMP
+0 s: Thread DCT has received frame133 from Read BMP
+0 s: Thread DCT is attempting to send frame133 to Quantize
+0 s: Thread DCT has sent frame133 to Quantize
+0 s: Thread DCT is attempting to receive frame134 from Read BMP
+0 s: Thread DCT has received frame134 from Read BMP
+0 s: Thread DCT is attempting to send frame134 to Quantize
+0 s: Thread DCT has sent frame134 to Quantize
+0 s: Thread DCT is attempting to receive frame135 from Read BMP
+0 s: Thread DCT has received frame135 from Read BMP
+0 s: Thread DCT is attempting to send frame135 to Quantize
+0 s: Thread DCT has sent frame135 to Quantize
+0 s: Thread DCT is attempting to receive frame136 from Read BMP
+0 s: Thread ZigZag has received frame128 from Quantize
+0 s: Thread ZigZag is attempting to send frame128 to Huffman
+0 s: Thread ZigZag has sent frame128 to Huffman
+0 s: Thread ZigZag is attempting to receive frame129 from Quantize
+0 s: Thread ZigZag has received frame129 from Quantize
+0 s: Thread ZigZag is attempting to send frame129 to Huffman
+0 s: Thread ZigZag has sent frame129 to Huffman
+0 s: Thread ZigZag is attempting to receive frame130 from Quantize
+0 s: Thread ZigZag has received frame130 from Quantize
+0 s: Thread ZigZag is attempting to send frame130 to Huffman
+0 s: Thread ZigZag has sent frame130 to Huffman
+0 s: Thread ZigZag is attempting to receive frame131 from Quantize
+0 s: Thread ZigZag has received frame131 from Quantize
+0 s: Thread ZigZag is attempting to send frame131 to Huffman
+0 s: Thread ZigZag has sent frame131 to Huffman
+0 s: Thread ZigZag is attempting to receive frame132 from Quantize
+0 s: Thread Read BMP has sent frame136 to DCT
+0 s: Thread Read BMP attempting to send frame137 to DCT
+0 s: Thread Read BMP has sent frame137 to DCT
+0 s: Thread Read BMP attempting to send frame138 to DCT
+0 s: Thread Read BMP has sent frame138 to DCT
+0 s: Thread Read BMP attempting to send frame139 to DCT
+0 s: Thread Read BMP has sent frame139 to DCT
+0 s: Thread Read BMP attempting to send frame140 to DCT
+0 s: Thread Quantize has received frame132 from DCT
+0 s: Thread Quantize is attempting to send frame132 to ZigZag
+0 s: Thread Quantize has sent frame132 to ZigZag
+0 s: Thread Quantize is attempting to receive frame133 from DCT
+0 s: Thread Quantize has received frame133 from DCT
+0 s: Thread Quantize is attempting to send frame133 to ZigZag
+0 s: Thread Quantize has sent frame133 to ZigZag
+0 s: Thread Quantize is attempting to receive frame134 from DCT
+0 s: Thread Quantize has received frame134 from DCT
+0 s: Thread Quantize is attempting to send frame134 to ZigZag
+0 s: Thread Quantize has sent frame134 to ZigZag
+0 s: Thread Quantize is attempting to receive frame135 from DCT
+0 s: Thread Quantize has received frame135 from DCT
+0 s: Thread Quantize is attempting to send frame135 to ZigZag
+0 s: Thread Quantize has sent frame135 to ZigZag
+0 s: Thread Quantize is attempting to receive frame136 from DCT
+0 s: Thread Huffman has received frame128 from ZigZag
+0 s: Thread Huffman is attempting to receive frame129 from ZigZag
+0 s: Thread Huffman has received frame129 from ZigZag
+0 s: Thread Huffman is attempting to receive frame130 from ZigZag
+0 s: Thread Huffman has received frame130 from ZigZag
+0 s: Thread Huffman is attempting to receive frame131 from ZigZag
+0 s: Thread Huffman has received frame131 from ZigZag
+0 s: Thread Huffman is attempting to receive frame132 from ZigZag
+0 s: Thread DCT has received frame136 from Read BMP
+0 s: Thread DCT is attempting to send frame136 to Quantize
+0 s: Thread DCT has sent frame136 to Quantize
+0 s: Thread DCT is attempting to receive frame137 from Read BMP
+0 s: Thread DCT has received frame137 from Read BMP
+0 s: Thread DCT is attempting to send frame137 to Quantize
+0 s: Thread DCT has sent frame137 to Quantize
+0 s: Thread DCT is attempting to receive frame138 from Read BMP
+0 s: Thread DCT has received frame138 from Read BMP
+0 s: Thread DCT is attempting to send frame138 to Quantize
+0 s: Thread DCT has sent frame138 to Quantize
+0 s: Thread DCT is attempting to receive frame139 from Read BMP
+0 s: Thread DCT has received frame139 from Read BMP
+0 s: Thread DCT is attempting to send frame139 to Quantize
+0 s: Thread DCT has sent frame139 to Quantize
+0 s: Thread DCT is attempting to receive frame140 from Read BMP
+0 s: Thread ZigZag has received frame132 from Quantize
+0 s: Thread ZigZag is attempting to send frame132 to Huffman
+0 s: Thread ZigZag has sent frame132 to Huffman
+0 s: Thread ZigZag is attempting to receive frame133 from Quantize
+0 s: Thread ZigZag has received frame133 from Quantize
+0 s: Thread ZigZag is attempting to send frame133 to Huffman
+0 s: Thread ZigZag has sent frame133 to Huffman
+0 s: Thread ZigZag is attempting to receive frame134 from Quantize
+0 s: Thread ZigZag has received frame134 from Quantize
+0 s: Thread ZigZag is attempting to send frame134 to Huffman
+0 s: Thread ZigZag has sent frame134 to Huffman
+0 s: Thread ZigZag is attempting to receive frame135 from Quantize
+0 s: Thread ZigZag has received frame135 from Quantize
+0 s: Thread ZigZag is attempting to send frame135 to Huffman
+0 s: Thread ZigZag has sent frame135 to Huffman
+0 s: Thread ZigZag is attempting to receive frame136 from Quantize
+0 s: Thread Read BMP has sent frame140 to DCT
+0 s: Thread Read BMP attempting to send frame141 to DCT
+0 s: Thread Read BMP has sent frame141 to DCT
+0 s: Thread Read BMP attempting to send frame142 to DCT
+0 s: Thread Read BMP has sent frame142 to DCT
+0 s: Thread Read BMP attempting to send frame143 to DCT
+0 s: Thread Read BMP has sent frame143 to DCT
+0 s: Thread Read BMP attempting to send frame144 to DCT
+0 s: Thread Quantize has received frame136 from DCT
+0 s: Thread Quantize is attempting to send frame136 to ZigZag
+0 s: Thread Quantize has sent frame136 to ZigZag
+0 s: Thread Quantize is attempting to receive frame137 from DCT
+0 s: Thread Quantize has received frame137 from DCT
+0 s: Thread Quantize is attempting to send frame137 to ZigZag
+0 s: Thread Quantize has sent frame137 to ZigZag
+0 s: Thread Quantize is attempting to receive frame138 from DCT
+0 s: Thread Quantize has received frame138 from DCT
+0 s: Thread Quantize is attempting to send frame138 to ZigZag
+0 s: Thread Quantize has sent frame138 to ZigZag
+0 s: Thread Quantize is attempting to receive frame139 from DCT
+0 s: Thread Quantize has received frame139 from DCT
+0 s: Thread Quantize is attempting to send frame139 to ZigZag
+0 s: Thread Quantize has sent frame139 to ZigZag
+0 s: Thread Quantize is attempting to receive frame140 from DCT
+0 s: Thread Huffman has received frame132 from ZigZag
+0 s: Thread Huffman is attempting to receive frame133 from ZigZag
+0 s: Thread Huffman has received frame133 from ZigZag
+0 s: Thread Huffman is attempting to receive frame134 from ZigZag
+0 s: Thread Huffman has received frame134 from ZigZag
+0 s: Thread Huffman is attempting to receive frame135 from ZigZag
+0 s: Thread Huffman has received frame135 from ZigZag
+0 s: Thread Huffman is attempting to receive frame136 from ZigZag
+0 s: Thread DCT has received frame140 from Read BMP
+0 s: Thread DCT is attempting to send frame140 to Quantize
+0 s: Thread DCT has sent frame140 to Quantize
+0 s: Thread DCT is attempting to receive frame141 from Read BMP
+0 s: Thread DCT has received frame141 from Read BMP
+0 s: Thread DCT is attempting to send frame141 to Quantize
+0 s: Thread DCT has sent frame141 to Quantize
+0 s: Thread DCT is attempting to receive frame142 from Read BMP
+0 s: Thread DCT has received frame142 from Read BMP
+0 s: Thread DCT is attempting to send frame142 to Quantize
+0 s: Thread DCT has sent frame142 to Quantize
+0 s: Thread DCT is attempting to receive frame143 from Read BMP
+0 s: Thread DCT has received frame143 from Read BMP
+0 s: Thread DCT is attempting to send frame143 to Quantize
+0 s: Thread DCT has sent frame143 to Quantize
+0 s: Thread DCT is attempting to receive frame144 from Read BMP
+0 s: Thread ZigZag has received frame136 from Quantize
+0 s: Thread ZigZag is attempting to send frame136 to Huffman
+0 s: Thread ZigZag has sent frame136 to Huffman
+0 s: Thread ZigZag is attempting to receive frame137 from Quantize
+0 s: Thread ZigZag has received frame137 from Quantize
+0 s: Thread ZigZag is attempting to send frame137 to Huffman
+0 s: Thread ZigZag has sent frame137 to Huffman
+0 s: Thread ZigZag is attempting to receive frame138 from Quantize
+0 s: Thread ZigZag has received frame138 from Quantize
+0 s: Thread ZigZag is attempting to send frame138 to Huffman
+0 s: Thread ZigZag has sent frame138 to Huffman
+0 s: Thread ZigZag is attempting to receive frame139 from Quantize
+0 s: Thread ZigZag has received frame139 from Quantize
+0 s: Thread ZigZag is attempting to send frame139 to Huffman
+0 s: Thread ZigZag has sent frame139 to Huffman
+0 s: Thread ZigZag is attempting to receive frame140 from Quantize
+0 s: Thread Read BMP has sent frame144 to DCT
+0 s: Thread Read BMP attempting to send frame145 to DCT
+0 s: Thread Read BMP has sent frame145 to DCT
+0 s: Thread Read BMP attempting to send frame146 to DCT
+0 s: Thread Read BMP has sent frame146 to DCT
+0 s: Thread Read BMP attempting to send frame147 to DCT
+0 s: Thread Read BMP has sent frame147 to DCT
+0 s: Thread Read BMP attempting to send frame148 to DCT
+0 s: Thread Quantize has received frame140 from DCT
+0 s: Thread Quantize is attempting to send frame140 to ZigZag
+0 s: Thread Quantize has sent frame140 to ZigZag
+0 s: Thread Quantize is attempting to receive frame141 from DCT
+0 s: Thread Quantize has received frame141 from DCT
+0 s: Thread Quantize is attempting to send frame141 to ZigZag
+0 s: Thread Quantize has sent frame141 to ZigZag
+0 s: Thread Quantize is attempting to receive frame142 from DCT
+0 s: Thread Quantize has received frame142 from DCT
+0 s: Thread Quantize is attempting to send frame142 to ZigZag
+0 s: Thread Quantize has sent frame142 to ZigZag
+0 s: Thread Quantize is attempting to receive frame143 from DCT
+0 s: Thread Quantize has received frame143 from DCT
+0 s: Thread Quantize is attempting to send frame143 to ZigZag
+0 s: Thread Quantize has sent frame143 to ZigZag
+0 s: Thread Quantize is attempting to receive frame144 from DCT
+0 s: Thread Huffman has received frame136 from ZigZag
+0 s: Thread Huffman is attempting to receive frame137 from ZigZag
+0 s: Thread Huffman has received frame137 from ZigZag
+0 s: Thread Huffman is attempting to receive frame138 from ZigZag
+0 s: Thread Huffman has received frame138 from ZigZag
+0 s: Thread Huffman is attempting to receive frame139 from ZigZag
+0 s: Thread Huffman has received frame139 from ZigZag
+0 s: Thread Huffman is attempting to receive frame140 from ZigZag
+0 s: Thread DCT has received frame144 from Read BMP
+0 s: Thread DCT is attempting to send frame144 to Quantize
+0 s: Thread DCT has sent frame144 to Quantize
+0 s: Thread DCT is attempting to receive frame145 from Read BMP
+0 s: Thread DCT has received frame145 from Read BMP
+0 s: Thread DCT is attempting to send frame145 to Quantize
+0 s: Thread DCT has sent frame145 to Quantize
+0 s: Thread DCT is attempting to receive frame146 from Read BMP
+0 s: Thread DCT has received frame146 from Read BMP
+0 s: Thread DCT is attempting to send frame146 to Quantize
+0 s: Thread DCT has sent frame146 to Quantize
+0 s: Thread DCT is attempting to receive frame147 from Read BMP
+0 s: Thread DCT has received frame147 from Read BMP
+0 s: Thread DCT is attempting to send frame147 to Quantize
+0 s: Thread DCT has sent frame147 to Quantize
+0 s: Thread DCT is attempting to receive frame148 from Read BMP
+0 s: Thread ZigZag has received frame140 from Quantize
+0 s: Thread ZigZag is attempting to send frame140 to Huffman
+0 s: Thread ZigZag has sent frame140 to Huffman
+0 s: Thread ZigZag is attempting to receive frame141 from Quantize
+0 s: Thread ZigZag has received frame141 from Quantize
+0 s: Thread ZigZag is attempting to send frame141 to Huffman
+0 s: Thread ZigZag has sent frame141 to Huffman
+0 s: Thread ZigZag is attempting to receive frame142 from Quantize
+0 s: Thread ZigZag has received frame142 from Quantize
+0 s: Thread ZigZag is attempting to send frame142 to Huffman
+0 s: Thread ZigZag has sent frame142 to Huffman
+0 s: Thread ZigZag is attempting to receive frame143 from Quantize
+0 s: Thread ZigZag has received frame143 from Quantize
+0 s: Thread ZigZag is attempting to send frame143 to Huffman
+0 s: Thread ZigZag has sent frame143 to Huffman
+0 s: Thread ZigZag is attempting to receive frame144 from Quantize
+0 s: Thread Read BMP has sent frame148 to DCT
+0 s: Thread Read BMP attempting to send frame149 to DCT
+0 s: Thread Read BMP has sent frame149 to DCT
+0 s: Thread Read BMP attempting to send frame150 to DCT
+0 s: Thread Read BMP has sent frame150 to DCT
+0 s: Thread Read BMP attempting to send frame151 to DCT
+0 s: Thread Read BMP has sent frame151 to DCT
+0 s: Thread Read BMP attempting to send frame152 to DCT
+0 s: Thread Quantize has received frame144 from DCT
+0 s: Thread Quantize is attempting to send frame144 to ZigZag
+0 s: Thread Quantize has sent frame144 to ZigZag
+0 s: Thread Quantize is attempting to receive frame145 from DCT
+0 s: Thread Quantize has received frame145 from DCT
+0 s: Thread Quantize is attempting to send frame145 to ZigZag
+0 s: Thread Quantize has sent frame145 to ZigZag
+0 s: Thread Quantize is attempting to receive frame146 from DCT
+0 s: Thread Quantize has received frame146 from DCT
+0 s: Thread Quantize is attempting to send frame146 to ZigZag
+0 s: Thread Quantize has sent frame146 to ZigZag
+0 s: Thread Quantize is attempting to receive frame147 from DCT
+0 s: Thread Quantize has received frame147 from DCT
+0 s: Thread Quantize is attempting to send frame147 to ZigZag
+0 s: Thread Quantize has sent frame147 to ZigZag
+0 s: Thread Quantize is attempting to receive frame148 from DCT
+0 s: Thread Huffman has received frame140 from ZigZag
+0 s: Thread Huffman is attempting to receive frame141 from ZigZag
+0 s: Thread Huffman has received frame141 from ZigZag
+0 s: Thread Huffman is attempting to receive frame142 from ZigZag
+0 s: Thread Huffman has received frame142 from ZigZag
+0 s: Thread Huffman is attempting to receive frame143 from ZigZag
+0 s: Thread Huffman has received frame143 from ZigZag
+0 s: Thread Huffman is attempting to receive frame144 from ZigZag
+0 s: Thread DCT has received frame148 from Read BMP
+0 s: Thread DCT is attempting to send frame148 to Quantize
+0 s: Thread DCT has sent frame148 to Quantize
+0 s: Thread DCT is attempting to receive frame149 from Read BMP
+0 s: Thread DCT has received frame149 from Read BMP
+0 s: Thread DCT is attempting to send frame149 to Quantize
+0 s: Thread DCT has sent frame149 to Quantize
+0 s: Thread DCT is attempting to receive frame150 from Read BMP
+0 s: Thread DCT has received frame150 from Read BMP
+0 s: Thread DCT is attempting to send frame150 to Quantize
+0 s: Thread DCT has sent frame150 to Quantize
+0 s: Thread DCT is attempting to receive frame151 from Read BMP
+0 s: Thread DCT has received frame151 from Read BMP
+0 s: Thread DCT is attempting to send frame151 to Quantize
+0 s: Thread DCT has sent frame151 to Quantize
+0 s: Thread DCT is attempting to receive frame152 from Read BMP
+0 s: Thread ZigZag has received frame144 from Quantize
+0 s: Thread ZigZag is attempting to send frame144 to Huffman
+0 s: Thread ZigZag has sent frame144 to Huffman
+0 s: Thread ZigZag is attempting to receive frame145 from Quantize
+0 s: Thread ZigZag has received frame145 from Quantize
+0 s: Thread ZigZag is attempting to send frame145 to Huffman
+0 s: Thread ZigZag has sent frame145 to Huffman
+0 s: Thread ZigZag is attempting to receive frame146 from Quantize
+0 s: Thread ZigZag has received frame146 from Quantize
+0 s: Thread ZigZag is attempting to send frame146 to Huffman
+0 s: Thread ZigZag has sent frame146 to Huffman
+0 s: Thread ZigZag is attempting to receive frame147 from Quantize
+0 s: Thread ZigZag has received frame147 from Quantize
+0 s: Thread ZigZag is attempting to send frame147 to Huffman
+0 s: Thread ZigZag has sent frame147 to Huffman
+0 s: Thread ZigZag is attempting to receive frame148 from Quantize
+0 s: Thread Read BMP has sent frame152 to DCT
+0 s: Thread Read BMP attempting to send frame153 to DCT
+0 s: Thread Read BMP has sent frame153 to DCT
+0 s: Thread Read BMP attempting to send frame154 to DCT
+0 s: Thread Read BMP has sent frame154 to DCT
+0 s: Thread Read BMP attempting to send frame155 to DCT
+0 s: Thread Read BMP has sent frame155 to DCT
+0 s: Thread Read BMP attempting to send frame156 to DCT
+0 s: Thread Quantize has received frame148 from DCT
+0 s: Thread Quantize is attempting to send frame148 to ZigZag
+0 s: Thread Quantize has sent frame148 to ZigZag
+0 s: Thread Quantize is attempting to receive frame149 from DCT
+0 s: Thread Quantize has received frame149 from DCT
+0 s: Thread Quantize is attempting to send frame149 to ZigZag
+0 s: Thread Quantize has sent frame149 to ZigZag
+0 s: Thread Quantize is attempting to receive frame150 from DCT
+0 s: Thread Quantize has received frame150 from DCT
+0 s: Thread Quantize is attempting to send frame150 to ZigZag
+0 s: Thread Quantize has sent frame150 to ZigZag
+0 s: Thread Quantize is attempting to receive frame151 from DCT
+0 s: Thread Quantize has received frame151 from DCT
+0 s: Thread Quantize is attempting to send frame151 to ZigZag
+0 s: Thread Quantize has sent frame151 to ZigZag
+0 s: Thread Quantize is attempting to receive frame152 from DCT
+0 s: Thread Huffman has received frame144 from ZigZag
+0 s: Thread Huffman is attempting to receive frame145 from ZigZag
+0 s: Thread Huffman has received frame145 from ZigZag
+0 s: Thread Huffman is attempting to receive frame146 from ZigZag
+0 s: Thread Huffman has received frame146 from ZigZag
+0 s: Thread Huffman is attempting to receive frame147 from ZigZag
+0 s: Thread Huffman has received frame147 from ZigZag
+0 s: Thread Huffman is attempting to receive frame148 from ZigZag
+0 s: Thread DCT has received frame152 from Read BMP
+0 s: Thread DCT is attempting to send frame152 to Quantize
+0 s: Thread DCT has sent frame152 to Quantize
+0 s: Thread DCT is attempting to receive frame153 from Read BMP
+0 s: Thread DCT has received frame153 from Read BMP
+0 s: Thread DCT is attempting to send frame153 to Quantize
+0 s: Thread DCT has sent frame153 to Quantize
+0 s: Thread DCT is attempting to receive frame154 from Read BMP
+0 s: Thread DCT has received frame154 from Read BMP
+0 s: Thread DCT is attempting to send frame154 to Quantize
+0 s: Thread DCT has sent frame154 to Quantize
+0 s: Thread DCT is attempting to receive frame155 from Read BMP
+0 s: Thread DCT has received frame155 from Read BMP
+0 s: Thread DCT is attempting to send frame155 to Quantize
+0 s: Thread DCT has sent frame155 to Quantize
+0 s: Thread DCT is attempting to receive frame156 from Read BMP
+0 s: Thread ZigZag has received frame148 from Quantize
+0 s: Thread ZigZag is attempting to send frame148 to Huffman
+0 s: Thread ZigZag has sent frame148 to Huffman
+0 s: Thread ZigZag is attempting to receive frame149 from Quantize
+0 s: Thread ZigZag has received frame149 from Quantize
+0 s: Thread ZigZag is attempting to send frame149 to Huffman
+0 s: Thread ZigZag has sent frame149 to Huffman
+0 s: Thread ZigZag is attempting to receive frame150 from Quantize
+0 s: Thread ZigZag has received frame150 from Quantize
+0 s: Thread ZigZag is attempting to send frame150 to Huffman
+0 s: Thread ZigZag has sent frame150 to Huffman
+0 s: Thread ZigZag is attempting to receive frame151 from Quantize
+0 s: Thread ZigZag has received frame151 from Quantize
+0 s: Thread ZigZag is attempting to send frame151 to Huffman
+0 s: Thread ZigZag has sent frame151 to Huffman
+0 s: Thread ZigZag is attempting to receive frame152 from Quantize
+0 s: Thread Read BMP has sent frame156 to DCT
+0 s: Thread Read BMP attempting to send frame157 to DCT
+0 s: Thread Read BMP has sent frame157 to DCT
+0 s: Thread Read BMP attempting to send frame158 to DCT
+0 s: Thread Read BMP has sent frame158 to DCT
+0 s: Thread Read BMP attempting to send frame159 to DCT
+0 s: Thread Read BMP has sent frame159 to DCT
+0 s: Thread Read BMP attempting to send frame160 to DCT
+0 s: Thread Quantize has received frame152 from DCT
+0 s: Thread Quantize is attempting to send frame152 to ZigZag
+0 s: Thread Quantize has sent frame152 to ZigZag
+0 s: Thread Quantize is attempting to receive frame153 from DCT
+0 s: Thread Quantize has received frame153 from DCT
+0 s: Thread Quantize is attempting to send frame153 to ZigZag
+0 s: Thread Quantize has sent frame153 to ZigZag
+0 s: Thread Quantize is attempting to receive frame154 from DCT
+0 s: Thread Quantize has received frame154 from DCT
+0 s: Thread Quantize is attempting to send frame154 to ZigZag
+0 s: Thread Quantize has sent frame154 to ZigZag
+0 s: Thread Quantize is attempting to receive frame155 from DCT
+0 s: Thread Quantize has received frame155 from DCT
+0 s: Thread Quantize is attempting to send frame155 to ZigZag
+0 s: Thread Quantize has sent frame155 to ZigZag
+0 s: Thread Quantize is attempting to receive frame156 from DCT
+0 s: Thread Huffman has received frame148 from ZigZag
+0 s: Thread Huffman is attempting to receive frame149 from ZigZag
+0 s: Thread Huffman has received frame149 from ZigZag
+0 s: Thread Huffman is attempting to receive frame150 from ZigZag
+0 s: Thread Huffman has received frame150 from ZigZag
+0 s: Thread Huffman is attempting to receive frame151 from ZigZag
+0 s: Thread Huffman has received frame151 from ZigZag
+0 s: Thread Huffman is attempting to receive frame152 from ZigZag
+0 s: Thread DCT has received frame156 from Read BMP
+0 s: Thread DCT is attempting to send frame156 to Quantize
+0 s: Thread DCT has sent frame156 to Quantize
+0 s: Thread DCT is attempting to receive frame157 from Read BMP
+0 s: Thread DCT has received frame157 from Read BMP
+0 s: Thread DCT is attempting to send frame157 to Quantize
+0 s: Thread DCT has sent frame157 to Quantize
+0 s: Thread DCT is attempting to receive frame158 from Read BMP
+0 s: Thread DCT has received frame158 from Read BMP
+0 s: Thread DCT is attempting to send frame158 to Quantize
+0 s: Thread DCT has sent frame158 to Quantize
+0 s: Thread DCT is attempting to receive frame159 from Read BMP
+0 s: Thread DCT has received frame159 from Read BMP
+0 s: Thread DCT is attempting to send frame159 to Quantize
+0 s: Thread DCT has sent frame159 to Quantize
+0 s: Thread DCT is attempting to receive frame160 from Read BMP
+0 s: Thread ZigZag has received frame152 from Quantize
+0 s: Thread ZigZag is attempting to send frame152 to Huffman
+0 s: Thread ZigZag has sent frame152 to Huffman
+0 s: Thread ZigZag is attempting to receive frame153 from Quantize
+0 s: Thread ZigZag has received frame153 from Quantize
+0 s: Thread ZigZag is attempting to send frame153 to Huffman
+0 s: Thread ZigZag has sent frame153 to Huffman
+0 s: Thread ZigZag is attempting to receive frame154 from Quantize
+0 s: Thread ZigZag has received frame154 from Quantize
+0 s: Thread ZigZag is attempting to send frame154 to Huffman
+0 s: Thread ZigZag has sent frame154 to Huffman
+0 s: Thread ZigZag is attempting to receive frame155 from Quantize
+0 s: Thread ZigZag has received frame155 from Quantize
+0 s: Thread ZigZag is attempting to send frame155 to Huffman
+0 s: Thread ZigZag has sent frame155 to Huffman
+0 s: Thread ZigZag is attempting to receive frame156 from Quantize
+0 s: Thread Read BMP has sent frame160 to DCT
+0 s: Thread Read BMP attempting to send frame161 to DCT
+0 s: Thread Read BMP has sent frame161 to DCT
+0 s: Thread Read BMP attempting to send frame162 to DCT
+0 s: Thread Read BMP has sent frame162 to DCT
+0 s: Thread Read BMP attempting to send frame163 to DCT
+0 s: Thread Read BMP has sent frame163 to DCT
+0 s: Thread Read BMP attempting to send frame164 to DCT
+0 s: Thread Quantize has received frame156 from DCT
+0 s: Thread Quantize is attempting to send frame156 to ZigZag
+0 s: Thread Quantize has sent frame156 to ZigZag
+0 s: Thread Quantize is attempting to receive frame157 from DCT
+0 s: Thread Quantize has received frame157 from DCT
+0 s: Thread Quantize is attempting to send frame157 to ZigZag
+0 s: Thread Quantize has sent frame157 to ZigZag
+0 s: Thread Quantize is attempting to receive frame158 from DCT
+0 s: Thread Quantize has received frame158 from DCT
+0 s: Thread Quantize is attempting to send frame158 to ZigZag
+0 s: Thread Quantize has sent frame158 to ZigZag
+0 s: Thread Quantize is attempting to receive frame159 from DCT
+0 s: Thread Quantize has received frame159 from DCT
+0 s: Thread Quantize is attempting to send frame159 to ZigZag
+0 s: Thread Quantize has sent frame159 to ZigZag
+0 s: Thread Quantize is attempting to receive frame160 from DCT
+0 s: Thread Huffman has received frame152 from ZigZag
+0 s: Thread Huffman is attempting to receive frame153 from ZigZag
+0 s: Thread Huffman has received frame153 from ZigZag
+0 s: Thread Huffman is attempting to receive frame154 from ZigZag
+0 s: Thread Huffman has received frame154 from ZigZag
+0 s: Thread Huffman is attempting to receive frame155 from ZigZag
+0 s: Thread Huffman has received frame155 from ZigZag
+0 s: Thread Huffman is attempting to receive frame156 from ZigZag
+0 s: Thread DCT has received frame160 from Read BMP
+0 s: Thread DCT is attempting to send frame160 to Quantize
+0 s: Thread DCT has sent frame160 to Quantize
+0 s: Thread DCT is attempting to receive frame161 from Read BMP
+0 s: Thread DCT has received frame161 from Read BMP
+0 s: Thread DCT is attempting to send frame161 to Quantize
+0 s: Thread DCT has sent frame161 to Quantize
+0 s: Thread DCT is attempting to receive frame162 from Read BMP
+0 s: Thread DCT has received frame162 from Read BMP
+0 s: Thread DCT is attempting to send frame162 to Quantize
+0 s: Thread DCT has sent frame162 to Quantize
+0 s: Thread DCT is attempting to receive frame163 from Read BMP
+0 s: Thread DCT has received frame163 from Read BMP
+0 s: Thread DCT is attempting to send frame163 to Quantize
+0 s: Thread DCT has sent frame163 to Quantize
+0 s: Thread DCT is attempting to receive frame164 from Read BMP
+0 s: Thread ZigZag has received frame156 from Quantize
+0 s: Thread ZigZag is attempting to send frame156 to Huffman
+0 s: Thread ZigZag has sent frame156 to Huffman
+0 s: Thread ZigZag is attempting to receive frame157 from Quantize
+0 s: Thread ZigZag has received frame157 from Quantize
+0 s: Thread ZigZag is attempting to send frame157 to Huffman
+0 s: Thread ZigZag has sent frame157 to Huffman
+0 s: Thread ZigZag is attempting to receive frame158 from Quantize
+0 s: Thread ZigZag has received frame158 from Quantize
+0 s: Thread ZigZag is attempting to send frame158 to Huffman
+0 s: Thread ZigZag has sent frame158 to Huffman
+0 s: Thread ZigZag is attempting to receive frame159 from Quantize
+0 s: Thread ZigZag has received frame159 from Quantize
+0 s: Thread ZigZag is attempting to send frame159 to Huffman
+0 s: Thread ZigZag has sent frame159 to Huffman
+0 s: Thread ZigZag is attempting to receive frame160 from Quantize
+0 s: Thread Read BMP has sent frame164 to DCT
+0 s: Thread Read BMP attempting to send frame165 to DCT
+0 s: Thread Read BMP has sent frame165 to DCT
+0 s: Thread Read BMP attempting to send frame166 to DCT
+0 s: Thread Read BMP has sent frame166 to DCT
+0 s: Thread Read BMP attempting to send frame167 to DCT
+0 s: Thread Read BMP has sent frame167 to DCT
+0 s: Thread Read BMP attempting to send frame168 to DCT
+0 s: Thread Quantize has received frame160 from DCT
+0 s: Thread Quantize is attempting to send frame160 to ZigZag
+0 s: Thread Quantize has sent frame160 to ZigZag
+0 s: Thread Quantize is attempting to receive frame161 from DCT
+0 s: Thread Quantize has received frame161 from DCT
+0 s: Thread Quantize is attempting to send frame161 to ZigZag
+0 s: Thread Quantize has sent frame161 to ZigZag
+0 s: Thread Quantize is attempting to receive frame162 from DCT
+0 s: Thread Quantize has received frame162 from DCT
+0 s: Thread Quantize is attempting to send frame162 to ZigZag
+0 s: Thread Quantize has sent frame162 to ZigZag
+0 s: Thread Quantize is attempting to receive frame163 from DCT
+0 s: Thread Quantize has received frame163 from DCT
+0 s: Thread Quantize is attempting to send frame163 to ZigZag
+0 s: Thread Quantize has sent frame163 to ZigZag
+0 s: Thread Quantize is attempting to receive frame164 from DCT
+0 s: Thread Huffman has received frame156 from ZigZag
+0 s: Thread Huffman is attempting to receive frame157 from ZigZag
+0 s: Thread Huffman has received frame157 from ZigZag
+0 s: Thread Huffman is attempting to receive frame158 from ZigZag
+0 s: Thread Huffman has received frame158 from ZigZag
+0 s: Thread Huffman is attempting to receive frame159 from ZigZag
+0 s: Thread Huffman has received frame159 from ZigZag
+0 s: Thread Huffman is attempting to receive frame160 from ZigZag
+0 s: Thread DCT has received frame164 from Read BMP
+0 s: Thread DCT is attempting to send frame164 to Quantize
+0 s: Thread DCT has sent frame164 to Quantize
+0 s: Thread DCT is attempting to receive frame165 from Read BMP
+0 s: Thread DCT has received frame165 from Read BMP
+0 s: Thread DCT is attempting to send frame165 to Quantize
+0 s: Thread DCT has sent frame165 to Quantize
+0 s: Thread DCT is attempting to receive frame166 from Read BMP
+0 s: Thread DCT has received frame166 from Read BMP
+0 s: Thread DCT is attempting to send frame166 to Quantize
+0 s: Thread DCT has sent frame166 to Quantize
+0 s: Thread DCT is attempting to receive frame167 from Read BMP
+0 s: Thread DCT has received frame167 from Read BMP
+0 s: Thread DCT is attempting to send frame167 to Quantize
+0 s: Thread DCT has sent frame167 to Quantize
+0 s: Thread DCT is attempting to receive frame168 from Read BMP
+0 s: Thread ZigZag has received frame160 from Quantize
+0 s: Thread ZigZag is attempting to send frame160 to Huffman
+0 s: Thread ZigZag has sent frame160 to Huffman
+0 s: Thread ZigZag is attempting to receive frame161 from Quantize
+0 s: Thread ZigZag has received frame161 from Quantize
+0 s: Thread ZigZag is attempting to send frame161 to Huffman
+0 s: Thread ZigZag has sent frame161 to Huffman
+0 s: Thread ZigZag is attempting to receive frame162 from Quantize
+0 s: Thread ZigZag has received frame162 from Quantize
+0 s: Thread ZigZag is attempting to send frame162 to Huffman
+0 s: Thread ZigZag has sent frame162 to Huffman
+0 s: Thread ZigZag is attempting to receive frame163 from Quantize
+0 s: Thread ZigZag has received frame163 from Quantize
+0 s: Thread ZigZag is attempting to send frame163 to Huffman
+0 s: Thread ZigZag has sent frame163 to Huffman
+0 s: Thread ZigZag is attempting to receive frame164 from Quantize
+0 s: Thread Read BMP has sent frame168 to DCT
+0 s: Thread Read BMP attempting to send frame169 to DCT
+0 s: Thread Read BMP has sent frame169 to DCT
+0 s: Thread Read BMP attempting to send frame170 to DCT
+0 s: Thread Read BMP has sent frame170 to DCT
+0 s: Thread Read BMP attempting to send frame171 to DCT
+0 s: Thread Read BMP has sent frame171 to DCT
+0 s: Thread Read BMP attempting to send frame172 to DCT
+0 s: Thread Quantize has received frame164 from DCT
+0 s: Thread Quantize is attempting to send frame164 to ZigZag
+0 s: Thread Quantize has sent frame164 to ZigZag
+0 s: Thread Quantize is attempting to receive frame165 from DCT
+0 s: Thread Quantize has received frame165 from DCT
+0 s: Thread Quantize is attempting to send frame165 to ZigZag
+0 s: Thread Quantize has sent frame165 to ZigZag
+0 s: Thread Quantize is attempting to receive frame166 from DCT
+0 s: Thread Quantize has received frame166 from DCT
+0 s: Thread Quantize is attempting to send frame166 to ZigZag
+0 s: Thread Quantize has sent frame166 to ZigZag
+0 s: Thread Quantize is attempting to receive frame167 from DCT
+0 s: Thread Quantize has received frame167 from DCT
+0 s: Thread Quantize is attempting to send frame167 to ZigZag
+0 s: Thread Quantize has sent frame167 to ZigZag
+0 s: Thread Quantize is attempting to receive frame168 from DCT
+0 s: Thread Huffman has received frame160 from ZigZag
+0 s: Thread Huffman is attempting to receive frame161 from ZigZag
+0 s: Thread Huffman has received frame161 from ZigZag
+0 s: Thread Huffman is attempting to receive frame162 from ZigZag
+0 s: Thread Huffman has received frame162 from ZigZag
+0 s: Thread Huffman is attempting to receive frame163 from ZigZag
+0 s: Thread Huffman has received frame163 from ZigZag
+0 s: Thread Huffman is attempting to receive frame164 from ZigZag
+0 s: Thread DCT has received frame168 from Read BMP
+0 s: Thread DCT is attempting to send frame168 to Quantize
+0 s: Thread DCT has sent frame168 to Quantize
+0 s: Thread DCT is attempting to receive frame169 from Read BMP
+0 s: Thread DCT has received frame169 from Read BMP
+0 s: Thread DCT is attempting to send frame169 to Quantize
+0 s: Thread DCT has sent frame169 to Quantize
+0 s: Thread DCT is attempting to receive frame170 from Read BMP
+0 s: Thread DCT has received frame170 from Read BMP
+0 s: Thread DCT is attempting to send frame170 to Quantize
+0 s: Thread DCT has sent frame170 to Quantize
+0 s: Thread DCT is attempting to receive frame171 from Read BMP
+0 s: Thread DCT has received frame171 from Read BMP
+0 s: Thread DCT is attempting to send frame171 to Quantize
+0 s: Thread DCT has sent frame171 to Quantize
+0 s: Thread DCT is attempting to receive frame172 from Read BMP
+0 s: Thread ZigZag has received frame164 from Quantize
+0 s: Thread ZigZag is attempting to send frame164 to Huffman
+0 s: Thread ZigZag has sent frame164 to Huffman
+0 s: Thread ZigZag is attempting to receive frame165 from Quantize
+0 s: Thread ZigZag has received frame165 from Quantize
+0 s: Thread ZigZag is attempting to send frame165 to Huffman
+0 s: Thread ZigZag has sent frame165 to Huffman
+0 s: Thread ZigZag is attempting to receive frame166 from Quantize
+0 s: Thread ZigZag has received frame166 from Quantize
+0 s: Thread ZigZag is attempting to send frame166 to Huffman
+0 s: Thread ZigZag has sent frame166 to Huffman
+0 s: Thread ZigZag is attempting to receive frame167 from Quantize
+0 s: Thread ZigZag has received frame167 from Quantize
+0 s: Thread ZigZag is attempting to send frame167 to Huffman
+0 s: Thread ZigZag has sent frame167 to Huffman
+0 s: Thread ZigZag is attempting to receive frame168 from Quantize
+0 s: Thread Read BMP has sent frame172 to DCT
+0 s: Thread Read BMP attempting to send frame173 to DCT
+0 s: Thread Read BMP has sent frame173 to DCT
+0 s: Thread Read BMP attempting to send frame174 to DCT
+0 s: Thread Read BMP has sent frame174 to DCT
+0 s: Thread Read BMP attempting to send frame175 to DCT
+0 s: Thread Read BMP has sent frame175 to DCT
+0 s: Thread Read BMP attempting to send frame176 to DCT
+0 s: Thread Quantize has received frame168 from DCT
+0 s: Thread Quantize is attempting to send frame168 to ZigZag
+0 s: Thread Quantize has sent frame168 to ZigZag
+0 s: Thread Quantize is attempting to receive frame169 from DCT
+0 s: Thread Quantize has received frame169 from DCT
+0 s: Thread Quantize is attempting to send frame169 to ZigZag
+0 s: Thread Quantize has sent frame169 to ZigZag
+0 s: Thread Quantize is attempting to receive frame170 from DCT
+0 s: Thread Quantize has received frame170 from DCT
+0 s: Thread Quantize is attempting to send frame170 to ZigZag
+0 s: Thread Quantize has sent frame170 to ZigZag
+0 s: Thread Quantize is attempting to receive frame171 from DCT
+0 s: Thread Quantize has received frame171 from DCT
+0 s: Thread Quantize is attempting to send frame171 to ZigZag
+0 s: Thread Quantize has sent frame171 to ZigZag
+0 s: Thread Quantize is attempting to receive frame172 from DCT
+0 s: Thread Huffman has received frame164 from ZigZag
+0 s: Thread Huffman is attempting to receive frame165 from ZigZag
+0 s: Thread Huffman has received frame165 from ZigZag
+0 s: Thread Huffman is attempting to receive frame166 from ZigZag
+0 s: Thread Huffman has received frame166 from ZigZag
+0 s: Thread Huffman is attempting to receive frame167 from ZigZag
+0 s: Thread Huffman has received frame167 from ZigZag
+0 s: Thread Huffman is attempting to receive frame168 from ZigZag
+0 s: Thread DCT has received frame172 from Read BMP
+0 s: Thread DCT is attempting to send frame172 to Quantize
+0 s: Thread DCT has sent frame172 to Quantize
+0 s: Thread DCT is attempting to receive frame173 from Read BMP
+0 s: Thread DCT has received frame173 from Read BMP
+0 s: Thread DCT is attempting to send frame173 to Quantize
+0 s: Thread DCT has sent frame173 to Quantize
+0 s: Thread DCT is attempting to receive frame174 from Read BMP
+0 s: Thread DCT has received frame174 from Read BMP
+0 s: Thread DCT is attempting to send frame174 to Quantize
+0 s: Thread DCT has sent frame174 to Quantize
+0 s: Thread DCT is attempting to receive frame175 from Read BMP
+0 s: Thread DCT has received frame175 from Read BMP
+0 s: Thread DCT is attempting to send frame175 to Quantize
+0 s: Thread DCT has sent frame175 to Quantize
+0 s: Thread DCT is attempting to receive frame176 from Read BMP
+0 s: Thread ZigZag has received frame168 from Quantize
+0 s: Thread ZigZag is attempting to send frame168 to Huffman
+0 s: Thread ZigZag has sent frame168 to Huffman
+0 s: Thread ZigZag is attempting to receive frame169 from Quantize
+0 s: Thread ZigZag has received frame169 from Quantize
+0 s: Thread ZigZag is attempting to send frame169 to Huffman
+0 s: Thread ZigZag has sent frame169 to Huffman
+0 s: Thread ZigZag is attempting to receive frame170 from Quantize
+0 s: Thread ZigZag has received frame170 from Quantize
+0 s: Thread ZigZag is attempting to send frame170 to Huffman
+0 s: Thread ZigZag has sent frame170 to Huffman
+0 s: Thread ZigZag is attempting to receive frame171 from Quantize
+0 s: Thread ZigZag has received frame171 from Quantize
+0 s: Thread ZigZag is attempting to send frame171 to Huffman
+0 s: Thread ZigZag has sent frame171 to Huffman
+0 s: Thread ZigZag is attempting to receive frame172 from Quantize
+0 s: Thread Read BMP has sent frame176 to DCT
+0 s: Thread Read BMP attempting to send frame177 to DCT
+0 s: Thread Read BMP has sent frame177 to DCT
+0 s: Thread Read BMP attempting to send frame178 to DCT
+0 s: Thread Read BMP has sent frame178 to DCT
+0 s: Thread Read BMP attempting to send frame179 to DCT
+0 s: Thread Read BMP has sent frame179 to DCT
+0 s: Thread Quantize has received frame172 from DCT
+0 s: Thread Quantize is attempting to send frame172 to ZigZag
+0 s: Thread Quantize has sent frame172 to ZigZag
+0 s: Thread Quantize is attempting to receive frame173 from DCT
+0 s: Thread Quantize has received frame173 from DCT
+0 s: Thread Quantize is attempting to send frame173 to ZigZag
+0 s: Thread Quantize has sent frame173 to ZigZag
+0 s: Thread Quantize is attempting to receive frame174 from DCT
+0 s: Thread Quantize has received frame174 from DCT
+0 s: Thread Quantize is attempting to send frame174 to ZigZag
+0 s: Thread Quantize has sent frame174 to ZigZag
+0 s: Thread Quantize is attempting to receive frame175 from DCT
+0 s: Thread Quantize has received frame175 from DCT
+0 s: Thread Quantize is attempting to send frame175 to ZigZag
+0 s: Thread Quantize has sent frame175 to ZigZag
+0 s: Thread Quantize is attempting to receive frame176 from DCT
+0 s: Thread Huffman has received frame168 from ZigZag
+0 s: Thread Huffman is attempting to receive frame169 from ZigZag
+0 s: Thread Huffman has received frame169 from ZigZag
+0 s: Thread Huffman is attempting to receive frame170 from ZigZag
+0 s: Thread Huffman has received frame170 from ZigZag
+0 s: Thread Huffman is attempting to receive frame171 from ZigZag
+0 s: Thread Huffman has received frame171 from ZigZag
+0 s: Thread Huffman is attempting to receive frame172 from ZigZag
+0 s: Thread DCT has received frame176 from Read BMP
+0 s: Thread DCT is attempting to send frame176 to Quantize
+0 s: Thread DCT has sent frame176 to Quantize
+0 s: Thread DCT is attempting to receive frame177 from Read BMP
+0 s: Thread DCT has received frame177 from Read BMP
+0 s: Thread DCT is attempting to send frame177 to Quantize
+0 s: Thread DCT has sent frame177 to Quantize
+0 s: Thread DCT is attempting to receive frame178 from Read BMP
+0 s: Thread DCT has received frame178 from Read BMP
+0 s: Thread DCT is attempting to send frame178 to Quantize
+0 s: Thread DCT has sent frame178 to Quantize
+0 s: Thread DCT is attempting to receive frame179 from Read BMP
+0 s: Thread DCT has received frame179 from Read BMP
+0 s: Thread DCT is attempting to send frame179 to Quantize
+0 s: Thread DCT has sent frame179 to Quantize
+0 s: Thread ZigZag has received frame172 from Quantize
+0 s: Thread ZigZag is attempting to send frame172 to Huffman
+0 s: Thread ZigZag has sent frame172 to Huffman
+0 s: Thread ZigZag is attempting to receive frame173 from Quantize
+0 s: Thread ZigZag has received frame173 from Quantize
+0 s: Thread ZigZag is attempting to send frame173 to Huffman
+0 s: Thread ZigZag has sent frame173 to Huffman
+0 s: Thread ZigZag is attempting to receive frame174 from Quantize
+0 s: Thread ZigZag has received frame174 from Quantize
+0 s: Thread ZigZag is attempting to send frame174 to Huffman
+0 s: Thread ZigZag has sent frame174 to Huffman
+0 s: Thread ZigZag is attempting to receive frame175 from Quantize
+0 s: Thread ZigZag has received frame175 from Quantize
+0 s: Thread ZigZag is attempting to send frame175 to Huffman
+0 s: Thread ZigZag has sent frame175 to Huffman
+0 s: Thread ZigZag is attempting to receive frame176 from Quantize
+0 s: Thread Quantize has received frame176 from DCT
+0 s: Thread Quantize is attempting to send frame176 to ZigZag
+0 s: Thread Quantize has sent frame176 to ZigZag
+0 s: Thread Quantize is attempting to receive frame177 from DCT
+0 s: Thread Quantize has received frame177 from DCT
+0 s: Thread Quantize is attempting to send frame177 to ZigZag
+0 s: Thread Quantize has sent frame177 to ZigZag
+0 s: Thread Quantize is attempting to receive frame178 from DCT
+0 s: Thread Quantize has received frame178 from DCT
+0 s: Thread Quantize is attempting to send frame178 to ZigZag
+0 s: Thread Quantize has sent frame178 to ZigZag
+0 s: Thread Quantize is attempting to receive frame179 from DCT
+0 s: Thread Quantize has received frame179 from DCT
+0 s: Thread Quantize is attempting to send frame179 to ZigZag
+0 s: Thread Quantize has sent frame179 to ZigZag
+0 s: Thread Huffman has received frame172 from ZigZag
+0 s: Thread Huffman is attempting to receive frame173 from ZigZag
+0 s: Thread Huffman has received frame173 from ZigZag
+0 s: Thread Huffman is attempting to receive frame174 from ZigZag
+0 s: Thread Huffman has received frame174 from ZigZag
+0 s: Thread Huffman is attempting to receive frame175 from ZigZag
+0 s: Thread Huffman has received frame175 from ZigZag
+0 s: Thread Huffman is attempting to receive frame176 from ZigZag
+0 s: Thread ZigZag has received frame176 from Quantize
+0 s: Thread ZigZag is attempting to send frame176 to Huffman
+0 s: Thread ZigZag has sent frame176 to Huffman
+0 s: Thread ZigZag is attempting to receive frame177 from Quantize
+0 s: Thread ZigZag has received frame177 from Quantize
+0 s: Thread ZigZag is attempting to send frame177 to Huffman
+0 s: Thread ZigZag has sent frame177 to Huffman
+0 s: Thread ZigZag is attempting to receive frame178 from Quantize
+0 s: Thread ZigZag has received frame178 from Quantize
+0 s: Thread ZigZag is attempting to send frame178 to Huffman
+0 s: Thread ZigZag has sent frame178 to Huffman
+0 s: Thread ZigZag is attempting to receive frame179 from Quantize
+0 s: Thread ZigZag has received frame179 from Quantize
+0 s: Thread ZigZag is attempting to send frame179 to Huffman
+0 s: Thread ZigZag has sent frame179 to Huffman
+0 s: Thread Huffman has received frame176 from ZigZag
+0 s: Thread Huffman is attempting to receive frame177 from ZigZag
+0 s: Thread Huffman has received frame177 from ZigZag
+0 s: Thread Huffman is attempting to receive frame178 from ZigZag
+0 s: Thread Huffman has received frame178 from ZigZag
+0 s: Thread Huffman is attempting to receive frame179 from ZigZag
+0 s: Thread Huffman has received frame179 from ZigZag
+0 s: Thread Huffman is writing encoded JPEG to file
+0 s: JPEG encoding completed
