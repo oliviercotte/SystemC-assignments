@@ -1,0 +1,12 @@
+0 s: Initializing producerThread
+	 	 	 	 	 0 s: Initializing consumerThread
+3 ms: producerThread writing 1 to the fifo
+	 	 	 	 	 3 ms: consumerThread has read 1 from the fifo
+6 ms: producerThread writing 2 to the fifo
+	 	 	 	 	 8 ms: consumerThread has read 2 from the fifo
+9 ms: producerThread writing 3 to the fifo
+12 ms: producerThread writing 4 to the fifo
+	 	 	 	 	 13 ms: consumerThread has read 3 from the fifo
+16 ms: producerThread writing 5 to the fifo
+	 	 	 	 	 18 ms: consumerThread has read 4 from the fifo
+	 	 	 	 	 23 ms: consumerThread has read 5 from the fifo
