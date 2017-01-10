@@ -1,0 +1,6378 @@
+Initializing Scheduler... 
+
+0 s: STATUS
+Read: READY
+DCT: READY
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+0 s: Task Huffman is initialized
+0 s: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+0 s: STATUS
+Read: RUNNING
+DCT: READY
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+0 s: Task Read is initialized
+7119 us: Task Read wrote to fifo CPU.Read2DCT
+14238 us: Task Read wrote to fifo CPU.Read2DCT
+21357 us: Task Read wrote to fifo CPU.Read2DCT
+28476 us: Task Read wrote to fifo CPU.Read2DCT
+35595 us: Task Read wrote to fifo CPU.Read2DCT
+42714 us: Task Read wrote to fifo CPU.Read2DCT
+49833 us: Task Read wrote to fifo CPU.Read2DCT
+56952 us: Task Read wrote to fifo CPU.Read2DCT
+64071 us: Task Read wrote to fifo CPU.Read2DCT
+71190 us: Task Read wrote to fifo CPU.Read2DCT
+78309 us: Task Read wrote to fifo CPU.Read2DCT
+85428 us: Task Read wrote to fifo CPU.Read2DCT
+92547 us: Task Read wrote to fifo CPU.Read2DCT
+99666 us: Task Read wrote to fifo CPU.Read2DCT
+106785 us: Task Read wrote to fifo CPU.Read2DCT
+113904 us: Task Read wrote to fifo CPU.Read2DCT
+121023 us: Task Read wrote to fifo CPU.Read2DCT
+128142 us: Task Read wrote to fifo CPU.Read2DCT
+135261 us: Task Read wrote to fifo CPU.Read2DCT
+142380 us: Task Read wrote to fifo CPU.Read2DCT
+149499 us: Task Read wrote to fifo CPU.Read2DCT
+156618 us: Task Read wrote to fifo CPU.Read2DCT
+163737 us: Task Read wrote to fifo CPU.Read2DCT
+170856 us: Task Read wrote to fifo CPU.Read2DCT
+177975 us: Task Read wrote to fifo CPU.Read2DCT
+185094 us: Task Read wrote to fifo CPU.Read2DCT
+192213 us: Task Read wrote to fifo CPU.Read2DCT
+199332 us: Task Read wrote to fifo CPU.Read2DCT
+206451 us: Task Read wrote to fifo CPU.Read2DCT
+213570 us: Task Read wrote to fifo CPU.Read2DCT
+220689 us: Task Read wrote to fifo CPU.Read2DCT
+227808 us: Task Read wrote to fifo CPU.Read2DCT
+234927 us: Task Read wrote to fifo CPU.Read2DCT
+242046 us: Task Read wrote to fifo CPU.Read2DCT
+249165 us: Task Read wrote to fifo CPU.Read2DCT
+256284 us: Task Read wrote to fifo CPU.Read2DCT
+263403 us: Task Read wrote to fifo CPU.Read2DCT
+270522 us: Task Read wrote to fifo CPU.Read2DCT
+277641 us: Task Read wrote to fifo CPU.Read2DCT
+284760 us: Task Read wrote to fifo CPU.Read2DCT
+291879 us: Task Read wrote to fifo CPU.Read2DCT
+298998 us: Task Read wrote to fifo CPU.Read2DCT
+306117 us: Task Read wrote to fifo CPU.Read2DCT
+313236 us: Task Read wrote to fifo CPU.Read2DCT
+320355 us: Task Read wrote to fifo CPU.Read2DCT
+327474 us: Task Read wrote to fifo CPU.Read2DCT
+334593 us: Task Read wrote to fifo CPU.Read2DCT
+341712 us: Task Read wrote to fifo CPU.Read2DCT
+348831 us: Task Read wrote to fifo CPU.Read2DCT
+355950 us: Task Read wrote to fifo CPU.Read2DCT
+363069 us: Task Read wrote to fifo CPU.Read2DCT
+370188 us: Task Read wrote to fifo CPU.Read2DCT
+377307 us: Task Read wrote to fifo CPU.Read2DCT
+384426 us: Task Read wrote to fifo CPU.Read2DCT
+391545 us: Task Read wrote to fifo CPU.Read2DCT
+398664 us: Task Read wrote to fifo CPU.Read2DCT
+405783 us: Task Read wrote to fifo CPU.Read2DCT
+412902 us: Task Read wrote to fifo CPU.Read2DCT
+420021 us: Task Read wrote to fifo CPU.Read2DCT
+427140 us: Task Read wrote to fifo CPU.Read2DCT
+434259 us: Task Read wrote to fifo CPU.Read2DCT
+441378 us: Task Read wrote to fifo CPU.Read2DCT
+448497 us: Task Read wrote to fifo CPU.Read2DCT
+455616 us: Task Read wrote to fifo CPU.Read2DCT
+456735 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+456735 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+456735 us: Task DCT is initialized
+460735 us: Task DCT read from fifo CPU.Read2DCT
+471056 us: Task DCT wrote to fifo CPU.DCT2Quant
+475056 us: Task DCT read from fifo CPU.Read2DCT
+485377 us: Task DCT wrote to fifo CPU.DCT2Quant
+489377 us: Task DCT read from fifo CPU.Read2DCT
+499698 us: Task DCT wrote to fifo CPU.DCT2Quant
+503698 us: Task DCT read from fifo CPU.Read2DCT
+514019 us: Task DCT wrote to fifo CPU.DCT2Quant
+518019 us: Task DCT read from fifo CPU.Read2DCT
+528340 us: Task DCT wrote to fifo CPU.DCT2Quant
+532340 us: Task DCT read from fifo CPU.Read2DCT
+542661 us: Task DCT wrote to fifo CPU.DCT2Quant
+546661 us: Task DCT read from fifo CPU.Read2DCT
+556982 us: Task DCT wrote to fifo CPU.DCT2Quant
+560982 us: Task DCT read from fifo CPU.Read2DCT
+571303 us: Task DCT wrote to fifo CPU.DCT2Quant
+575303 us: Task DCT read from fifo CPU.Read2DCT
+585624 us: Task DCT wrote to fifo CPU.DCT2Quant
+589624 us: Task DCT read from fifo CPU.Read2DCT
+599945 us: Task DCT wrote to fifo CPU.DCT2Quant
+603945 us: Task DCT read from fifo CPU.Read2DCT
+614266 us: Task DCT wrote to fifo CPU.DCT2Quant
+618266 us: Task DCT read from fifo CPU.Read2DCT
+628587 us: Task DCT wrote to fifo CPU.DCT2Quant
+632587 us: Task DCT read from fifo CPU.Read2DCT
+642908 us: Task DCT wrote to fifo CPU.DCT2Quant
+646908 us: Task DCT read from fifo CPU.Read2DCT
+657229 us: Task DCT wrote to fifo CPU.DCT2Quant
+661229 us: Task DCT read from fifo CPU.Read2DCT
+671550 us: Task DCT wrote to fifo CPU.DCT2Quant
+675550 us: Task DCT read from fifo CPU.Read2DCT
+685871 us: Task DCT wrote to fifo CPU.DCT2Quant
+689871 us: Task DCT read from fifo CPU.Read2DCT
+700192 us: Task DCT wrote to fifo CPU.DCT2Quant
+704192 us: Task DCT read from fifo CPU.Read2DCT
+714513 us: Task DCT wrote to fifo CPU.DCT2Quant
+718513 us: Task DCT read from fifo CPU.Read2DCT
+728834 us: Task DCT wrote to fifo CPU.DCT2Quant
+732834 us: Task DCT read from fifo CPU.Read2DCT
+743155 us: Task DCT wrote to fifo CPU.DCT2Quant
+747155 us: Task DCT read from fifo CPU.Read2DCT
+757476 us: Task DCT wrote to fifo CPU.DCT2Quant
+761476 us: Task DCT read from fifo CPU.Read2DCT
+771797 us: Task DCT wrote to fifo CPU.DCT2Quant
+775797 us: Task DCT read from fifo CPU.Read2DCT
+786118 us: Task DCT wrote to fifo CPU.DCT2Quant
+790118 us: Task DCT read from fifo CPU.Read2DCT
+800439 us: Task DCT wrote to fifo CPU.DCT2Quant
+804439 us: Task DCT read from fifo CPU.Read2DCT
+814760 us: Task DCT wrote to fifo CPU.DCT2Quant
+818760 us: Task DCT read from fifo CPU.Read2DCT
+829081 us: Task DCT wrote to fifo CPU.DCT2Quant
+833081 us: Task DCT read from fifo CPU.Read2DCT
+843402 us: Task DCT wrote to fifo CPU.DCT2Quant
+847402 us: Task DCT read from fifo CPU.Read2DCT
+857723 us: Task DCT wrote to fifo CPU.DCT2Quant
+861723 us: Task DCT read from fifo CPU.Read2DCT
+872044 us: Task DCT wrote to fifo CPU.DCT2Quant
+876044 us: Task DCT read from fifo CPU.Read2DCT
+886365 us: Task DCT wrote to fifo CPU.DCT2Quant
+890365 us: Task DCT read from fifo CPU.Read2DCT
+900686 us: Task DCT wrote to fifo CPU.DCT2Quant
+904686 us: Task DCT read from fifo CPU.Read2DCT
+915007 us: Task DCT wrote to fifo CPU.DCT2Quant
+919007 us: Task DCT read from fifo CPU.Read2DCT
+929328 us: Task DCT wrote to fifo CPU.DCT2Quant
+933328 us: Task DCT read from fifo CPU.Read2DCT
+943649 us: Task DCT wrote to fifo CPU.DCT2Quant
+947649 us: Task DCT read from fifo CPU.Read2DCT
+957970 us: Task DCT wrote to fifo CPU.DCT2Quant
+961970 us: Task DCT read from fifo CPU.Read2DCT
+972291 us: Task DCT wrote to fifo CPU.DCT2Quant
+976291 us: Task DCT read from fifo CPU.Read2DCT
+986612 us: Task DCT wrote to fifo CPU.DCT2Quant
+990612 us: Task DCT read from fifo CPU.Read2DCT
+1000933 us: Task DCT wrote to fifo CPU.DCT2Quant
+1004933 us: Task DCT read from fifo CPU.Read2DCT
+1015254 us: Task DCT wrote to fifo CPU.DCT2Quant
+1019254 us: Task DCT read from fifo CPU.Read2DCT
+1029575 us: Task DCT wrote to fifo CPU.DCT2Quant
+1033575 us: Task DCT read from fifo CPU.Read2DCT
+1043896 us: Task DCT wrote to fifo CPU.DCT2Quant
+1047896 us: Task DCT read from fifo CPU.Read2DCT
+1058217 us: Task DCT wrote to fifo CPU.DCT2Quant
+1062217 us: Task DCT read from fifo CPU.Read2DCT
+1072538 us: Task DCT wrote to fifo CPU.DCT2Quant
+1076538 us: Task DCT read from fifo CPU.Read2DCT
+1086859 us: Task DCT wrote to fifo CPU.DCT2Quant
+1090859 us: Task DCT read from fifo CPU.Read2DCT
+1101180 us: Task DCT wrote to fifo CPU.DCT2Quant
+1105180 us: Task DCT read from fifo CPU.Read2DCT
+1115501 us: Task DCT wrote to fifo CPU.DCT2Quant
+1119501 us: Task DCT read from fifo CPU.Read2DCT
+1129822 us: Task DCT wrote to fifo CPU.DCT2Quant
+1133822 us: Task DCT read from fifo CPU.Read2DCT
+1144143 us: Task DCT wrote to fifo CPU.DCT2Quant
+1148143 us: Task DCT read from fifo CPU.Read2DCT
+1158464 us: Task DCT wrote to fifo CPU.DCT2Quant
+1162464 us: Task DCT read from fifo CPU.Read2DCT
+1172785 us: Task DCT wrote to fifo CPU.DCT2Quant
+1176785 us: Task DCT read from fifo CPU.Read2DCT
+1187106 us: Task DCT wrote to fifo CPU.DCT2Quant
+1191106 us: Task DCT read from fifo CPU.Read2DCT
+1201427 us: Task DCT wrote to fifo CPU.DCT2Quant
+1205427 us: Task DCT read from fifo CPU.Read2DCT
+1215748 us: Task DCT wrote to fifo CPU.DCT2Quant
+1219748 us: Task DCT read from fifo CPU.Read2DCT
+1230069 us: Task DCT wrote to fifo CPU.DCT2Quant
+1234069 us: Task DCT read from fifo CPU.Read2DCT
+1244390 us: Task DCT wrote to fifo CPU.DCT2Quant
+1248390 us: Task DCT read from fifo CPU.Read2DCT
+1258711 us: Task DCT wrote to fifo CPU.DCT2Quant
+1262711 us: Task DCT read from fifo CPU.Read2DCT
+1273032 us: Task DCT wrote to fifo CPU.DCT2Quant
+1277032 us: Task DCT read from fifo CPU.Read2DCT
+1287353 us: Task DCT wrote to fifo CPU.DCT2Quant
+1291353 us: Task DCT read from fifo CPU.Read2DCT
+1301674 us: Task DCT wrote to fifo CPU.DCT2Quant
+1305674 us: Task DCT read from fifo CPU.Read2DCT
+1315995 us: Task DCT wrote to fifo CPU.DCT2Quant
+1319995 us: Task DCT read from fifo CPU.Read2DCT
+1330316 us: Task DCT wrote to fifo CPU.DCT2Quant
+1334316 us: Task DCT read from fifo CPU.Read2DCT
+1344637 us: Task DCT wrote to fifo CPU.DCT2Quant
+1348637 us: Task DCT read from fifo CPU.Read2DCT
+1358958 us: Task DCT wrote to fifo CPU.DCT2Quant
+1362958 us: Task DCT read from fifo CPU.Read2DCT
+1373279 us: Task DCT wrote to fifo CPU.DCT2Quant
+1373279 us: Task DCT blocked on reading from fifo CPU.Read2DCT
+
+1373279 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1379279 us: Task Read wrote to fifo CPU.Read2DCT
+1386398 us: Task Read wrote to fifo CPU.Read2DCT
+1393517 us: Task Read wrote to fifo CPU.Read2DCT
+1400636 us: Task Read wrote to fifo CPU.Read2DCT
+1407755 us: Task Read wrote to fifo CPU.Read2DCT
+1414874 us: Task Read wrote to fifo CPU.Read2DCT
+1421993 us: Task Read wrote to fifo CPU.Read2DCT
+1429112 us: Task Read wrote to fifo CPU.Read2DCT
+1436231 us: Task Read wrote to fifo CPU.Read2DCT
+1443350 us: Task Read wrote to fifo CPU.Read2DCT
+1450469 us: Task Read wrote to fifo CPU.Read2DCT
+1457588 us: Task Read wrote to fifo CPU.Read2DCT
+1464707 us: Task Read wrote to fifo CPU.Read2DCT
+1471826 us: Task Read wrote to fifo CPU.Read2DCT
+1478945 us: Task Read wrote to fifo CPU.Read2DCT
+1486064 us: Task Read wrote to fifo CPU.Read2DCT
+1493183 us: Task Read wrote to fifo CPU.Read2DCT
+1500302 us: Task Read wrote to fifo CPU.Read2DCT
+1507421 us: Task Read wrote to fifo CPU.Read2DCT
+1514540 us: Task Read wrote to fifo CPU.Read2DCT
+1521659 us: Task Read wrote to fifo CPU.Read2DCT
+1528778 us: Task Read wrote to fifo CPU.Read2DCT
+1535897 us: Task Read wrote to fifo CPU.Read2DCT
+1543016 us: Task Read wrote to fifo CPU.Read2DCT
+1550135 us: Task Read wrote to fifo CPU.Read2DCT
+1557254 us: Task Read wrote to fifo CPU.Read2DCT
+1564373 us: Task Read wrote to fifo CPU.Read2DCT
+1571492 us: Task Read wrote to fifo CPU.Read2DCT
+1578611 us: Task Read wrote to fifo CPU.Read2DCT
+1585730 us: Task Read wrote to fifo CPU.Read2DCT
+1592849 us: Task Read wrote to fifo CPU.Read2DCT
+1599968 us: Task Read wrote to fifo CPU.Read2DCT
+1607087 us: Task Read wrote to fifo CPU.Read2DCT
+1614206 us: Task Read wrote to fifo CPU.Read2DCT
+1621325 us: Task Read wrote to fifo CPU.Read2DCT
+1628444 us: Task Read wrote to fifo CPU.Read2DCT
+1635563 us: Task Read wrote to fifo CPU.Read2DCT
+1642682 us: Task Read wrote to fifo CPU.Read2DCT
+1649801 us: Task Read wrote to fifo CPU.Read2DCT
+1656920 us: Task Read wrote to fifo CPU.Read2DCT
+1664039 us: Task Read wrote to fifo CPU.Read2DCT
+1671158 us: Task Read wrote to fifo CPU.Read2DCT
+1678277 us: Task Read wrote to fifo CPU.Read2DCT
+1685396 us: Task Read wrote to fifo CPU.Read2DCT
+1692515 us: Task Read wrote to fifo CPU.Read2DCT
+1699634 us: Task Read wrote to fifo CPU.Read2DCT
+1706753 us: Task Read wrote to fifo CPU.Read2DCT
+1713872 us: Task Read wrote to fifo CPU.Read2DCT
+1720991 us: Task Read wrote to fifo CPU.Read2DCT
+1728110 us: Task Read wrote to fifo CPU.Read2DCT
+1735229 us: Task Read wrote to fifo CPU.Read2DCT
+1742348 us: Task Read wrote to fifo CPU.Read2DCT
+1749467 us: Task Read wrote to fifo CPU.Read2DCT
+1756586 us: Task Read wrote to fifo CPU.Read2DCT
+1763705 us: Task Read wrote to fifo CPU.Read2DCT
+1770824 us: Task Read wrote to fifo CPU.Read2DCT
+1777943 us: Task Read wrote to fifo CPU.Read2DCT
+1785062 us: Task Read wrote to fifo CPU.Read2DCT
+1792181 us: Task Read wrote to fifo CPU.Read2DCT
+1799300 us: Task Read wrote to fifo CPU.Read2DCT
+1806419 us: Task Read wrote to fifo CPU.Read2DCT
+1813538 us: Task Read wrote to fifo CPU.Read2DCT
+1820657 us: Task Read wrote to fifo CPU.Read2DCT
+1827776 us: Task Read wrote to fifo CPU.Read2DCT
+1828895 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+1828895 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1832895 us: Task DCT read from fifo CPU.Read2DCT
+1837216 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+1837216 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1843216 us: Task Read wrote to fifo CPU.Read2DCT
+1844335 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+1844335 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+1844335 us: Task Quantize is initialized
+1848335 us: Task Quantize read from fifo CPU.DCT2Quant
+
+1848335 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1854335 us: Task DCT wrote to fifo CPU.DCT2Quant
+1858335 us: Task DCT read from fifo CPU.Read2DCT
+1862656 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+1862656 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1868656 us: Task Read wrote to fifo CPU.Read2DCT
+1869775 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+1869775 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+1869775 us: Task Zigzag is initialized
+1869775 us: Task Zigzag blocked on reading from fifo CPU.Quant2Zigzag
+
+1869775 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: SUSPENDED
+Huffman: SUSPENDED
+1881486 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+1885486 us: Task Quantize read from fifo CPU.DCT2Quant
+
+1885486 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1891486 us: Task DCT wrote to fifo CPU.DCT2Quant
+1895486 us: Task DCT read from fifo CPU.Read2DCT
+1899807 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+1899807 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1905807 us: Task Read wrote to fifo CPU.Read2DCT
+1906926 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+1906926 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+1910926 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+1917513 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+1917513 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+1921513 us: Task Huffman read from fifo CPU.Zigzag2Huff
+1931675 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+1931675 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+1943386 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+1947386 us: Task Quantize read from fifo CPU.DCT2Quant
+
+1947386 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1953386 us: Task DCT wrote to fifo CPU.DCT2Quant
+1957386 us: Task DCT read from fifo CPU.Read2DCT
+1961707 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+1961707 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+1967707 us: Task Read wrote to fifo CPU.Read2DCT
+1968826 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+1968826 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+1972826 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+1979413 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+1979413 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+1983413 us: Task Huffman read from fifo CPU.Zigzag2Huff
+1993575 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+1993575 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2005286 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2009286 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2009286 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2015286 us: Task DCT wrote to fifo CPU.DCT2Quant
+2019286 us: Task DCT read from fifo CPU.Read2DCT
+2023607 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2023607 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2029607 us: Task Read wrote to fifo CPU.Read2DCT
+2030726 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2030726 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2034726 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2041313 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2041313 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2045313 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2055475 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2055475 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2067186 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2071186 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2071186 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2077186 us: Task DCT wrote to fifo CPU.DCT2Quant
+2081186 us: Task DCT read from fifo CPU.Read2DCT
+2085507 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2085507 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2091507 us: Task Read wrote to fifo CPU.Read2DCT
+2092626 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2092626 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2096626 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2103213 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2103213 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2107213 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2117375 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2117375 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2129086 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2133086 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2133086 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2139086 us: Task DCT wrote to fifo CPU.DCT2Quant
+2143086 us: Task DCT read from fifo CPU.Read2DCT
+2147407 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2147407 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2153407 us: Task Read wrote to fifo CPU.Read2DCT
+2154526 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2154526 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2158526 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2165113 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2165113 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2169113 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2179275 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2179275 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2190986 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2194986 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2194986 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2200986 us: Task DCT wrote to fifo CPU.DCT2Quant
+2204986 us: Task DCT read from fifo CPU.Read2DCT
+2209307 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2209307 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2215307 us: Task Read wrote to fifo CPU.Read2DCT
+2216426 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2216426 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2220426 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2227013 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2227013 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2231013 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2241175 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2241175 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2252886 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2256886 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2256886 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2262886 us: Task DCT wrote to fifo CPU.DCT2Quant
+2266886 us: Task DCT read from fifo CPU.Read2DCT
+2271207 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2271207 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2277207 us: Task Read wrote to fifo CPU.Read2DCT
+2278326 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2278326 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2282326 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2288913 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2288913 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2292913 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2303075 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2303075 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2314786 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2318786 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2318786 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2324786 us: Task DCT wrote to fifo CPU.DCT2Quant
+2328786 us: Task DCT read from fifo CPU.Read2DCT
+2333107 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2333107 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2339107 us: Task Read wrote to fifo CPU.Read2DCT
+2340226 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2340226 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2344226 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2350813 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2350813 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2354813 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2364975 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2364975 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2376686 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2380686 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2380686 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2386686 us: Task DCT wrote to fifo CPU.DCT2Quant
+2390686 us: Task DCT read from fifo CPU.Read2DCT
+2395007 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2395007 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2401007 us: Task Read wrote to fifo CPU.Read2DCT
+2402126 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2402126 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2406126 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2412713 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2412713 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2416713 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2426875 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2426875 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2438586 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2442586 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2442586 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2448586 us: Task DCT wrote to fifo CPU.DCT2Quant
+2452586 us: Task DCT read from fifo CPU.Read2DCT
+2456907 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2456907 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2462907 us: Task Read wrote to fifo CPU.Read2DCT
+2464026 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2464026 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2468026 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2474613 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2474613 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2478613 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2488775 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2488775 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2500486 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2504486 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2504486 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2510486 us: Task DCT wrote to fifo CPU.DCT2Quant
+2514486 us: Task DCT read from fifo CPU.Read2DCT
+2518807 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2518807 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2524807 us: Task Read wrote to fifo CPU.Read2DCT
+2525926 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2525926 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2529926 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2536513 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2536513 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2540513 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2550675 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2550675 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2562386 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2566386 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2566386 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2572386 us: Task DCT wrote to fifo CPU.DCT2Quant
+2576386 us: Task DCT read from fifo CPU.Read2DCT
+2580707 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2580707 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2586707 us: Task Read wrote to fifo CPU.Read2DCT
+2587826 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2587826 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2591826 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2598413 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2598413 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2602413 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2612575 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2612575 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2624286 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2628286 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2628286 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2634286 us: Task DCT wrote to fifo CPU.DCT2Quant
+2638286 us: Task DCT read from fifo CPU.Read2DCT
+2642607 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2642607 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2648607 us: Task Read wrote to fifo CPU.Read2DCT
+2649726 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2649726 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2653726 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2660313 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2660313 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2664313 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2674475 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2674475 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2686186 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2690186 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2690186 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2696186 us: Task DCT wrote to fifo CPU.DCT2Quant
+2700186 us: Task DCT read from fifo CPU.Read2DCT
+2704507 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2704507 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2710507 us: Task Read wrote to fifo CPU.Read2DCT
+2711626 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2711626 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2715626 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2722213 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2722213 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2726213 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2736375 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2736375 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2748086 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2752086 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2752086 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2758086 us: Task DCT wrote to fifo CPU.DCT2Quant
+2762086 us: Task DCT read from fifo CPU.Read2DCT
+2766407 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2766407 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2772407 us: Task Read wrote to fifo CPU.Read2DCT
+2773526 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2773526 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2777526 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2784113 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2784113 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2788113 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2798275 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2798275 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2809986 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2813986 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2813986 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2819986 us: Task DCT wrote to fifo CPU.DCT2Quant
+2823986 us: Task DCT read from fifo CPU.Read2DCT
+2828307 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2828307 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2834307 us: Task Read wrote to fifo CPU.Read2DCT
+2835426 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2835426 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2839426 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2846013 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2846013 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2850013 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2860175 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2860175 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2871886 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2875886 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2875886 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2881886 us: Task DCT wrote to fifo CPU.DCT2Quant
+2885886 us: Task DCT read from fifo CPU.Read2DCT
+2890207 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2890207 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2896207 us: Task Read wrote to fifo CPU.Read2DCT
+2897326 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2897326 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2901326 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2907913 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2907913 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2911913 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2922075 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2922075 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2933786 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2937786 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2937786 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2943786 us: Task DCT wrote to fifo CPU.DCT2Quant
+2947786 us: Task DCT read from fifo CPU.Read2DCT
+2952107 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+2952107 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+2958107 us: Task Read wrote to fifo CPU.Read2DCT
+2959226 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+2959226 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+2963226 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+2969813 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+2969813 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+2973813 us: Task Huffman read from fifo CPU.Zigzag2Huff
+2983975 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+2983975 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+2995686 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+2999686 us: Task Quantize read from fifo CPU.DCT2Quant
+
+2999686 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3005686 us: Task DCT wrote to fifo CPU.DCT2Quant
+3009686 us: Task DCT read from fifo CPU.Read2DCT
+3014007 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3014007 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3020007 us: Task Read wrote to fifo CPU.Read2DCT
+3021126 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3021126 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3025126 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3031713 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3031713 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3035713 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3045875 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3045875 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3057586 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3061586 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3061586 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3067586 us: Task DCT wrote to fifo CPU.DCT2Quant
+3071586 us: Task DCT read from fifo CPU.Read2DCT
+3075907 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3075907 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3081907 us: Task Read wrote to fifo CPU.Read2DCT
+3083026 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3083026 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3087026 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3093613 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3093613 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3097613 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3107775 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3107775 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3119486 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3123486 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3123486 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3129486 us: Task DCT wrote to fifo CPU.DCT2Quant
+3133486 us: Task DCT read from fifo CPU.Read2DCT
+3137807 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3137807 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3143807 us: Task Read wrote to fifo CPU.Read2DCT
+3144926 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3144926 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3148926 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3155513 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3155513 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3159513 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3169675 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3169675 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3181386 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3185386 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3185386 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3191386 us: Task DCT wrote to fifo CPU.DCT2Quant
+3195386 us: Task DCT read from fifo CPU.Read2DCT
+3199707 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3199707 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3205707 us: Task Read wrote to fifo CPU.Read2DCT
+3206826 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3206826 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3210826 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3217413 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3217413 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3221413 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3231575 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3231575 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3243286 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3247286 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3247286 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3253286 us: Task DCT wrote to fifo CPU.DCT2Quant
+3257286 us: Task DCT read from fifo CPU.Read2DCT
+3261607 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3261607 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3267607 us: Task Read wrote to fifo CPU.Read2DCT
+3268726 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3268726 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3272726 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3279313 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3279313 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3283313 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3293475 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3293475 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3305186 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3309186 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3309186 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3315186 us: Task DCT wrote to fifo CPU.DCT2Quant
+3319186 us: Task DCT read from fifo CPU.Read2DCT
+3323507 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3323507 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3329507 us: Task Read wrote to fifo CPU.Read2DCT
+3330626 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3330626 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3334626 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3341213 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3341213 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3345213 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3355375 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3355375 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3367086 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3371086 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3371086 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3377086 us: Task DCT wrote to fifo CPU.DCT2Quant
+3381086 us: Task DCT read from fifo CPU.Read2DCT
+3385407 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3385407 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3391407 us: Task Read wrote to fifo CPU.Read2DCT
+3392526 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3392526 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3396526 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3403113 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3403113 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3407113 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3417275 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3417275 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3428986 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3432986 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3432986 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3438986 us: Task DCT wrote to fifo CPU.DCT2Quant
+3442986 us: Task DCT read from fifo CPU.Read2DCT
+3447307 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3447307 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3453307 us: Task Read wrote to fifo CPU.Read2DCT
+3454426 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3454426 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3458426 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3465013 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3465013 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3469013 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3479175 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3479175 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3490886 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3494886 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3494886 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3500886 us: Task DCT wrote to fifo CPU.DCT2Quant
+3504886 us: Task DCT read from fifo CPU.Read2DCT
+3509207 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3509207 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3515207 us: Task Read wrote to fifo CPU.Read2DCT
+3516326 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3516326 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3520326 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3526913 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3526913 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3530913 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3541075 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3541075 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3552786 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3556786 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3556786 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3562786 us: Task DCT wrote to fifo CPU.DCT2Quant
+3566786 us: Task DCT read from fifo CPU.Read2DCT
+3571107 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3571107 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3577107 us: Task Read wrote to fifo CPU.Read2DCT
+3578226 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3578226 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3582226 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3588813 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3588813 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3592813 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3602975 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3602975 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3614686 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3618686 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3618686 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3624686 us: Task DCT wrote to fifo CPU.DCT2Quant
+3628686 us: Task DCT read from fifo CPU.Read2DCT
+3633007 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3633007 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3639007 us: Task Read wrote to fifo CPU.Read2DCT
+3640126 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3640126 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3644126 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3650713 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3650713 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3654713 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3664875 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3664875 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3676586 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3680586 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3680586 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3686586 us: Task DCT wrote to fifo CPU.DCT2Quant
+3690586 us: Task DCT read from fifo CPU.Read2DCT
+3694907 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3694907 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3700907 us: Task Read wrote to fifo CPU.Read2DCT
+3702026 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3702026 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3706026 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3712613 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3712613 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3716613 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3726775 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3726775 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3738486 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3742486 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3742486 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3748486 us: Task DCT wrote to fifo CPU.DCT2Quant
+3752486 us: Task DCT read from fifo CPU.Read2DCT
+3756807 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3756807 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3762807 us: Task Read wrote to fifo CPU.Read2DCT
+3763926 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3763926 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3767926 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3774513 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3774513 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3778513 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3788675 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3788675 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3800386 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3804386 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3804386 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3810386 us: Task DCT wrote to fifo CPU.DCT2Quant
+3814386 us: Task DCT read from fifo CPU.Read2DCT
+3818707 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3818707 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3824707 us: Task Read wrote to fifo CPU.Read2DCT
+3825826 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3825826 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3829826 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3836413 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3836413 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3840413 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3850575 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3850575 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3862286 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3866286 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3866286 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3872286 us: Task DCT wrote to fifo CPU.DCT2Quant
+3876286 us: Task DCT read from fifo CPU.Read2DCT
+3880607 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3880607 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3886607 us: Task Read wrote to fifo CPU.Read2DCT
+3887726 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3887726 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3891726 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3898313 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3898313 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3902313 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3912475 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3912475 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3924186 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3928186 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3928186 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3934186 us: Task DCT wrote to fifo CPU.DCT2Quant
+3938186 us: Task DCT read from fifo CPU.Read2DCT
+3942507 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+3942507 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3948507 us: Task Read wrote to fifo CPU.Read2DCT
+3949626 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+3949626 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+3953626 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+3960213 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+3960213 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+3964213 us: Task Huffman read from fifo CPU.Zigzag2Huff
+3974375 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+3974375 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+3986086 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+3990086 us: Task Quantize read from fifo CPU.DCT2Quant
+
+3990086 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+3996086 us: Task DCT wrote to fifo CPU.DCT2Quant
+4000086 us: Task DCT read from fifo CPU.Read2DCT
+4004407 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4004407 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4010407 us: Task Read wrote to fifo CPU.Read2DCT
+4011526 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4011526 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4015526 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4022113 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4022113 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4026113 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4036275 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4036275 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4047986 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4051986 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4051986 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4057986 us: Task DCT wrote to fifo CPU.DCT2Quant
+4061986 us: Task DCT read from fifo CPU.Read2DCT
+4066307 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4066307 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4072307 us: Task Read wrote to fifo CPU.Read2DCT
+4073426 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4073426 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4077426 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4084013 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4084013 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4088013 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4098175 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4098175 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4109886 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4113886 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4113886 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4119886 us: Task DCT wrote to fifo CPU.DCT2Quant
+4123886 us: Task DCT read from fifo CPU.Read2DCT
+4128207 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4128207 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4134207 us: Task Read wrote to fifo CPU.Read2DCT
+4135326 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4135326 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4139326 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4145913 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4145913 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4149913 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4160075 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4160075 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4171786 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4175786 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4175786 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4181786 us: Task DCT wrote to fifo CPU.DCT2Quant
+4185786 us: Task DCT read from fifo CPU.Read2DCT
+4190107 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4190107 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4196107 us: Task Read wrote to fifo CPU.Read2DCT
+4197226 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4197226 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4201226 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4207813 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4207813 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4211813 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4221975 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4221975 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4233686 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4237686 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4237686 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4243686 us: Task DCT wrote to fifo CPU.DCT2Quant
+4247686 us: Task DCT read from fifo CPU.Read2DCT
+4252007 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4252007 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4258007 us: Task Read wrote to fifo CPU.Read2DCT
+4259126 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4259126 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4263126 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4269713 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4269713 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4273713 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4283875 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4283875 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4295586 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4299586 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4299586 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4305586 us: Task DCT wrote to fifo CPU.DCT2Quant
+4309586 us: Task DCT read from fifo CPU.Read2DCT
+4313907 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4313907 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4319907 us: Task Read wrote to fifo CPU.Read2DCT
+4321026 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4321026 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4325026 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4331613 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4331613 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4335613 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4345775 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4345775 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4357486 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4361486 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4361486 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4367486 us: Task DCT wrote to fifo CPU.DCT2Quant
+4371486 us: Task DCT read from fifo CPU.Read2DCT
+4375807 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4375807 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4381807 us: Task Read wrote to fifo CPU.Read2DCT
+4382926 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4382926 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4386926 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4393513 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4393513 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4397513 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4407675 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4407675 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4419386 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4423386 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4423386 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4429386 us: Task DCT wrote to fifo CPU.DCT2Quant
+4433386 us: Task DCT read from fifo CPU.Read2DCT
+4437707 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4437707 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4443707 us: Task Read wrote to fifo CPU.Read2DCT
+4444826 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4444826 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4448826 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4455413 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4455413 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4459413 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4469575 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4469575 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4481286 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4485286 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4485286 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4491286 us: Task DCT wrote to fifo CPU.DCT2Quant
+4495286 us: Task DCT read from fifo CPU.Read2DCT
+4499607 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4499607 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4505607 us: Task Read wrote to fifo CPU.Read2DCT
+4506726 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4506726 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4510726 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4517313 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4517313 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4521313 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4531475 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4531475 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4543186 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4547186 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4547186 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4553186 us: Task DCT wrote to fifo CPU.DCT2Quant
+4557186 us: Task DCT read from fifo CPU.Read2DCT
+4561507 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4561507 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4567507 us: Task Read wrote to fifo CPU.Read2DCT
+4568626 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4568626 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4572626 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4579213 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4579213 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4583213 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4593375 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4593375 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4605086 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4609086 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4609086 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4615086 us: Task DCT wrote to fifo CPU.DCT2Quant
+4619086 us: Task DCT read from fifo CPU.Read2DCT
+4623407 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4623407 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4629407 us: Task Read wrote to fifo CPU.Read2DCT
+4630526 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4630526 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4634526 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4641113 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4641113 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4645113 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4655275 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4655275 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4666986 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4670986 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4670986 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4676986 us: Task DCT wrote to fifo CPU.DCT2Quant
+4680986 us: Task DCT read from fifo CPU.Read2DCT
+4685307 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4685307 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4691307 us: Task Read wrote to fifo CPU.Read2DCT
+4692426 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4692426 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4696426 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4703013 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4703013 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4707013 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4717175 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4717175 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4728886 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4732886 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4732886 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4738886 us: Task DCT wrote to fifo CPU.DCT2Quant
+4742886 us: Task DCT read from fifo CPU.Read2DCT
+4747207 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4747207 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4753207 us: Task Read wrote to fifo CPU.Read2DCT
+4754326 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4754326 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4758326 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4764913 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4764913 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4768913 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4779075 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4779075 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4790786 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4794786 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4794786 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4800786 us: Task DCT wrote to fifo CPU.DCT2Quant
+4804786 us: Task DCT read from fifo CPU.Read2DCT
+4809107 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4809107 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4815107 us: Task Read wrote to fifo CPU.Read2DCT
+4816226 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4816226 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4820226 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4826813 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4826813 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4830813 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4840975 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4840975 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4852686 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4856686 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4856686 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4862686 us: Task DCT wrote to fifo CPU.DCT2Quant
+4866686 us: Task DCT read from fifo CPU.Read2DCT
+4871007 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4871007 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4877007 us: Task Read wrote to fifo CPU.Read2DCT
+4878126 us: Task Read blocked on writing to fifo CPU.Read2DCT
+
+4878126 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4882126 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4888713 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4888713 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4892713 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4902875 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4902875 us: STATUS
+Read: SUSPENDED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4914586 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4918586 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4918586 us: STATUS
+Read: SUSPENDED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4924586 us: Task DCT wrote to fifo CPU.DCT2Quant
+4928586 us: Task DCT read from fifo CPU.Read2DCT
+4932907 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4932907 us: STATUS
+Read: RUNNING
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4938907 us: Task Read wrote to fifo CPU.Read2DCT
+
+4938907 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4942907 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+4949494 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+4949494 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+4953494 us: Task Huffman read from fifo CPU.Zigzag2Huff
+4963656 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+4963656 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+4975367 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+4979367 us: Task Quantize read from fifo CPU.DCT2Quant
+
+4979367 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+4985367 us: Task DCT wrote to fifo CPU.DCT2Quant
+4989367 us: Task DCT read from fifo CPU.Read2DCT
+4993688 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+4993688 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+4997688 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5004275 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5004275 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5008275 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5018437 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5018437 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5030148 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5034148 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5034148 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5040148 us: Task DCT wrote to fifo CPU.DCT2Quant
+5044148 us: Task DCT read from fifo CPU.Read2DCT
+5048469 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5048469 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5052469 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5059056 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5059056 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5063056 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5073218 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5073218 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5084929 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5088929 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5088929 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5094929 us: Task DCT wrote to fifo CPU.DCT2Quant
+5098929 us: Task DCT read from fifo CPU.Read2DCT
+5103250 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5103250 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5107250 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5113837 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5113837 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5117837 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5127999 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5127999 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5139710 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5143710 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5143710 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5149710 us: Task DCT wrote to fifo CPU.DCT2Quant
+5153710 us: Task DCT read from fifo CPU.Read2DCT
+5158031 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5158031 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5162031 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5168618 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5168618 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5172618 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5182780 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5182780 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5194491 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5198491 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5198491 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5204491 us: Task DCT wrote to fifo CPU.DCT2Quant
+5208491 us: Task DCT read from fifo CPU.Read2DCT
+5212812 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5212812 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5216812 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5223399 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5223399 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5227399 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5237561 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5237561 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5249272 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5253272 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5253272 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5259272 us: Task DCT wrote to fifo CPU.DCT2Quant
+5263272 us: Task DCT read from fifo CPU.Read2DCT
+5267593 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5267593 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5271593 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5278180 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5278180 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5282180 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5292342 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5292342 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5304053 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5308053 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5308053 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5314053 us: Task DCT wrote to fifo CPU.DCT2Quant
+5318053 us: Task DCT read from fifo CPU.Read2DCT
+5322374 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5322374 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5326374 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5332961 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5332961 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5336961 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5347123 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5347123 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5358834 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5362834 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5362834 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5368834 us: Task DCT wrote to fifo CPU.DCT2Quant
+5372834 us: Task DCT read from fifo CPU.Read2DCT
+5377155 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5377155 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5381155 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5387742 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5387742 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5391742 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5401904 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5401904 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5413615 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5417615 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5417615 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5423615 us: Task DCT wrote to fifo CPU.DCT2Quant
+5427615 us: Task DCT read from fifo CPU.Read2DCT
+5431936 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5431936 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5435936 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5442523 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5442523 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5446523 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5456685 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5456685 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5468396 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5472396 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5472396 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5478396 us: Task DCT wrote to fifo CPU.DCT2Quant
+5482396 us: Task DCT read from fifo CPU.Read2DCT
+5486717 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5486717 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5490717 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5497304 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5497304 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5501304 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5511466 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5511466 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5523177 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5527177 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5527177 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5533177 us: Task DCT wrote to fifo CPU.DCT2Quant
+5537177 us: Task DCT read from fifo CPU.Read2DCT
+5541498 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5541498 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5545498 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5552085 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5552085 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5556085 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5566247 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5566247 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5577958 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5581958 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5581958 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5587958 us: Task DCT wrote to fifo CPU.DCT2Quant
+5591958 us: Task DCT read from fifo CPU.Read2DCT
+5596279 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5596279 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5600279 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5606866 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5606866 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5610866 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5621028 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5621028 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5632739 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5636739 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5636739 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5642739 us: Task DCT wrote to fifo CPU.DCT2Quant
+5646739 us: Task DCT read from fifo CPU.Read2DCT
+5651060 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5651060 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5655060 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5661647 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5661647 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5665647 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5675809 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5675809 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5687520 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5691520 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5691520 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5697520 us: Task DCT wrote to fifo CPU.DCT2Quant
+5701520 us: Task DCT read from fifo CPU.Read2DCT
+5705841 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5705841 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5709841 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5716428 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5716428 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5720428 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5730590 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5730590 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5742301 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5746301 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5746301 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5752301 us: Task DCT wrote to fifo CPU.DCT2Quant
+5756301 us: Task DCT read from fifo CPU.Read2DCT
+5760622 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5760622 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5764622 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5771209 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5771209 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5775209 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5785371 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5785371 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5797082 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5801082 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5801082 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5807082 us: Task DCT wrote to fifo CPU.DCT2Quant
+5811082 us: Task DCT read from fifo CPU.Read2DCT
+5815403 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5815403 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5819403 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5825990 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5825990 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5829990 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5840152 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5840152 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5851863 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5855863 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5855863 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5861863 us: Task DCT wrote to fifo CPU.DCT2Quant
+5865863 us: Task DCT read from fifo CPU.Read2DCT
+5870184 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5870184 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5874184 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5880771 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5880771 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5884771 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5894933 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5894933 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5906644 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5910644 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5910644 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5916644 us: Task DCT wrote to fifo CPU.DCT2Quant
+5920644 us: Task DCT read from fifo CPU.Read2DCT
+5924965 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5924965 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5928965 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5935552 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5935552 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5939552 us: Task Huffman read from fifo CPU.Zigzag2Huff
+5949714 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+5949714 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+5961425 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+5965425 us: Task Quantize read from fifo CPU.DCT2Quant
+
+5965425 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+5971425 us: Task DCT wrote to fifo CPU.DCT2Quant
+5975425 us: Task DCT read from fifo CPU.Read2DCT
+5979746 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+5979746 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+5983746 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+5990333 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+5990333 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+5994333 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6004495 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6004495 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6016206 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6020206 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6020206 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6026206 us: Task DCT wrote to fifo CPU.DCT2Quant
+6030206 us: Task DCT read from fifo CPU.Read2DCT
+6034527 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6034527 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6038527 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6045114 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6045114 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6049114 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6059276 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6059276 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6070987 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6074987 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6074987 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6080987 us: Task DCT wrote to fifo CPU.DCT2Quant
+6084987 us: Task DCT read from fifo CPU.Read2DCT
+6089308 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6089308 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6093308 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6099895 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6099895 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6103895 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6114057 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6114057 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6125768 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6129768 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6129768 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6135768 us: Task DCT wrote to fifo CPU.DCT2Quant
+6139768 us: Task DCT read from fifo CPU.Read2DCT
+6144089 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6144089 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6148089 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6154676 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6154676 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6158676 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6168838 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6168838 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6180549 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6184549 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6184549 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6190549 us: Task DCT wrote to fifo CPU.DCT2Quant
+6194549 us: Task DCT read from fifo CPU.Read2DCT
+6198870 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6198870 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6202870 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6209457 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6209457 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6213457 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6223619 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6223619 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6235330 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6239330 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6239330 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6245330 us: Task DCT wrote to fifo CPU.DCT2Quant
+6249330 us: Task DCT read from fifo CPU.Read2DCT
+6253651 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6253651 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6257651 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6264238 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6264238 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6268238 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6278400 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6278400 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6290111 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6294111 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6294111 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6300111 us: Task DCT wrote to fifo CPU.DCT2Quant
+6304111 us: Task DCT read from fifo CPU.Read2DCT
+6308432 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6308432 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6312432 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6319019 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6319019 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6323019 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6333181 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6333181 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6344892 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6348892 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6348892 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6354892 us: Task DCT wrote to fifo CPU.DCT2Quant
+6358892 us: Task DCT read from fifo CPU.Read2DCT
+6363213 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6363213 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6367213 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6373800 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6373800 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6377800 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6387962 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6387962 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6399673 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6403673 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6403673 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6409673 us: Task DCT wrote to fifo CPU.DCT2Quant
+6413673 us: Task DCT read from fifo CPU.Read2DCT
+6417994 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6417994 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6421994 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6428581 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6428581 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6432581 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6442743 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6442743 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6454454 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6458454 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6458454 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6464454 us: Task DCT wrote to fifo CPU.DCT2Quant
+6468454 us: Task DCT read from fifo CPU.Read2DCT
+6472775 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6472775 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6476775 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6483362 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6483362 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6487362 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6497524 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6497524 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6509235 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6513235 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6513235 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6519235 us: Task DCT wrote to fifo CPU.DCT2Quant
+6523235 us: Task DCT read from fifo CPU.Read2DCT
+6527556 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6527556 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6531556 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6538143 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6538143 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6542143 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6552305 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6552305 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6564016 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6568016 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6568016 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6574016 us: Task DCT wrote to fifo CPU.DCT2Quant
+6578016 us: Task DCT read from fifo CPU.Read2DCT
+6582337 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6582337 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6586337 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6592924 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6592924 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6596924 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6607086 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6607086 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6618797 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6622797 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6622797 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6628797 us: Task DCT wrote to fifo CPU.DCT2Quant
+6632797 us: Task DCT read from fifo CPU.Read2DCT
+6637118 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6637118 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6641118 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6647705 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6647705 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6651705 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6661867 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6661867 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6673578 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6677578 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6677578 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6683578 us: Task DCT wrote to fifo CPU.DCT2Quant
+6687578 us: Task DCT read from fifo CPU.Read2DCT
+6691899 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6691899 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6695899 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6702486 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6702486 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6706486 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6716648 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6716648 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6728359 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6732359 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6732359 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6738359 us: Task DCT wrote to fifo CPU.DCT2Quant
+6742359 us: Task DCT read from fifo CPU.Read2DCT
+6746680 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6746680 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6750680 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6757267 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6757267 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6761267 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6771429 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6771429 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6783140 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6787140 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6787140 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6793140 us: Task DCT wrote to fifo CPU.DCT2Quant
+6797140 us: Task DCT read from fifo CPU.Read2DCT
+6801461 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6801461 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6805461 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6812048 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6812048 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6816048 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6826210 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6826210 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6837921 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6841921 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6841921 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6847921 us: Task DCT wrote to fifo CPU.DCT2Quant
+6851921 us: Task DCT read from fifo CPU.Read2DCT
+6856242 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6856242 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6860242 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6866829 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6866829 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6870829 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6880991 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6880991 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6892702 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6896702 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6896702 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6902702 us: Task DCT wrote to fifo CPU.DCT2Quant
+6906702 us: Task DCT read from fifo CPU.Read2DCT
+6911023 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6911023 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6915023 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6921610 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6921610 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6925610 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6935772 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6935772 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+6947483 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+6951483 us: Task Quantize read from fifo CPU.DCT2Quant
+
+6951483 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+6957483 us: Task DCT wrote to fifo CPU.DCT2Quant
+6961483 us: Task DCT read from fifo CPU.Read2DCT
+6965804 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+6965804 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+6969804 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+6976391 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+6976391 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+6980391 us: Task Huffman read from fifo CPU.Zigzag2Huff
+6990553 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+6990553 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7002264 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7006264 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7006264 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7012264 us: Task DCT wrote to fifo CPU.DCT2Quant
+7016264 us: Task DCT read from fifo CPU.Read2DCT
+7020585 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7020585 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7024585 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7031172 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7031172 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7035172 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7045334 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7045334 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7057045 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7061045 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7061045 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7067045 us: Task DCT wrote to fifo CPU.DCT2Quant
+7071045 us: Task DCT read from fifo CPU.Read2DCT
+7075366 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7075366 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7079366 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7085953 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7085953 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7089953 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7100115 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7100115 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7111826 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7115826 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7115826 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7121826 us: Task DCT wrote to fifo CPU.DCT2Quant
+7125826 us: Task DCT read from fifo CPU.Read2DCT
+7130147 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7130147 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7134147 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7140734 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7140734 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7144734 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7154896 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7154896 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7166607 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7170607 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7170607 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7176607 us: Task DCT wrote to fifo CPU.DCT2Quant
+7180607 us: Task DCT read from fifo CPU.Read2DCT
+7184928 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7184928 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7188928 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7195515 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7195515 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7199515 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7209677 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7209677 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7221388 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7225388 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7225388 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7231388 us: Task DCT wrote to fifo CPU.DCT2Quant
+7235388 us: Task DCT read from fifo CPU.Read2DCT
+7239709 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7239709 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7243709 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7250296 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7250296 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7254296 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7264458 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7264458 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7276169 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7280169 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7280169 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7286169 us: Task DCT wrote to fifo CPU.DCT2Quant
+7290169 us: Task DCT read from fifo CPU.Read2DCT
+7294490 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7294490 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7298490 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7305077 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7305077 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7309077 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7319239 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7319239 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7330950 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7334950 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7334950 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7340950 us: Task DCT wrote to fifo CPU.DCT2Quant
+7344950 us: Task DCT read from fifo CPU.Read2DCT
+7349271 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7349271 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7353271 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7359858 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7359858 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7363858 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7374020 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7374020 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7385731 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7389731 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7389731 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7395731 us: Task DCT wrote to fifo CPU.DCT2Quant
+7399731 us: Task DCT read from fifo CPU.Read2DCT
+7404052 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7404052 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7408052 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7414639 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7414639 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7418639 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7428801 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7428801 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7440512 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7444512 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7444512 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7450512 us: Task DCT wrote to fifo CPU.DCT2Quant
+7454512 us: Task DCT read from fifo CPU.Read2DCT
+7458833 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7458833 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7462833 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7469420 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7469420 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7473420 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7483582 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7483582 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7495293 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7499293 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7499293 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7505293 us: Task DCT wrote to fifo CPU.DCT2Quant
+7509293 us: Task DCT read from fifo CPU.Read2DCT
+7513614 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7513614 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7517614 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7524201 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7524201 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7528201 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7538363 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7538363 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7550074 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7554074 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7554074 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7560074 us: Task DCT wrote to fifo CPU.DCT2Quant
+7564074 us: Task DCT read from fifo CPU.Read2DCT
+7568395 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7568395 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7572395 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7578982 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7578982 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7582982 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7593144 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7593144 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7604855 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7608855 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7608855 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7614855 us: Task DCT wrote to fifo CPU.DCT2Quant
+7618855 us: Task DCT read from fifo CPU.Read2DCT
+7623176 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7623176 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7627176 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7633763 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7633763 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7637763 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7647925 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7647925 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7659636 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7663636 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7663636 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7669636 us: Task DCT wrote to fifo CPU.DCT2Quant
+7673636 us: Task DCT read from fifo CPU.Read2DCT
+7677957 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7677957 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7681957 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7688544 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7688544 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7692544 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7702706 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7702706 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7714417 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7718417 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7718417 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7724417 us: Task DCT wrote to fifo CPU.DCT2Quant
+7728417 us: Task DCT read from fifo CPU.Read2DCT
+7732738 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7732738 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7736738 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7743325 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7743325 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7747325 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7757487 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7757487 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7769198 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7773198 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7773198 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7779198 us: Task DCT wrote to fifo CPU.DCT2Quant
+7783198 us: Task DCT read from fifo CPU.Read2DCT
+7787519 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7787519 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7791519 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7798106 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7798106 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7802106 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7812268 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7812268 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7823979 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7827979 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7827979 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7833979 us: Task DCT wrote to fifo CPU.DCT2Quant
+7837979 us: Task DCT read from fifo CPU.Read2DCT
+7842300 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7842300 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7846300 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7852887 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7852887 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7856887 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7867049 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7867049 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7878760 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7882760 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7882760 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7888760 us: Task DCT wrote to fifo CPU.DCT2Quant
+7892760 us: Task DCT read from fifo CPU.Read2DCT
+7897081 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7897081 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7901081 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7907668 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7907668 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7911668 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7921830 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7921830 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7933541 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7937541 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7937541 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7943541 us: Task DCT wrote to fifo CPU.DCT2Quant
+7947541 us: Task DCT read from fifo CPU.Read2DCT
+7951862 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+7951862 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+7955862 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+7962449 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+7962449 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+7966449 us: Task Huffman read from fifo CPU.Zigzag2Huff
+7976611 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+7976611 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+7988322 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+7992322 us: Task Quantize read from fifo CPU.DCT2Quant
+
+7992322 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+7998322 us: Task DCT wrote to fifo CPU.DCT2Quant
+8002322 us: Task DCT read from fifo CPU.Read2DCT
+8006643 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8006643 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8010643 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8017230 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8017230 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8021230 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8031392 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8031392 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8043103 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8047103 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8047103 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8053103 us: Task DCT wrote to fifo CPU.DCT2Quant
+8057103 us: Task DCT read from fifo CPU.Read2DCT
+8061424 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8061424 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8065424 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8072011 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8072011 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8076011 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8086173 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8086173 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8097884 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8101884 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8101884 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8107884 us: Task DCT wrote to fifo CPU.DCT2Quant
+8111884 us: Task DCT read from fifo CPU.Read2DCT
+8116205 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8116205 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8120205 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8126792 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8126792 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8130792 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8140954 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8140954 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8152665 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8156665 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8156665 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8162665 us: Task DCT wrote to fifo CPU.DCT2Quant
+8166665 us: Task DCT read from fifo CPU.Read2DCT
+8170986 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8170986 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8174986 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8181573 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8181573 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8185573 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8195735 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8195735 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8207446 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8211446 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8211446 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8217446 us: Task DCT wrote to fifo CPU.DCT2Quant
+8221446 us: Task DCT read from fifo CPU.Read2DCT
+8225767 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8225767 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8229767 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8236354 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8236354 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8240354 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8250516 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8250516 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8262227 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8266227 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8266227 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8272227 us: Task DCT wrote to fifo CPU.DCT2Quant
+8276227 us: Task DCT read from fifo CPU.Read2DCT
+8280548 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8280548 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8284548 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8291135 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8291135 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8295135 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8305297 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8305297 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8317008 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8321008 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8321008 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8327008 us: Task DCT wrote to fifo CPU.DCT2Quant
+8331008 us: Task DCT read from fifo CPU.Read2DCT
+8335329 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8335329 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8339329 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8345916 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8345916 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8349916 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8360078 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8360078 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8371789 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8375789 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8375789 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8381789 us: Task DCT wrote to fifo CPU.DCT2Quant
+8385789 us: Task DCT read from fifo CPU.Read2DCT
+8390110 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8390110 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8394110 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8400697 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8400697 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8404697 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8414859 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8414859 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8426570 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8430570 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8430570 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8436570 us: Task DCT wrote to fifo CPU.DCT2Quant
+8440570 us: Task DCT read from fifo CPU.Read2DCT
+8444891 us: Task DCT blocked on writing to fifo CPU.DCT2Quant
+
+8444891 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8448891 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8455478 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8455478 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8459478 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8469640 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8469640 us: STATUS
+Read: TERMINATED
+DCT: SUSPENDED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8481351 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8485351 us: Task Quantize read from fifo CPU.DCT2Quant
+
+8485351 us: STATUS
+Read: TERMINATED
+DCT: RUNNING
+Quantize: READY
+Zigzag: READY
+Huffman: SUSPENDED
+8491351 us: Task DCT wrote to fifo CPU.DCT2Quant
+
+8491351 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: READY
+Zigzag: RUNNING
+Huffman: SUSPENDED
+8495351 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+8501938 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+8501938 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+8505938 us: Task Huffman read from fifo CPU.Zigzag2Huff
+8516100 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+8516100 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+8527811 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8531811 us: Task Quantize read from fifo CPU.DCT2Quant
+8543522 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8547522 us: Task Quantize read from fifo CPU.DCT2Quant
+8559233 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8563233 us: Task Quantize read from fifo CPU.DCT2Quant
+8574944 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8578944 us: Task Quantize read from fifo CPU.DCT2Quant
+8590655 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8594655 us: Task Quantize read from fifo CPU.DCT2Quant
+8606366 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8610366 us: Task Quantize read from fifo CPU.DCT2Quant
+8622077 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8626077 us: Task Quantize read from fifo CPU.DCT2Quant
+8637788 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8641788 us: Task Quantize read from fifo CPU.DCT2Quant
+8653499 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8657499 us: Task Quantize read from fifo CPU.DCT2Quant
+8669210 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8673210 us: Task Quantize read from fifo CPU.DCT2Quant
+8684921 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8688921 us: Task Quantize read from fifo CPU.DCT2Quant
+8700632 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8704632 us: Task Quantize read from fifo CPU.DCT2Quant
+8716343 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8720343 us: Task Quantize read from fifo CPU.DCT2Quant
+8732054 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8736054 us: Task Quantize read from fifo CPU.DCT2Quant
+8747765 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8751765 us: Task Quantize read from fifo CPU.DCT2Quant
+8763476 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8767476 us: Task Quantize read from fifo CPU.DCT2Quant
+8779187 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8783187 us: Task Quantize read from fifo CPU.DCT2Quant
+8794898 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8798898 us: Task Quantize read from fifo CPU.DCT2Quant
+8810609 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8814609 us: Task Quantize read from fifo CPU.DCT2Quant
+8826320 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8830320 us: Task Quantize read from fifo CPU.DCT2Quant
+8842031 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8846031 us: Task Quantize read from fifo CPU.DCT2Quant
+8857742 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8861742 us: Task Quantize read from fifo CPU.DCT2Quant
+8873453 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8877453 us: Task Quantize read from fifo CPU.DCT2Quant
+8889164 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8893164 us: Task Quantize read from fifo CPU.DCT2Quant
+8904875 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8908875 us: Task Quantize read from fifo CPU.DCT2Quant
+8920586 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8924586 us: Task Quantize read from fifo CPU.DCT2Quant
+8936297 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8940297 us: Task Quantize read from fifo CPU.DCT2Quant
+8952008 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8956008 us: Task Quantize read from fifo CPU.DCT2Quant
+8967719 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8971719 us: Task Quantize read from fifo CPU.DCT2Quant
+8983430 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+8987430 us: Task Quantize read from fifo CPU.DCT2Quant
+8999141 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9003141 us: Task Quantize read from fifo CPU.DCT2Quant
+9014852 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9018852 us: Task Quantize read from fifo CPU.DCT2Quant
+9030563 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9034563 us: Task Quantize read from fifo CPU.DCT2Quant
+9046274 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9050274 us: Task Quantize read from fifo CPU.DCT2Quant
+9061985 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9065985 us: Task Quantize read from fifo CPU.DCT2Quant
+9077696 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9081696 us: Task Quantize read from fifo CPU.DCT2Quant
+9093407 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9097407 us: Task Quantize read from fifo CPU.DCT2Quant
+9109118 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9113118 us: Task Quantize read from fifo CPU.DCT2Quant
+9124829 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9128829 us: Task Quantize read from fifo CPU.DCT2Quant
+9140540 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9144540 us: Task Quantize read from fifo CPU.DCT2Quant
+9156251 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9160251 us: Task Quantize read from fifo CPU.DCT2Quant
+9171962 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9175962 us: Task Quantize read from fifo CPU.DCT2Quant
+9187673 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9191673 us: Task Quantize read from fifo CPU.DCT2Quant
+9203384 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9207384 us: Task Quantize read from fifo CPU.DCT2Quant
+9219095 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9223095 us: Task Quantize read from fifo CPU.DCT2Quant
+9234806 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9238806 us: Task Quantize read from fifo CPU.DCT2Quant
+9250517 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9254517 us: Task Quantize read from fifo CPU.DCT2Quant
+9266228 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9270228 us: Task Quantize read from fifo CPU.DCT2Quant
+9281939 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9285939 us: Task Quantize read from fifo CPU.DCT2Quant
+9297650 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9301650 us: Task Quantize read from fifo CPU.DCT2Quant
+9313361 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9317361 us: Task Quantize read from fifo CPU.DCT2Quant
+9329072 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9333072 us: Task Quantize read from fifo CPU.DCT2Quant
+9344783 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9348783 us: Task Quantize read from fifo CPU.DCT2Quant
+9360494 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9364494 us: Task Quantize read from fifo CPU.DCT2Quant
+9376205 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9380205 us: Task Quantize read from fifo CPU.DCT2Quant
+9391916 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9395916 us: Task Quantize read from fifo CPU.DCT2Quant
+9407627 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9411627 us: Task Quantize read from fifo CPU.DCT2Quant
+9423338 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9427338 us: Task Quantize read from fifo CPU.DCT2Quant
+9439049 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9443049 us: Task Quantize read from fifo CPU.DCT2Quant
+9454760 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9458760 us: Task Quantize read from fifo CPU.DCT2Quant
+9470471 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9474471 us: Task Quantize read from fifo CPU.DCT2Quant
+9486182 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9490182 us: Task Quantize read from fifo CPU.DCT2Quant
+9501893 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9505893 us: Task Quantize read from fifo CPU.DCT2Quant
+9517604 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+9521604 us: Task Quantize read from fifo CPU.DCT2Quant
+9527315 us: Task Quantize blocked on writing to fifo CPU.Quant2Zigzag
+
+9527315 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: SUSPENDED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9531315 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9537902 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9537902 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: READY
+Zigzag: READY
+Huffman: RUNNING
+9541902 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9552064 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9552064 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: RUNNING
+Zigzag: READY
+Huffman: SUSPENDED
+9558064 us: Task Quantize wrote to fifo CPU.Quant2Zigzag
+
+9558064 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9562064 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9568651 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9568651 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9572651 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9582813 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9582813 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9586813 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9593400 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9593400 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9597400 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9607562 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9607562 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9611562 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9618149 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9618149 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9622149 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9632311 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9632311 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9636311 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9642898 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9642898 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9646898 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9657060 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9657060 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9661060 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9667647 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9667647 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9671647 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9681809 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9681809 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9685809 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9692396 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9692396 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9696396 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9706558 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9706558 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9710558 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9717145 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9717145 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9721145 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9731307 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9731307 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9735307 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9741894 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9741894 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9745894 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9756056 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9756056 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9760056 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9766643 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9766643 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9770643 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9780805 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9780805 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9784805 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9791392 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9791392 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9795392 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9805554 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9805554 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9809554 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9816141 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9816141 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9820141 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9830303 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9830303 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9834303 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9840890 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9840890 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9844890 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9855052 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9855052 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9859052 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9865639 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9865639 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9869639 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9879801 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9879801 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9883801 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9890388 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9890388 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9894388 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9904550 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9904550 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9908550 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9915137 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9915137 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9919137 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9929299 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9929299 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9933299 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9939886 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9939886 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9943886 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9954048 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9954048 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9958048 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9964635 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9964635 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9968635 us: Task Huffman read from fifo CPU.Zigzag2Huff
+9978797 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+9978797 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+9982797 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+9989384 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+9989384 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+9993384 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10003546 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10003546 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10007546 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10014133 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10014133 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10018133 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10028295 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10028295 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10032295 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10038882 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10038882 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10042882 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10053044 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10053044 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10057044 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10063631 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10063631 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10067631 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10077793 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10077793 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10081793 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10088380 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10088380 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10092380 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10102542 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10102542 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10106542 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10113129 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10113129 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10117129 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10127291 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10127291 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10131291 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10137878 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10137878 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10141878 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10152040 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10152040 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10156040 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10162627 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10162627 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10166627 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10176789 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10176789 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10180789 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10187376 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10187376 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10191376 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10201538 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10201538 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10205538 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10212125 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10212125 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10216125 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10226287 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10226287 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10230287 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10236874 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10236874 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10240874 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10251036 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10251036 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10255036 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10261623 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10261623 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10265623 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10275785 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10275785 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10279785 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10286372 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10286372 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10290372 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10300534 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10300534 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10304534 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10311121 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10311121 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10315121 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10325283 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10325283 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10329283 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10335870 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10335870 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10339870 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10350032 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10350032 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10354032 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10360619 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10360619 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10364619 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10374781 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10374781 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10378781 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10385368 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10385368 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10389368 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10399530 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10399530 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10403530 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10410117 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10410117 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10414117 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10424279 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10424279 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10428279 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10434866 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10434866 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10438866 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10449028 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10449028 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10453028 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10459615 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10459615 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10463615 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10473777 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10473777 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10477777 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10484364 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10484364 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10488364 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10498526 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10498526 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10502526 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10509113 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10509113 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10513113 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10523275 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10523275 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10527275 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10533862 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10533862 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10537862 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10548024 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10548024 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10552024 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10558611 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10558611 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10562611 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10572773 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10572773 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10576773 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10583360 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10583360 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10587360 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10597522 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10597522 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10601522 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10608109 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10608109 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10612109 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10622271 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10622271 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10626271 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10632858 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10632858 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10636858 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10647020 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10647020 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10651020 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10657607 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10657607 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10661607 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10671769 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10671769 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10675769 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10682356 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10682356 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10686356 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10696518 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10696518 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10700518 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10707105 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10707105 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10711105 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10721267 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10721267 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10725267 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10731854 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10731854 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10735854 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10746016 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10746016 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10750016 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10756603 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10756603 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10760603 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10770765 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10770765 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10774765 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10781352 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10781352 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10785352 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10795514 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10795514 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10799514 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10806101 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10806101 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10810101 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10820263 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10820263 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10824263 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10830850 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10830850 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10834850 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10845012 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10845012 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10849012 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10855599 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10855599 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10859599 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10869761 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10869761 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10873761 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10880348 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10880348 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10884348 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10894510 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10894510 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10898510 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10905097 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10905097 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10909097 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10919259 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10919259 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10923259 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10929846 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10929846 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10933846 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10944008 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10944008 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10948008 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10954595 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10954595 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10958595 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10968757 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10968757 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10972757 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+10979344 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+10979344 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+10983344 us: Task Huffman read from fifo CPU.Zigzag2Huff
+10993506 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+10993506 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+10997506 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+11004093 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+11004093 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+11008093 us: Task Huffman read from fifo CPU.Zigzag2Huff
+11018255 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+11018255 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+11022255 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+11028842 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+11028842 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+11032842 us: Task Huffman read from fifo CPU.Zigzag2Huff
+11043004 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+11043004 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+11047004 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+11053591 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+11053591 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+11057591 us: Task Huffman read from fifo CPU.Zigzag2Huff
+11067753 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+11067753 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+11071753 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+11078340 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+11078340 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+11082340 us: Task Huffman read from fifo CPU.Zigzag2Huff
+11092502 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+11092502 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+11096502 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+11103089 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+11103089 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+11107089 us: Task Huffman read from fifo CPU.Zigzag2Huff
+11117251 us: Task Huffman blocked on reading from fifo CPU.Zigzag2Huff
+
+11117251 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: SUSPENDED
+11121251 us: Task Zigzag read from fifo CPU.Quant2Zigzag
+11127838 us: Task Zigzag wrote to fifo CPU.Zigzag2Huff
+
+11127838 us: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: READY
+Huffman: RUNNING
+11131838 us: Task Huffman read from fifo CPU.Zigzag2Huff
+11142 ms: Thread Huffman is writing encoded JPEG to file
+11142 ms: JPEG encoding completed
+
+11142 ms: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: RUNNING
+Huffman: TERMINATED
+
+11142 ms: STATUS
+Read: TERMINATED
+DCT: TERMINATED
+Quantize: TERMINATED
+Zigzag: TERMINATED
+Huffman: TERMINATED
