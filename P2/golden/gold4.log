@@ -1,0 +1,2887 @@
+0 s: Thread Read BMP is initialized
+0 s: Thread DCT is initialized
+0 s: Thread DCT is attempting to receive frame0 from Read BMP
+0 s: Thread Quantize is initialized
+0 s: Thread Quantize is attempting to receive frame0 from DCT
+0 s: Thread ZigZag is initialized
+0 s: Thread ZigZag is attempting to receive frame0 from Quantize
+0 s: Thread Huffman is initialized
+0 s: Thread Huffman is attempting to receive frame0 from ZigZag
+1119 us: Thread Read BMP attempting to send frame0 to DCT
+1119 us: Thread Read BMP has sent frame0 to DCT
+1119 us: Thread DCT has received frame0 from Read BMP
+2238 us: Thread Read BMP attempting to send frame1 to DCT
+2238 us: Thread Read BMP has sent frame1 to DCT
+3357 us: Thread Read BMP attempting to send frame2 to DCT
+3357 us: Thread Read BMP has sent frame2 to DCT
+4476 us: Thread Read BMP attempting to send frame3 to DCT
+4476 us: Thread Read BMP has sent frame3 to DCT
+5440 us: Thread DCT is attempting to send frame0 to Quantize
+5440 us: Thread DCT has sent frame0 to Quantize
+5440 us: Thread DCT is attempting to receive frame1 from Read BMP
+5440 us: Thread DCT has received frame1 from Read BMP
+5440 us: Thread Quantize has received frame0 from DCT
+5595 us: Thread Read BMP attempting to send frame4 to DCT
+5595 us: Thread Read BMP has sent frame4 to DCT
+6714 us: Thread Read BMP attempting to send frame5 to DCT
+6714 us: Thread Read BMP has sent frame5 to DCT
+7833 us: Thread Read BMP attempting to send frame6 to DCT
+7833 us: Thread Read BMP has sent frame6 to DCT
+8952 us: Thread Read BMP attempting to send frame7 to DCT
+8952 us: Thread Read BMP has sent frame7 to DCT
+9761 us: Thread DCT is attempting to send frame1 to Quantize
+9761 us: Thread DCT has sent frame1 to Quantize
+9761 us: Thread DCT is attempting to receive frame2 from Read BMP
+9761 us: Thread DCT has received frame2 from Read BMP
+10071 us: Thread Read BMP attempting to send frame8 to DCT
+10071 us: Thread Read BMP has sent frame8 to DCT
+11151 us: Thread Quantize is attempting to send frame0 to ZigZag
+11151 us: Thread Quantize has sent frame0 to ZigZag
+11151 us: Thread Quantize is attempting to receive frame1 from DCT
+11151 us: Thread Quantize has received frame1 from DCT
+11151 us: Thread ZigZag has received frame0 from Quantize
+11190 us: Thread Read BMP attempting to send frame9 to DCT
+11190 us: Thread Read BMP has sent frame9 to DCT
+11738 us: Thread ZigZag is attempting to send frame0 to Huffman
+11738 us: Thread ZigZag has sent frame0 to Huffman
+11738 us: Thread ZigZag is attempting to receive frame1 from Quantize
+11738 us: Thread Huffman has received frame0 from ZigZag
+12309 us: Thread Read BMP attempting to send frame10 to DCT
+12309 us: Thread Read BMP has sent frame10 to DCT
+13428 us: Thread Read BMP attempting to send frame11 to DCT
+13428 us: Thread Read BMP has sent frame11 to DCT
+14082 us: Thread DCT is attempting to send frame2 to Quantize
+14082 us: Thread DCT has sent frame2 to Quantize
+14082 us: Thread DCT is attempting to receive frame3 from Read BMP
+14082 us: Thread DCT has received frame3 from Read BMP
+14547 us: Thread Read BMP attempting to send frame12 to DCT
+14547 us: Thread Read BMP has sent frame12 to DCT
+15666 us: Thread Read BMP attempting to send frame13 to DCT
+15666 us: Thread Read BMP has sent frame13 to DCT
+16785 us: Thread Read BMP attempting to send frame14 to DCT
+16785 us: Thread Read BMP has sent frame14 to DCT
+16862 us: Thread Quantize is attempting to send frame1 to ZigZag
+16862 us: Thread Quantize has sent frame1 to ZigZag
+16862 us: Thread Quantize is attempting to receive frame2 from DCT
+16862 us: Thread Quantize has received frame2 from DCT
+16862 us: Thread ZigZag has received frame1 from Quantize
+17449 us: Thread ZigZag is attempting to send frame1 to Huffman
+17449 us: Thread ZigZag has sent frame1 to Huffman
+17449 us: Thread ZigZag is attempting to receive frame2 from Quantize
+17904 us: Thread Read BMP attempting to send frame15 to DCT
+17904 us: Thread Read BMP has sent frame15 to DCT
+18403 us: Thread DCT is attempting to send frame3 to Quantize
+18403 us: Thread DCT has sent frame3 to Quantize
+18403 us: Thread DCT is attempting to receive frame4 from Read BMP
+18403 us: Thread DCT has received frame4 from Read BMP
+19023 us: Thread Read BMP attempting to send frame16 to DCT
+19023 us: Thread Read BMP has sent frame16 to DCT
+20142 us: Thread Read BMP attempting to send frame17 to DCT
+20142 us: Thread Read BMP has sent frame17 to DCT
+21261 us: Thread Read BMP attempting to send frame18 to DCT
+21261 us: Thread Read BMP has sent frame18 to DCT
+21900 us: Thread Huffman is attempting to receive frame1 from ZigZag
+21900 us: Thread Huffman has received frame1 from ZigZag
+22380 us: Thread Read BMP attempting to send frame19 to DCT
+22380 us: Thread Read BMP has sent frame19 to DCT
+22573 us: Thread Quantize is attempting to send frame2 to ZigZag
+22573 us: Thread Quantize has sent frame2 to ZigZag
+22573 us: Thread Quantize is attempting to receive frame3 from DCT
+22573 us: Thread Quantize has received frame3 from DCT
+22573 us: Thread ZigZag has received frame2 from Quantize
+22724 us: Thread DCT is attempting to send frame4 to Quantize
+22724 us: Thread DCT has sent frame4 to Quantize
+22724 us: Thread DCT is attempting to receive frame5 from Read BMP
+22724 us: Thread DCT has received frame5 from Read BMP
+23160 us: Thread ZigZag is attempting to send frame2 to Huffman
+23160 us: Thread ZigZag has sent frame2 to Huffman
+23160 us: Thread ZigZag is attempting to receive frame3 from Quantize
+23499 us: Thread Read BMP attempting to send frame20 to DCT
+23499 us: Thread Read BMP has sent frame20 to DCT
+24618 us: Thread Read BMP attempting to send frame21 to DCT
+24618 us: Thread Read BMP has sent frame21 to DCT
+25737 us: Thread Read BMP attempting to send frame22 to DCT
+25737 us: Thread Read BMP has sent frame22 to DCT
+26856 us: Thread Read BMP attempting to send frame23 to DCT
+26856 us: Thread Read BMP has sent frame23 to DCT
+27045 us: Thread DCT is attempting to send frame5 to Quantize
+27045 us: Thread DCT has sent frame5 to Quantize
+27045 us: Thread DCT is attempting to receive frame6 from Read BMP
+27045 us: Thread DCT has received frame6 from Read BMP
+27975 us: Thread Read BMP attempting to send frame24 to DCT
+27975 us: Thread Read BMP has sent frame24 to DCT
+28284 us: Thread Quantize is attempting to send frame3 to ZigZag
+28284 us: Thread Quantize has sent frame3 to ZigZag
+28284 us: Thread Quantize is attempting to receive frame4 from DCT
+28284 us: Thread Quantize has received frame4 from DCT
+28284 us: Thread ZigZag has received frame3 from Quantize
+28871 us: Thread ZigZag is attempting to send frame3 to Huffman
+28871 us: Thread ZigZag has sent frame3 to Huffman
+28871 us: Thread ZigZag is attempting to receive frame4 from Quantize
+29094 us: Thread Read BMP attempting to send frame25 to DCT
+29094 us: Thread Read BMP has sent frame25 to DCT
+30213 us: Thread Read BMP attempting to send frame26 to DCT
+30213 us: Thread Read BMP has sent frame26 to DCT
+31332 us: Thread Read BMP attempting to send frame27 to DCT
+31332 us: Thread Read BMP has sent frame27 to DCT
+31366 us: Thread DCT is attempting to send frame6 to Quantize
+31366 us: Thread DCT has sent frame6 to Quantize
+31366 us: Thread DCT is attempting to receive frame7 from Read BMP
+31366 us: Thread DCT has received frame7 from Read BMP
+32062 us: Thread Huffman is attempting to receive frame2 from ZigZag
+32062 us: Thread Huffman has received frame2 from ZigZag
+32451 us: Thread Read BMP attempting to send frame28 to DCT
+32451 us: Thread Read BMP has sent frame28 to DCT
+33570 us: Thread Read BMP attempting to send frame29 to DCT
+33570 us: Thread Read BMP has sent frame29 to DCT
+33995 us: Thread Quantize is attempting to send frame4 to ZigZag
+33995 us: Thread Quantize has sent frame4 to ZigZag
+33995 us: Thread Quantize is attempting to receive frame5 from DCT
+33995 us: Thread Quantize has received frame5 from DCT
+33995 us: Thread ZigZag has received frame4 from Quantize
+34582 us: Thread ZigZag is attempting to send frame4 to Huffman
+34582 us: Thread ZigZag has sent frame4 to Huffman
+34582 us: Thread ZigZag is attempting to receive frame5 from Quantize
+34689 us: Thread Read BMP attempting to send frame30 to DCT
+34689 us: Thread Read BMP has sent frame30 to DCT
+35687 us: Thread DCT is attempting to send frame7 to Quantize
+35687 us: Thread DCT has sent frame7 to Quantize
+35687 us: Thread DCT is attempting to receive frame8 from Read BMP
+35687 us: Thread DCT has received frame8 from Read BMP
+35808 us: Thread Read BMP attempting to send frame31 to DCT
+35808 us: Thread Read BMP has sent frame31 to DCT
+36927 us: Thread Read BMP attempting to send frame32 to DCT
+36927 us: Thread Read BMP has sent frame32 to DCT
+38046 us: Thread Read BMP attempting to send frame33 to DCT
+38046 us: Thread Read BMP has sent frame33 to DCT
+39165 us: Thread Read BMP attempting to send frame34 to DCT
+39165 us: Thread Read BMP has sent frame34 to DCT
+39706 us: Thread Quantize is attempting to send frame5 to ZigZag
+39706 us: Thread Quantize has sent frame5 to ZigZag
+39706 us: Thread Quantize is attempting to receive frame6 from DCT
+39706 us: Thread Quantize has received frame6 from DCT
+39706 us: Thread ZigZag has received frame5 from Quantize
+40008 us: Thread DCT is attempting to send frame8 to Quantize
+40008 us: Thread DCT has sent frame8 to Quantize
+40008 us: Thread DCT is attempting to receive frame9 from Read BMP
+40008 us: Thread DCT has received frame9 from Read BMP
+40284 us: Thread Read BMP attempting to send frame35 to DCT
+40284 us: Thread Read BMP has sent frame35 to DCT
+40293 us: Thread ZigZag is attempting to send frame5 to Huffman
+40293 us: Thread ZigZag has sent frame5 to Huffman
+40293 us: Thread ZigZag is attempting to receive frame6 from Quantize
+41403 us: Thread Read BMP attempting to send frame36 to DCT
+41403 us: Thread Read BMP has sent frame36 to DCT
+42224 us: Thread Huffman is attempting to receive frame3 from ZigZag
+42224 us: Thread Huffman has received frame3 from ZigZag
+42522 us: Thread Read BMP attempting to send frame37 to DCT
+42522 us: Thread Read BMP has sent frame37 to DCT
+43641 us: Thread Read BMP attempting to send frame38 to DCT
+43641 us: Thread Read BMP has sent frame38 to DCT
+44329 us: Thread DCT is attempting to send frame9 to Quantize
+44329 us: Thread DCT has sent frame9 to Quantize
+44329 us: Thread DCT is attempting to receive frame10 from Read BMP
+44329 us: Thread DCT has received frame10 from Read BMP
+44760 us: Thread Read BMP attempting to send frame39 to DCT
+44760 us: Thread Read BMP has sent frame39 to DCT
+45417 us: Thread Quantize is attempting to send frame6 to ZigZag
+45417 us: Thread Quantize has sent frame6 to ZigZag
+45417 us: Thread Quantize is attempting to receive frame7 from DCT
+45417 us: Thread Quantize has received frame7 from DCT
+45417 us: Thread ZigZag has received frame6 from Quantize
+45879 us: Thread Read BMP attempting to send frame40 to DCT
+45879 us: Thread Read BMP has sent frame40 to DCT
+46004 us: Thread ZigZag is attempting to send frame6 to Huffman
+46004 us: Thread ZigZag has sent frame6 to Huffman
+46004 us: Thread ZigZag is attempting to receive frame7 from Quantize
+46998 us: Thread Read BMP attempting to send frame41 to DCT
+46998 us: Thread Read BMP has sent frame41 to DCT
+48117 us: Thread Read BMP attempting to send frame42 to DCT
+48117 us: Thread Read BMP has sent frame42 to DCT
+48650 us: Thread DCT is attempting to send frame10 to Quantize
+48650 us: Thread DCT has sent frame10 to Quantize
+48650 us: Thread DCT is attempting to receive frame11 from Read BMP
+48650 us: Thread DCT has received frame11 from Read BMP
+49236 us: Thread Read BMP attempting to send frame43 to DCT
+49236 us: Thread Read BMP has sent frame43 to DCT
+50355 us: Thread Read BMP attempting to send frame44 to DCT
+50355 us: Thread Read BMP has sent frame44 to DCT
+51128 us: Thread Quantize is attempting to send frame7 to ZigZag
+51128 us: Thread Quantize has sent frame7 to ZigZag
+51128 us: Thread Quantize is attempting to receive frame8 from DCT
+51128 us: Thread Quantize has received frame8 from DCT
+51128 us: Thread ZigZag has received frame7 from Quantize
+51474 us: Thread Read BMP attempting to send frame45 to DCT
+51474 us: Thread Read BMP has sent frame45 to DCT
+51715 us: Thread ZigZag is attempting to send frame7 to Huffman
+51715 us: Thread ZigZag has sent frame7 to Huffman
+51715 us: Thread ZigZag is attempting to receive frame8 from Quantize
+52386 us: Thread Huffman is attempting to receive frame4 from ZigZag
+52386 us: Thread Huffman has received frame4 from ZigZag
+52593 us: Thread Read BMP attempting to send frame46 to DCT
+52593 us: Thread Read BMP has sent frame46 to DCT
+52971 us: Thread DCT is attempting to send frame11 to Quantize
+52971 us: Thread DCT has sent frame11 to Quantize
+52971 us: Thread DCT is attempting to receive frame12 from Read BMP
+52971 us: Thread DCT has received frame12 from Read BMP
+53712 us: Thread Read BMP attempting to send frame47 to DCT
+53712 us: Thread Read BMP has sent frame47 to DCT
+54831 us: Thread Read BMP attempting to send frame48 to DCT
+54831 us: Thread Read BMP has sent frame48 to DCT
+55950 us: Thread Read BMP attempting to send frame49 to DCT
+55950 us: Thread Read BMP has sent frame49 to DCT
+56839 us: Thread Quantize is attempting to send frame8 to ZigZag
+56839 us: Thread Quantize has sent frame8 to ZigZag
+56839 us: Thread Quantize is attempting to receive frame9 from DCT
+56839 us: Thread Quantize has received frame9 from DCT
+56839 us: Thread ZigZag has received frame8 from Quantize
+57069 us: Thread Read BMP attempting to send frame50 to DCT
+57069 us: Thread Read BMP has sent frame50 to DCT
+57292 us: Thread DCT is attempting to send frame12 to Quantize
+57292 us: Thread DCT has sent frame12 to Quantize
+57292 us: Thread DCT is attempting to receive frame13 from Read BMP
+57292 us: Thread DCT has received frame13 from Read BMP
+57426 us: Thread ZigZag is attempting to send frame8 to Huffman
+57426 us: Thread ZigZag has sent frame8 to Huffman
+57426 us: Thread ZigZag is attempting to receive frame9 from Quantize
+58188 us: Thread Read BMP attempting to send frame51 to DCT
+58188 us: Thread Read BMP has sent frame51 to DCT
+59307 us: Thread Read BMP attempting to send frame52 to DCT
+59307 us: Thread Read BMP has sent frame52 to DCT
+60426 us: Thread Read BMP attempting to send frame53 to DCT
+60426 us: Thread Read BMP has sent frame53 to DCT
+61545 us: Thread Read BMP attempting to send frame54 to DCT
+61545 us: Thread Read BMP has sent frame54 to DCT
+61613 us: Thread DCT is attempting to send frame13 to Quantize
+61613 us: Thread DCT has sent frame13 to Quantize
+61613 us: Thread DCT is attempting to receive frame14 from Read BMP
+61613 us: Thread DCT has received frame14 from Read BMP
+62548 us: Thread Huffman is attempting to receive frame5 from ZigZag
+62548 us: Thread Huffman has received frame5 from ZigZag
+62550 us: Thread Quantize is attempting to send frame9 to ZigZag
+62550 us: Thread Quantize has sent frame9 to ZigZag
+62550 us: Thread Quantize is attempting to receive frame10 from DCT
+62550 us: Thread Quantize has received frame10 from DCT
+62550 us: Thread ZigZag has received frame9 from Quantize
+62664 us: Thread Read BMP attempting to send frame55 to DCT
+62664 us: Thread Read BMP has sent frame55 to DCT
+63137 us: Thread ZigZag is attempting to send frame9 to Huffman
+63137 us: Thread ZigZag has sent frame9 to Huffman
+63137 us: Thread ZigZag is attempting to receive frame10 from Quantize
+63783 us: Thread Read BMP attempting to send frame56 to DCT
+63783 us: Thread Read BMP has sent frame56 to DCT
+64902 us: Thread Read BMP attempting to send frame57 to DCT
+64902 us: Thread Read BMP has sent frame57 to DCT
+65934 us: Thread DCT is attempting to send frame14 to Quantize
+65934 us: Thread DCT has sent frame14 to Quantize
+65934 us: Thread DCT is attempting to receive frame15 from Read BMP
+65934 us: Thread DCT has received frame15 from Read BMP
+66021 us: Thread Read BMP attempting to send frame58 to DCT
+66021 us: Thread Read BMP has sent frame58 to DCT
+67140 us: Thread Read BMP attempting to send frame59 to DCT
+67140 us: Thread Read BMP has sent frame59 to DCT
+68259 us: Thread Read BMP attempting to send frame60 to DCT
+68259 us: Thread Read BMP has sent frame60 to DCT
+68261 us: Thread Quantize is attempting to send frame10 to ZigZag
+68261 us: Thread Quantize has sent frame10 to ZigZag
+68261 us: Thread Quantize is attempting to receive frame11 from DCT
+68261 us: Thread Quantize has received frame11 from DCT
+68261 us: Thread ZigZag has received frame10 from Quantize
+68848 us: Thread ZigZag is attempting to send frame10 to Huffman
+68848 us: Thread ZigZag has sent frame10 to Huffman
+68848 us: Thread ZigZag is attempting to receive frame11 from Quantize
+69378 us: Thread Read BMP attempting to send frame61 to DCT
+69378 us: Thread Read BMP has sent frame61 to DCT
+70255 us: Thread DCT is attempting to send frame15 to Quantize
+70255 us: Thread DCT has sent frame15 to Quantize
+70255 us: Thread DCT is attempting to receive frame16 from Read BMP
+70255 us: Thread DCT has received frame16 from Read BMP
+70497 us: Thread Read BMP attempting to send frame62 to DCT
+70497 us: Thread Read BMP has sent frame62 to DCT
+71616 us: Thread Read BMP attempting to send frame63 to DCT
+71616 us: Thread Read BMP has sent frame63 to DCT
+72710 us: Thread Huffman is attempting to receive frame6 from ZigZag
+72710 us: Thread Huffman has received frame6 from ZigZag
+72735 us: Thread Read BMP attempting to send frame64 to DCT
+72735 us: Thread Read BMP has sent frame64 to DCT
+73854 us: Thread Read BMP attempting to send frame65 to DCT
+73854 us: Thread Read BMP has sent frame65 to DCT
+73972 us: Thread Quantize is attempting to send frame11 to ZigZag
+73972 us: Thread Quantize has sent frame11 to ZigZag
+73972 us: Thread Quantize is attempting to receive frame12 from DCT
+73972 us: Thread Quantize has received frame12 from DCT
+73972 us: Thread ZigZag has received frame11 from Quantize
+74559 us: Thread ZigZag is attempting to send frame11 to Huffman
+74559 us: Thread ZigZag has sent frame11 to Huffman
+74559 us: Thread ZigZag is attempting to receive frame12 from Quantize
+74576 us: Thread DCT is attempting to send frame16 to Quantize
+74576 us: Thread DCT has sent frame16 to Quantize
+74576 us: Thread DCT is attempting to receive frame17 from Read BMP
+74576 us: Thread DCT has received frame17 from Read BMP
+74973 us: Thread Read BMP attempting to send frame66 to DCT
+74973 us: Thread Read BMP has sent frame66 to DCT
+76092 us: Thread Read BMP attempting to send frame67 to DCT
+76092 us: Thread Read BMP has sent frame67 to DCT
+77211 us: Thread Read BMP attempting to send frame68 to DCT
+77211 us: Thread Read BMP has sent frame68 to DCT
+78330 us: Thread Read BMP attempting to send frame69 to DCT
+78330 us: Thread Read BMP has sent frame69 to DCT
+78897 us: Thread DCT is attempting to send frame17 to Quantize
+78897 us: Thread DCT has sent frame17 to Quantize
+78897 us: Thread DCT is attempting to receive frame18 from Read BMP
+78897 us: Thread DCT has received frame18 from Read BMP
+79449 us: Thread Read BMP attempting to send frame70 to DCT
+79449 us: Thread Read BMP has sent frame70 to DCT
+79683 us: Thread Quantize is attempting to send frame12 to ZigZag
+79683 us: Thread Quantize has sent frame12 to ZigZag
+79683 us: Thread Quantize is attempting to receive frame13 from DCT
+79683 us: Thread Quantize has received frame13 from DCT
+79683 us: Thread ZigZag has received frame12 from Quantize
+80270 us: Thread ZigZag is attempting to send frame12 to Huffman
+80270 us: Thread ZigZag has sent frame12 to Huffman
+80270 us: Thread ZigZag is attempting to receive frame13 from Quantize
+80568 us: Thread Read BMP attempting to send frame71 to DCT
+80568 us: Thread Read BMP has sent frame71 to DCT
+81687 us: Thread Read BMP attempting to send frame72 to DCT
+81687 us: Thread Read BMP has sent frame72 to DCT
+82806 us: Thread Read BMP attempting to send frame73 to DCT
+82806 us: Thread Read BMP has sent frame73 to DCT
+82872 us: Thread Huffman is attempting to receive frame7 from ZigZag
+82872 us: Thread Huffman has received frame7 from ZigZag
+83218 us: Thread DCT is attempting to send frame18 to Quantize
+83218 us: Thread DCT has sent frame18 to Quantize
+83218 us: Thread DCT is attempting to receive frame19 from Read BMP
+83218 us: Thread DCT has received frame19 from Read BMP
+83925 us: Thread Read BMP attempting to send frame74 to DCT
+83925 us: Thread Read BMP has sent frame74 to DCT
+85044 us: Thread Read BMP attempting to send frame75 to DCT
+85044 us: Thread Read BMP has sent frame75 to DCT
+85394 us: Thread Quantize is attempting to send frame13 to ZigZag
+85394 us: Thread Quantize has sent frame13 to ZigZag
+85394 us: Thread Quantize is attempting to receive frame14 from DCT
+85394 us: Thread Quantize has received frame14 from DCT
+85394 us: Thread ZigZag has received frame13 from Quantize
+85981 us: Thread ZigZag is attempting to send frame13 to Huffman
+85981 us: Thread ZigZag has sent frame13 to Huffman
+85981 us: Thread ZigZag is attempting to receive frame14 from Quantize
+86163 us: Thread Read BMP attempting to send frame76 to DCT
+86163 us: Thread Read BMP has sent frame76 to DCT
+87282 us: Thread Read BMP attempting to send frame77 to DCT
+87282 us: Thread Read BMP has sent frame77 to DCT
+87539 us: Thread DCT is attempting to send frame19 to Quantize
+87539 us: Thread DCT has sent frame19 to Quantize
+87539 us: Thread DCT is attempting to receive frame20 from Read BMP
+87539 us: Thread DCT has received frame20 from Read BMP
+88401 us: Thread Read BMP attempting to send frame78 to DCT
+88401 us: Thread Read BMP has sent frame78 to DCT
+89520 us: Thread Read BMP attempting to send frame79 to DCT
+89520 us: Thread Read BMP has sent frame79 to DCT
+90639 us: Thread Read BMP attempting to send frame80 to DCT
+90639 us: Thread Read BMP has sent frame80 to DCT
+91105 us: Thread Quantize is attempting to send frame14 to ZigZag
+91105 us: Thread Quantize has sent frame14 to ZigZag
+91105 us: Thread Quantize is attempting to receive frame15 from DCT
+91105 us: Thread Quantize has received frame15 from DCT
+91105 us: Thread ZigZag has received frame14 from Quantize
+91692 us: Thread ZigZag is attempting to send frame14 to Huffman
+91692 us: Thread ZigZag has sent frame14 to Huffman
+91692 us: Thread ZigZag is attempting to receive frame15 from Quantize
+91758 us: Thread Read BMP attempting to send frame81 to DCT
+91758 us: Thread Read BMP has sent frame81 to DCT
+91860 us: Thread DCT is attempting to send frame20 to Quantize
+91860 us: Thread DCT has sent frame20 to Quantize
+91860 us: Thread DCT is attempting to receive frame21 from Read BMP
+91860 us: Thread DCT has received frame21 from Read BMP
+92877 us: Thread Read BMP attempting to send frame82 to DCT
+92877 us: Thread Read BMP has sent frame82 to DCT
+93034 us: Thread Huffman is attempting to receive frame8 from ZigZag
+93034 us: Thread Huffman has received frame8 from ZigZag
+93996 us: Thread Read BMP attempting to send frame83 to DCT
+93996 us: Thread Read BMP has sent frame83 to DCT
+95115 us: Thread Read BMP attempting to send frame84 to DCT
+95115 us: Thread Read BMP has sent frame84 to DCT
+96181 us: Thread DCT is attempting to send frame21 to Quantize
+96181 us: Thread DCT has sent frame21 to Quantize
+96181 us: Thread DCT is attempting to receive frame22 from Read BMP
+96181 us: Thread DCT has received frame22 from Read BMP
+96234 us: Thread Read BMP attempting to send frame85 to DCT
+96234 us: Thread Read BMP has sent frame85 to DCT
+96816 us: Thread Quantize is attempting to send frame15 to ZigZag
+96816 us: Thread Quantize has sent frame15 to ZigZag
+96816 us: Thread Quantize is attempting to receive frame16 from DCT
+96816 us: Thread Quantize has received frame16 from DCT
+96816 us: Thread ZigZag has received frame15 from Quantize
+97353 us: Thread Read BMP attempting to send frame86 to DCT
+97353 us: Thread Read BMP has sent frame86 to DCT
+97403 us: Thread ZigZag is attempting to send frame15 to Huffman
+97403 us: Thread ZigZag has sent frame15 to Huffman
+97403 us: Thread ZigZag is attempting to receive frame16 from Quantize
+98472 us: Thread Read BMP attempting to send frame87 to DCT
+98472 us: Thread Read BMP has sent frame87 to DCT
+99591 us: Thread Read BMP attempting to send frame88 to DCT
+99591 us: Thread Read BMP has sent frame88 to DCT
+100502 us: Thread DCT is attempting to send frame22 to Quantize
+100502 us: Thread DCT has sent frame22 to Quantize
+100502 us: Thread DCT is attempting to receive frame23 from Read BMP
+100502 us: Thread DCT has received frame23 from Read BMP
+100710 us: Thread Read BMP attempting to send frame89 to DCT
+100710 us: Thread Read BMP has sent frame89 to DCT
+101829 us: Thread Read BMP attempting to send frame90 to DCT
+101829 us: Thread Read BMP has sent frame90 to DCT
+102527 us: Thread Quantize is attempting to send frame16 to ZigZag
+102527 us: Thread Quantize has sent frame16 to ZigZag
+102527 us: Thread Quantize is attempting to receive frame17 from DCT
+102527 us: Thread Quantize has received frame17 from DCT
+102527 us: Thread ZigZag has received frame16 from Quantize
+102948 us: Thread Read BMP attempting to send frame91 to DCT
+102948 us: Thread Read BMP has sent frame91 to DCT
+103114 us: Thread ZigZag is attempting to send frame16 to Huffman
+103114 us: Thread ZigZag has sent frame16 to Huffman
+103114 us: Thread ZigZag is attempting to receive frame17 from Quantize
+103196 us: Thread Huffman is attempting to receive frame9 from ZigZag
+103196 us: Thread Huffman has received frame9 from ZigZag
+104067 us: Thread Read BMP attempting to send frame92 to DCT
+104067 us: Thread Read BMP has sent frame92 to DCT
+104823 us: Thread DCT is attempting to send frame23 to Quantize
+104823 us: Thread DCT has sent frame23 to Quantize
+104823 us: Thread DCT is attempting to receive frame24 from Read BMP
+104823 us: Thread DCT has received frame24 from Read BMP
+105186 us: Thread Read BMP attempting to send frame93 to DCT
+105186 us: Thread Read BMP has sent frame93 to DCT
+106305 us: Thread Read BMP attempting to send frame94 to DCT
+106305 us: Thread Read BMP has sent frame94 to DCT
+107424 us: Thread Read BMP attempting to send frame95 to DCT
+107424 us: Thread Read BMP has sent frame95 to DCT
+108238 us: Thread Quantize is attempting to send frame17 to ZigZag
+108238 us: Thread Quantize has sent frame17 to ZigZag
+108238 us: Thread Quantize is attempting to receive frame18 from DCT
+108238 us: Thread Quantize has received frame18 from DCT
+108238 us: Thread ZigZag has received frame17 from Quantize
+108543 us: Thread Read BMP attempting to send frame96 to DCT
+108543 us: Thread Read BMP has sent frame96 to DCT
+108825 us: Thread ZigZag is attempting to send frame17 to Huffman
+108825 us: Thread ZigZag has sent frame17 to Huffman
+108825 us: Thread ZigZag is attempting to receive frame18 from Quantize
+109144 us: Thread DCT is attempting to send frame24 to Quantize
+109144 us: Thread DCT has sent frame24 to Quantize
+109144 us: Thread DCT is attempting to receive frame25 from Read BMP
+109144 us: Thread DCT has received frame25 from Read BMP
+109662 us: Thread Read BMP attempting to send frame97 to DCT
+109662 us: Thread Read BMP has sent frame97 to DCT
+110781 us: Thread Read BMP attempting to send frame98 to DCT
+110781 us: Thread Read BMP has sent frame98 to DCT
+111900 us: Thread Read BMP attempting to send frame99 to DCT
+111900 us: Thread Read BMP has sent frame99 to DCT
+113019 us: Thread Read BMP attempting to send frame100 to DCT
+113019 us: Thread Read BMP has sent frame100 to DCT
+113358 us: Thread Huffman is attempting to receive frame10 from ZigZag
+113358 us: Thread Huffman has received frame10 from ZigZag
+113465 us: Thread DCT is attempting to send frame25 to Quantize
+113465 us: Thread DCT has sent frame25 to Quantize
+113465 us: Thread DCT is attempting to receive frame26 from Read BMP
+113465 us: Thread DCT has received frame26 from Read BMP
+113949 us: Thread Quantize is attempting to send frame18 to ZigZag
+113949 us: Thread Quantize has sent frame18 to ZigZag
+113949 us: Thread Quantize is attempting to receive frame19 from DCT
+113949 us: Thread Quantize has received frame19 from DCT
+113949 us: Thread ZigZag has received frame18 from Quantize
+114138 us: Thread Read BMP attempting to send frame101 to DCT
+114138 us: Thread Read BMP has sent frame101 to DCT
+114536 us: Thread ZigZag is attempting to send frame18 to Huffman
+114536 us: Thread ZigZag has sent frame18 to Huffman
+114536 us: Thread ZigZag is attempting to receive frame19 from Quantize
+115257 us: Thread Read BMP attempting to send frame102 to DCT
+115257 us: Thread Read BMP has sent frame102 to DCT
+116376 us: Thread Read BMP attempting to send frame103 to DCT
+116376 us: Thread Read BMP has sent frame103 to DCT
+117495 us: Thread Read BMP attempting to send frame104 to DCT
+117495 us: Thread Read BMP has sent frame104 to DCT
+117786 us: Thread DCT is attempting to send frame26 to Quantize
+117786 us: Thread DCT has sent frame26 to Quantize
+117786 us: Thread DCT is attempting to receive frame27 from Read BMP
+117786 us: Thread DCT has received frame27 from Read BMP
+118614 us: Thread Read BMP attempting to send frame105 to DCT
+118614 us: Thread Read BMP has sent frame105 to DCT
+119660 us: Thread Quantize is attempting to send frame19 to ZigZag
+119660 us: Thread Quantize has sent frame19 to ZigZag
+119660 us: Thread Quantize is attempting to receive frame20 from DCT
+119660 us: Thread Quantize has received frame20 from DCT
+119660 us: Thread ZigZag has received frame19 from Quantize
+119733 us: Thread Read BMP attempting to send frame106 to DCT
+119733 us: Thread Read BMP has sent frame106 to DCT
+120247 us: Thread ZigZag is attempting to send frame19 to Huffman
+120247 us: Thread ZigZag has sent frame19 to Huffman
+120247 us: Thread ZigZag is attempting to receive frame20 from Quantize
+120852 us: Thread Read BMP attempting to send frame107 to DCT
+120852 us: Thread Read BMP has sent frame107 to DCT
+121971 us: Thread Read BMP attempting to send frame108 to DCT
+121971 us: Thread Read BMP has sent frame108 to DCT
+122107 us: Thread DCT is attempting to send frame27 to Quantize
+122107 us: Thread DCT has sent frame27 to Quantize
+122107 us: Thread DCT is attempting to receive frame28 from Read BMP
+122107 us: Thread DCT has received frame28 from Read BMP
+123090 us: Thread Read BMP attempting to send frame109 to DCT
+123090 us: Thread Read BMP has sent frame109 to DCT
+123520 us: Thread Huffman is attempting to receive frame11 from ZigZag
+123520 us: Thread Huffman has received frame11 from ZigZag
+124209 us: Thread Read BMP attempting to send frame110 to DCT
+124209 us: Thread Read BMP has sent frame110 to DCT
+125328 us: Thread Read BMP attempting to send frame111 to DCT
+125328 us: Thread Read BMP has sent frame111 to DCT
+125371 us: Thread Quantize is attempting to send frame20 to ZigZag
+125371 us: Thread Quantize has sent frame20 to ZigZag
+125371 us: Thread Quantize is attempting to receive frame21 from DCT
+125371 us: Thread Quantize has received frame21 from DCT
+125371 us: Thread ZigZag has received frame20 from Quantize
+125958 us: Thread ZigZag is attempting to send frame20 to Huffman
+125958 us: Thread ZigZag has sent frame20 to Huffman
+125958 us: Thread ZigZag is attempting to receive frame21 from Quantize
+126428 us: Thread DCT is attempting to send frame28 to Quantize
+126428 us: Thread DCT has sent frame28 to Quantize
+126428 us: Thread DCT is attempting to receive frame29 from Read BMP
+126428 us: Thread DCT has received frame29 from Read BMP
+126447 us: Thread Read BMP attempting to send frame112 to DCT
+126447 us: Thread Read BMP has sent frame112 to DCT
+127566 us: Thread Read BMP attempting to send frame113 to DCT
+127566 us: Thread Read BMP has sent frame113 to DCT
+128685 us: Thread Read BMP attempting to send frame114 to DCT
+128685 us: Thread Read BMP has sent frame114 to DCT
+129804 us: Thread Read BMP attempting to send frame115 to DCT
+129804 us: Thread Read BMP has sent frame115 to DCT
+130749 us: Thread DCT is attempting to send frame29 to Quantize
+130749 us: Thread DCT has sent frame29 to Quantize
+130749 us: Thread DCT is attempting to receive frame30 from Read BMP
+130749 us: Thread DCT has received frame30 from Read BMP
+130923 us: Thread Read BMP attempting to send frame116 to DCT
+130923 us: Thread Read BMP has sent frame116 to DCT
+131082 us: Thread Quantize is attempting to send frame21 to ZigZag
+131082 us: Thread Quantize has sent frame21 to ZigZag
+131082 us: Thread Quantize is attempting to receive frame22 from DCT
+131082 us: Thread Quantize has received frame22 from DCT
+131082 us: Thread ZigZag has received frame21 from Quantize
+131669 us: Thread ZigZag is attempting to send frame21 to Huffman
+131669 us: Thread ZigZag has sent frame21 to Huffman
+131669 us: Thread ZigZag is attempting to receive frame22 from Quantize
+132042 us: Thread Read BMP attempting to send frame117 to DCT
+132042 us: Thread Read BMP has sent frame117 to DCT
+133161 us: Thread Read BMP attempting to send frame118 to DCT
+133161 us: Thread Read BMP has sent frame118 to DCT
+133682 us: Thread Huffman is attempting to receive frame12 from ZigZag
+133682 us: Thread Huffman has received frame12 from ZigZag
+134280 us: Thread Read BMP attempting to send frame119 to DCT
+134280 us: Thread Read BMP has sent frame119 to DCT
+135070 us: Thread DCT is attempting to send frame30 to Quantize
+135070 us: Thread DCT has sent frame30 to Quantize
+135070 us: Thread DCT is attempting to receive frame31 from Read BMP
+135070 us: Thread DCT has received frame31 from Read BMP
+135399 us: Thread Read BMP attempting to send frame120 to DCT
+135399 us: Thread Read BMP has sent frame120 to DCT
+136518 us: Thread Read BMP attempting to send frame121 to DCT
+136518 us: Thread Read BMP has sent frame121 to DCT
+136793 us: Thread Quantize is attempting to send frame22 to ZigZag
+136793 us: Thread Quantize has sent frame22 to ZigZag
+136793 us: Thread Quantize is attempting to receive frame23 from DCT
+136793 us: Thread Quantize has received frame23 from DCT
+136793 us: Thread ZigZag has received frame22 from Quantize
+137380 us: Thread ZigZag is attempting to send frame22 to Huffman
+137380 us: Thread ZigZag has sent frame22 to Huffman
+137380 us: Thread ZigZag is attempting to receive frame23 from Quantize
+137637 us: Thread Read BMP attempting to send frame122 to DCT
+137637 us: Thread Read BMP has sent frame122 to DCT
+138756 us: Thread Read BMP attempting to send frame123 to DCT
+138756 us: Thread Read BMP has sent frame123 to DCT
+139391 us: Thread DCT is attempting to send frame31 to Quantize
+139391 us: Thread DCT has sent frame31 to Quantize
+139391 us: Thread DCT is attempting to receive frame32 from Read BMP
+139391 us: Thread DCT has received frame32 from Read BMP
+139875 us: Thread Read BMP attempting to send frame124 to DCT
+139875 us: Thread Read BMP has sent frame124 to DCT
+140994 us: Thread Read BMP attempting to send frame125 to DCT
+140994 us: Thread Read BMP has sent frame125 to DCT
+142113 us: Thread Read BMP attempting to send frame126 to DCT
+142113 us: Thread Read BMP has sent frame126 to DCT
+142504 us: Thread Quantize is attempting to send frame23 to ZigZag
+142504 us: Thread Quantize has sent frame23 to ZigZag
+142504 us: Thread Quantize is attempting to receive frame24 from DCT
+142504 us: Thread Quantize has received frame24 from DCT
+142504 us: Thread ZigZag has received frame23 from Quantize
+143091 us: Thread ZigZag is attempting to send frame23 to Huffman
+143091 us: Thread ZigZag has sent frame23 to Huffman
+143091 us: Thread ZigZag is attempting to receive frame24 from Quantize
+143232 us: Thread Read BMP attempting to send frame127 to DCT
+143232 us: Thread Read BMP has sent frame127 to DCT
+143712 us: Thread DCT is attempting to send frame32 to Quantize
+143712 us: Thread DCT has sent frame32 to Quantize
+143712 us: Thread DCT is attempting to receive frame33 from Read BMP
+143712 us: Thread DCT has received frame33 from Read BMP
+143844 us: Thread Huffman is attempting to receive frame13 from ZigZag
+143844 us: Thread Huffman has received frame13 from ZigZag
+144351 us: Thread Read BMP attempting to send frame128 to DCT
+144351 us: Thread Read BMP has sent frame128 to DCT
+145470 us: Thread Read BMP attempting to send frame129 to DCT
+145470 us: Thread Read BMP has sent frame129 to DCT
+146589 us: Thread Read BMP attempting to send frame130 to DCT
+146589 us: Thread Read BMP has sent frame130 to DCT
+147708 us: Thread Read BMP attempting to send frame131 to DCT
+147708 us: Thread Read BMP has sent frame131 to DCT
+148033 us: Thread DCT is attempting to send frame33 to Quantize
+148033 us: Thread DCT has sent frame33 to Quantize
+148033 us: Thread DCT is attempting to receive frame34 from Read BMP
+148033 us: Thread DCT has received frame34 from Read BMP
+148215 us: Thread Quantize is attempting to send frame24 to ZigZag
+148215 us: Thread Quantize has sent frame24 to ZigZag
+148215 us: Thread Quantize is attempting to receive frame25 from DCT
+148215 us: Thread Quantize has received frame25 from DCT
+148215 us: Thread ZigZag has received frame24 from Quantize
+148802 us: Thread ZigZag is attempting to send frame24 to Huffman
+148802 us: Thread ZigZag has sent frame24 to Huffman
+148802 us: Thread ZigZag is attempting to receive frame25 from Quantize
+148827 us: Thread Read BMP attempting to send frame132 to DCT
+148827 us: Thread Read BMP has sent frame132 to DCT
+149946 us: Thread Read BMP attempting to send frame133 to DCT
+149946 us: Thread Read BMP has sent frame133 to DCT
+151065 us: Thread Read BMP attempting to send frame134 to DCT
+151065 us: Thread Read BMP has sent frame134 to DCT
+152184 us: Thread Read BMP attempting to send frame135 to DCT
+152354 us: Thread DCT is attempting to send frame34 to Quantize
+152354 us: Thread DCT has sent frame34 to Quantize
+152354 us: Thread DCT is attempting to receive frame35 from Read BMP
+152354 us: Thread DCT has received frame35 from Read BMP
+152354 us: Thread Read BMP has sent frame135 to DCT
+153473 us: Thread Read BMP attempting to send frame136 to DCT
+153926 us: Thread Quantize is attempting to send frame25 to ZigZag
+153926 us: Thread Quantize has sent frame25 to ZigZag
+153926 us: Thread Quantize is attempting to receive frame26 from DCT
+153926 us: Thread Quantize has received frame26 from DCT
+153926 us: Thread ZigZag has received frame25 from Quantize
+154006 us: Thread Huffman is attempting to receive frame14 from ZigZag
+154006 us: Thread Huffman has received frame14 from ZigZag
+154513 us: Thread ZigZag is attempting to send frame25 to Huffman
+154513 us: Thread ZigZag has sent frame25 to Huffman
+154513 us: Thread ZigZag is attempting to receive frame26 from Quantize
+156675 us: Thread DCT is attempting to send frame35 to Quantize
+156675 us: Thread DCT has sent frame35 to Quantize
+156675 us: Thread DCT is attempting to receive frame36 from Read BMP
+156675 us: Thread DCT has received frame36 from Read BMP
+156675 us: Thread Read BMP has sent frame136 to DCT
+157794 us: Thread Read BMP attempting to send frame137 to DCT
+159637 us: Thread Quantize is attempting to send frame26 to ZigZag
+159637 us: Thread Quantize has sent frame26 to ZigZag
+159637 us: Thread Quantize is attempting to receive frame27 from DCT
+159637 us: Thread Quantize has received frame27 from DCT
+159637 us: Thread ZigZag has received frame26 from Quantize
+160224 us: Thread ZigZag is attempting to send frame26 to Huffman
+160224 us: Thread ZigZag has sent frame26 to Huffman
+160224 us: Thread ZigZag is attempting to receive frame27 from Quantize
+160996 us: Thread DCT is attempting to send frame36 to Quantize
+160996 us: Thread DCT has sent frame36 to Quantize
+160996 us: Thread DCT is attempting to receive frame37 from Read BMP
+160996 us: Thread DCT has received frame37 from Read BMP
+160996 us: Thread Read BMP has sent frame137 to DCT
+162115 us: Thread Read BMP attempting to send frame138 to DCT
+164168 us: Thread Huffman is attempting to receive frame15 from ZigZag
+164168 us: Thread Huffman has received frame15 from ZigZag
+165317 us: Thread DCT is attempting to send frame37 to Quantize
+165317 us: Thread DCT has sent frame37 to Quantize
+165317 us: Thread DCT is attempting to receive frame38 from Read BMP
+165317 us: Thread DCT has received frame38 from Read BMP
+165317 us: Thread Read BMP has sent frame138 to DCT
+165348 us: Thread Quantize is attempting to send frame27 to ZigZag
+165348 us: Thread Quantize has sent frame27 to ZigZag
+165348 us: Thread Quantize is attempting to receive frame28 from DCT
+165348 us: Thread Quantize has received frame28 from DCT
+165348 us: Thread ZigZag has received frame27 from Quantize
+165935 us: Thread ZigZag is attempting to send frame27 to Huffman
+165935 us: Thread ZigZag has sent frame27 to Huffman
+165935 us: Thread ZigZag is attempting to receive frame28 from Quantize
+166436 us: Thread Read BMP attempting to send frame139 to DCT
+169638 us: Thread DCT is attempting to send frame38 to Quantize
+169638 us: Thread DCT has sent frame38 to Quantize
+169638 us: Thread DCT is attempting to receive frame39 from Read BMP
+169638 us: Thread DCT has received frame39 from Read BMP
+169638 us: Thread Read BMP has sent frame139 to DCT
+170757 us: Thread Read BMP attempting to send frame140 to DCT
+171059 us: Thread Quantize is attempting to send frame28 to ZigZag
+171059 us: Thread Quantize has sent frame28 to ZigZag
+171059 us: Thread Quantize is attempting to receive frame29 from DCT
+171059 us: Thread Quantize has received frame29 from DCT
+171059 us: Thread ZigZag has received frame28 from Quantize
+171646 us: Thread ZigZag is attempting to send frame28 to Huffman
+171646 us: Thread ZigZag has sent frame28 to Huffman
+171646 us: Thread ZigZag is attempting to receive frame29 from Quantize
+173959 us: Thread DCT is attempting to send frame39 to Quantize
+173959 us: Thread DCT has sent frame39 to Quantize
+173959 us: Thread DCT is attempting to receive frame40 from Read BMP
+173959 us: Thread DCT has received frame40 from Read BMP
+173959 us: Thread Read BMP has sent frame140 to DCT
+174330 us: Thread Huffman is attempting to receive frame16 from ZigZag
+174330 us: Thread Huffman has received frame16 from ZigZag
+175078 us: Thread Read BMP attempting to send frame141 to DCT
+176770 us: Thread Quantize is attempting to send frame29 to ZigZag
+176770 us: Thread Quantize has sent frame29 to ZigZag
+176770 us: Thread Quantize is attempting to receive frame30 from DCT
+176770 us: Thread Quantize has received frame30 from DCT
+176770 us: Thread ZigZag has received frame29 from Quantize
+177357 us: Thread ZigZag is attempting to send frame29 to Huffman
+177357 us: Thread ZigZag has sent frame29 to Huffman
+177357 us: Thread ZigZag is attempting to receive frame30 from Quantize
+178280 us: Thread DCT is attempting to send frame40 to Quantize
+178280 us: Thread DCT has sent frame40 to Quantize
+178280 us: Thread DCT is attempting to receive frame41 from Read BMP
+178280 us: Thread DCT has received frame41 from Read BMP
+178280 us: Thread Read BMP has sent frame141 to DCT
+179399 us: Thread Read BMP attempting to send frame142 to DCT
+182481 us: Thread Quantize is attempting to send frame30 to ZigZag
+182481 us: Thread Quantize has sent frame30 to ZigZag
+182481 us: Thread Quantize is attempting to receive frame31 from DCT
+182481 us: Thread Quantize has received frame31 from DCT
+182481 us: Thread ZigZag has received frame30 from Quantize
+182601 us: Thread DCT is attempting to send frame41 to Quantize
+182601 us: Thread DCT has sent frame41 to Quantize
+182601 us: Thread DCT is attempting to receive frame42 from Read BMP
+182601 us: Thread DCT has received frame42 from Read BMP
+182601 us: Thread Read BMP has sent frame142 to DCT
+183068 us: Thread ZigZag is attempting to send frame30 to Huffman
+183068 us: Thread ZigZag has sent frame30 to Huffman
+183068 us: Thread ZigZag is attempting to receive frame31 from Quantize
+183720 us: Thread Read BMP attempting to send frame143 to DCT
+184492 us: Thread Huffman is attempting to receive frame17 from ZigZag
+184492 us: Thread Huffman has received frame17 from ZigZag
+186922 us: Thread DCT is attempting to send frame42 to Quantize
+186922 us: Thread DCT has sent frame42 to Quantize
+186922 us: Thread DCT is attempting to receive frame43 from Read BMP
+186922 us: Thread DCT has received frame43 from Read BMP
+186922 us: Thread Read BMP has sent frame143 to DCT
+188041 us: Thread Read BMP attempting to send frame144 to DCT
+188192 us: Thread Quantize is attempting to send frame31 to ZigZag
+188192 us: Thread Quantize has sent frame31 to ZigZag
+188192 us: Thread Quantize is attempting to receive frame32 from DCT
+188192 us: Thread Quantize has received frame32 from DCT
+188192 us: Thread ZigZag has received frame31 from Quantize
+188779 us: Thread ZigZag is attempting to send frame31 to Huffman
+188779 us: Thread ZigZag has sent frame31 to Huffman
+188779 us: Thread ZigZag is attempting to receive frame32 from Quantize
+191243 us: Thread DCT is attempting to send frame43 to Quantize
+191243 us: Thread DCT has sent frame43 to Quantize
+191243 us: Thread DCT is attempting to receive frame44 from Read BMP
+191243 us: Thread DCT has received frame44 from Read BMP
+191243 us: Thread Read BMP has sent frame144 to DCT
+192362 us: Thread Read BMP attempting to send frame145 to DCT
+193903 us: Thread Quantize is attempting to send frame32 to ZigZag
+193903 us: Thread Quantize has sent frame32 to ZigZag
+193903 us: Thread Quantize is attempting to receive frame33 from DCT
+193903 us: Thread Quantize has received frame33 from DCT
+193903 us: Thread ZigZag has received frame32 from Quantize
+194490 us: Thread ZigZag is attempting to send frame32 to Huffman
+194490 us: Thread ZigZag has sent frame32 to Huffman
+194490 us: Thread ZigZag is attempting to receive frame33 from Quantize
+194654 us: Thread Huffman is attempting to receive frame18 from ZigZag
+194654 us: Thread Huffman has received frame18 from ZigZag
+195564 us: Thread DCT is attempting to send frame44 to Quantize
+195564 us: Thread DCT has sent frame44 to Quantize
+195564 us: Thread DCT is attempting to receive frame45 from Read BMP
+195564 us: Thread DCT has received frame45 from Read BMP
+195564 us: Thread Read BMP has sent frame145 to DCT
+196683 us: Thread Read BMP attempting to send frame146 to DCT
+199614 us: Thread Quantize is attempting to send frame33 to ZigZag
+199614 us: Thread Quantize has sent frame33 to ZigZag
+199614 us: Thread Quantize is attempting to receive frame34 from DCT
+199614 us: Thread Quantize has received frame34 from DCT
+199614 us: Thread ZigZag has received frame33 from Quantize
+199885 us: Thread DCT is attempting to send frame45 to Quantize
+199885 us: Thread DCT has sent frame45 to Quantize
+199885 us: Thread DCT is attempting to receive frame46 from Read BMP
+199885 us: Thread DCT has received frame46 from Read BMP
+199885 us: Thread Read BMP has sent frame146 to DCT
+200201 us: Thread ZigZag is attempting to send frame33 to Huffman
+200201 us: Thread ZigZag has sent frame33 to Huffman
+200201 us: Thread ZigZag is attempting to receive frame34 from Quantize
+201004 us: Thread Read BMP attempting to send frame147 to DCT
+204206 us: Thread DCT is attempting to send frame46 to Quantize
+204206 us: Thread DCT has sent frame46 to Quantize
+204206 us: Thread DCT is attempting to receive frame47 from Read BMP
+204206 us: Thread DCT has received frame47 from Read BMP
+204206 us: Thread Read BMP has sent frame147 to DCT
+204816 us: Thread Huffman is attempting to receive frame19 from ZigZag
+204816 us: Thread Huffman has received frame19 from ZigZag
+205325 us: Thread Read BMP attempting to send frame148 to DCT
+205325 us: Thread Quantize is attempting to send frame34 to ZigZag
+205325 us: Thread Quantize has sent frame34 to ZigZag
+205325 us: Thread Quantize is attempting to receive frame35 from DCT
+205325 us: Thread Quantize has received frame35 from DCT
+205325 us: Thread ZigZag has received frame34 from Quantize
+205912 us: Thread ZigZag is attempting to send frame34 to Huffman
+205912 us: Thread ZigZag has sent frame34 to Huffman
+205912 us: Thread ZigZag is attempting to receive frame35 from Quantize
+208527 us: Thread DCT is attempting to send frame47 to Quantize
+208527 us: Thread DCT has sent frame47 to Quantize
+208527 us: Thread DCT is attempting to receive frame48 from Read BMP
+208527 us: Thread DCT has received frame48 from Read BMP
+208527 us: Thread Read BMP has sent frame148 to DCT
+209646 us: Thread Read BMP attempting to send frame149 to DCT
+211036 us: Thread Quantize is attempting to send frame35 to ZigZag
+211036 us: Thread Quantize has sent frame35 to ZigZag
+211036 us: Thread Quantize is attempting to receive frame36 from DCT
+211036 us: Thread Quantize has received frame36 from DCT
+211036 us: Thread ZigZag has received frame35 from Quantize
+211623 us: Thread ZigZag is attempting to send frame35 to Huffman
+211623 us: Thread ZigZag has sent frame35 to Huffman
+211623 us: Thread ZigZag is attempting to receive frame36 from Quantize
+212848 us: Thread DCT is attempting to send frame48 to Quantize
+212848 us: Thread DCT has sent frame48 to Quantize
+212848 us: Thread DCT is attempting to receive frame49 from Read BMP
+212848 us: Thread DCT has received frame49 from Read BMP
+212848 us: Thread Read BMP has sent frame149 to DCT
+213967 us: Thread Read BMP attempting to send frame150 to DCT
+214978 us: Thread Huffman is attempting to receive frame20 from ZigZag
+214978 us: Thread Huffman has received frame20 from ZigZag
+216747 us: Thread Quantize is attempting to send frame36 to ZigZag
+216747 us: Thread Quantize has sent frame36 to ZigZag
+216747 us: Thread Quantize is attempting to receive frame37 from DCT
+216747 us: Thread Quantize has received frame37 from DCT
+216747 us: Thread ZigZag has received frame36 from Quantize
+217169 us: Thread DCT is attempting to send frame49 to Quantize
+217169 us: Thread DCT has sent frame49 to Quantize
+217169 us: Thread DCT is attempting to receive frame50 from Read BMP
+217169 us: Thread DCT has received frame50 from Read BMP
+217169 us: Thread Read BMP has sent frame150 to DCT
+217334 us: Thread ZigZag is attempting to send frame36 to Huffman
+217334 us: Thread ZigZag has sent frame36 to Huffman
+217334 us: Thread ZigZag is attempting to receive frame37 from Quantize
+218288 us: Thread Read BMP attempting to send frame151 to DCT
+221490 us: Thread DCT is attempting to send frame50 to Quantize
+221490 us: Thread DCT has sent frame50 to Quantize
+221490 us: Thread DCT is attempting to receive frame51 from Read BMP
+221490 us: Thread DCT has received frame51 from Read BMP
+221490 us: Thread Read BMP has sent frame151 to DCT
+222458 us: Thread Quantize is attempting to send frame37 to ZigZag
+222458 us: Thread Quantize has sent frame37 to ZigZag
+222458 us: Thread Quantize is attempting to receive frame38 from DCT
+222458 us: Thread Quantize has received frame38 from DCT
+222458 us: Thread ZigZag has received frame37 from Quantize
+222609 us: Thread Read BMP attempting to send frame152 to DCT
+223045 us: Thread ZigZag is attempting to send frame37 to Huffman
+223045 us: Thread ZigZag has sent frame37 to Huffman
+223045 us: Thread ZigZag is attempting to receive frame38 from Quantize
+225140 us: Thread Huffman is attempting to receive frame21 from ZigZag
+225140 us: Thread Huffman has received frame21 from ZigZag
+225811 us: Thread DCT is attempting to send frame51 to Quantize
+225811 us: Thread DCT has sent frame51 to Quantize
+225811 us: Thread DCT is attempting to receive frame52 from Read BMP
+225811 us: Thread DCT has received frame52 from Read BMP
+225811 us: Thread Read BMP has sent frame152 to DCT
+226930 us: Thread Read BMP attempting to send frame153 to DCT
+228169 us: Thread Quantize is attempting to send frame38 to ZigZag
+228169 us: Thread Quantize has sent frame38 to ZigZag
+228169 us: Thread Quantize is attempting to receive frame39 from DCT
+228169 us: Thread Quantize has received frame39 from DCT
+228169 us: Thread ZigZag has received frame38 from Quantize
+228756 us: Thread ZigZag is attempting to send frame38 to Huffman
+228756 us: Thread ZigZag has sent frame38 to Huffman
+228756 us: Thread ZigZag is attempting to receive frame39 from Quantize
+230132 us: Thread DCT is attempting to send frame52 to Quantize
+230132 us: Thread DCT has sent frame52 to Quantize
+230132 us: Thread DCT is attempting to receive frame53 from Read BMP
+230132 us: Thread DCT has received frame53 from Read BMP
+230132 us: Thread Read BMP has sent frame153 to DCT
+231251 us: Thread Read BMP attempting to send frame154 to DCT
+233880 us: Thread Quantize is attempting to send frame39 to ZigZag
+233880 us: Thread Quantize has sent frame39 to ZigZag
+233880 us: Thread Quantize is attempting to receive frame40 from DCT
+233880 us: Thread Quantize has received frame40 from DCT
+233880 us: Thread ZigZag has received frame39 from Quantize
+234453 us: Thread DCT is attempting to send frame53 to Quantize
+234453 us: Thread DCT has sent frame53 to Quantize
+234453 us: Thread DCT is attempting to receive frame54 from Read BMP
+234453 us: Thread DCT has received frame54 from Read BMP
+234453 us: Thread Read BMP has sent frame154 to DCT
+234467 us: Thread ZigZag is attempting to send frame39 to Huffman
+234467 us: Thread ZigZag has sent frame39 to Huffman
+234467 us: Thread ZigZag is attempting to receive frame40 from Quantize
+235302 us: Thread Huffman is attempting to receive frame22 from ZigZag
+235302 us: Thread Huffman has received frame22 from ZigZag
+235572 us: Thread Read BMP attempting to send frame155 to DCT
+238774 us: Thread DCT is attempting to send frame54 to Quantize
+238774 us: Thread DCT has sent frame54 to Quantize
+238774 us: Thread DCT is attempting to receive frame55 from Read BMP
+238774 us: Thread DCT has received frame55 from Read BMP
+238774 us: Thread Read BMP has sent frame155 to DCT
+239591 us: Thread Quantize is attempting to send frame40 to ZigZag
+239591 us: Thread Quantize has sent frame40 to ZigZag
+239591 us: Thread Quantize is attempting to receive frame41 from DCT
+239591 us: Thread Quantize has received frame41 from DCT
+239591 us: Thread ZigZag has received frame40 from Quantize
+239893 us: Thread Read BMP attempting to send frame156 to DCT
+240178 us: Thread ZigZag is attempting to send frame40 to Huffman
+240178 us: Thread ZigZag has sent frame40 to Huffman
+240178 us: Thread ZigZag is attempting to receive frame41 from Quantize
+243095 us: Thread DCT is attempting to send frame55 to Quantize
+243095 us: Thread DCT has sent frame55 to Quantize
+243095 us: Thread DCT is attempting to receive frame56 from Read BMP
+243095 us: Thread DCT has received frame56 from Read BMP
+243095 us: Thread Read BMP has sent frame156 to DCT
+244214 us: Thread Read BMP attempting to send frame157 to DCT
+245302 us: Thread Quantize is attempting to send frame41 to ZigZag
+245302 us: Thread Quantize has sent frame41 to ZigZag
+245302 us: Thread Quantize is attempting to receive frame42 from DCT
+245302 us: Thread Quantize has received frame42 from DCT
+245302 us: Thread ZigZag has received frame41 from Quantize
+245464 us: Thread Huffman is attempting to receive frame23 from ZigZag
+245464 us: Thread Huffman has received frame23 from ZigZag
+245889 us: Thread ZigZag is attempting to send frame41 to Huffman
+245889 us: Thread ZigZag has sent frame41 to Huffman
+245889 us: Thread ZigZag is attempting to receive frame42 from Quantize
+247416 us: Thread DCT is attempting to send frame56 to Quantize
+247416 us: Thread DCT has sent frame56 to Quantize
+247416 us: Thread DCT is attempting to receive frame57 from Read BMP
+247416 us: Thread DCT has received frame57 from Read BMP
+247416 us: Thread Read BMP has sent frame157 to DCT
+248535 us: Thread Read BMP attempting to send frame158 to DCT
+251013 us: Thread Quantize is attempting to send frame42 to ZigZag
+251013 us: Thread Quantize has sent frame42 to ZigZag
+251013 us: Thread Quantize is attempting to receive frame43 from DCT
+251013 us: Thread Quantize has received frame43 from DCT
+251013 us: Thread ZigZag has received frame42 from Quantize
+251600 us: Thread ZigZag is attempting to send frame42 to Huffman
+251600 us: Thread ZigZag has sent frame42 to Huffman
+251600 us: Thread ZigZag is attempting to receive frame43 from Quantize
+251737 us: Thread DCT is attempting to send frame57 to Quantize
+251737 us: Thread DCT has sent frame57 to Quantize
+251737 us: Thread DCT is attempting to receive frame58 from Read BMP
+251737 us: Thread DCT has received frame58 from Read BMP
+251737 us: Thread Read BMP has sent frame158 to DCT
+252856 us: Thread Read BMP attempting to send frame159 to DCT
+255626 us: Thread Huffman is attempting to receive frame24 from ZigZag
+255626 us: Thread Huffman has received frame24 from ZigZag
+256058 us: Thread DCT is attempting to send frame58 to Quantize
+256058 us: Thread DCT has sent frame58 to Quantize
+256058 us: Thread DCT is attempting to receive frame59 from Read BMP
+256058 us: Thread DCT has received frame59 from Read BMP
+256058 us: Thread Read BMP has sent frame159 to DCT
+256724 us: Thread Quantize is attempting to send frame43 to ZigZag
+256724 us: Thread Quantize has sent frame43 to ZigZag
+256724 us: Thread Quantize is attempting to receive frame44 from DCT
+256724 us: Thread Quantize has received frame44 from DCT
+256724 us: Thread ZigZag has received frame43 from Quantize
+257177 us: Thread Read BMP attempting to send frame160 to DCT
+257311 us: Thread ZigZag is attempting to send frame43 to Huffman
+257311 us: Thread ZigZag has sent frame43 to Huffman
+257311 us: Thread ZigZag is attempting to receive frame44 from Quantize
+260379 us: Thread DCT is attempting to send frame59 to Quantize
+260379 us: Thread DCT has sent frame59 to Quantize
+260379 us: Thread DCT is attempting to receive frame60 from Read BMP
+260379 us: Thread DCT has received frame60 from Read BMP
+260379 us: Thread Read BMP has sent frame160 to DCT
+261498 us: Thread Read BMP attempting to send frame161 to DCT
+262435 us: Thread Quantize is attempting to send frame44 to ZigZag
+262435 us: Thread Quantize has sent frame44 to ZigZag
+262435 us: Thread Quantize is attempting to receive frame45 from DCT
+262435 us: Thread Quantize has received frame45 from DCT
+262435 us: Thread ZigZag has received frame44 from Quantize
+263022 us: Thread ZigZag is attempting to send frame44 to Huffman
+263022 us: Thread ZigZag has sent frame44 to Huffman
+263022 us: Thread ZigZag is attempting to receive frame45 from Quantize
+264700 us: Thread DCT is attempting to send frame60 to Quantize
+264700 us: Thread DCT has sent frame60 to Quantize
+264700 us: Thread DCT is attempting to receive frame61 from Read BMP
+264700 us: Thread DCT has received frame61 from Read BMP
+264700 us: Thread Read BMP has sent frame161 to DCT
+265788 us: Thread Huffman is attempting to receive frame25 from ZigZag
+265788 us: Thread Huffman has received frame25 from ZigZag
+265819 us: Thread Read BMP attempting to send frame162 to DCT
+268146 us: Thread Quantize is attempting to send frame45 to ZigZag
+268146 us: Thread Quantize has sent frame45 to ZigZag
+268146 us: Thread Quantize is attempting to receive frame46 from DCT
+268146 us: Thread Quantize has received frame46 from DCT
+268146 us: Thread ZigZag has received frame45 from Quantize
+268733 us: Thread ZigZag is attempting to send frame45 to Huffman
+268733 us: Thread ZigZag has sent frame45 to Huffman
+268733 us: Thread ZigZag is attempting to receive frame46 from Quantize
+269021 us: Thread DCT is attempting to send frame61 to Quantize
+269021 us: Thread DCT has sent frame61 to Quantize
+269021 us: Thread DCT is attempting to receive frame62 from Read BMP
+269021 us: Thread DCT has received frame62 from Read BMP
+269021 us: Thread Read BMP has sent frame162 to DCT
+270140 us: Thread Read BMP attempting to send frame163 to DCT
+273342 us: Thread DCT is attempting to send frame62 to Quantize
+273342 us: Thread DCT has sent frame62 to Quantize
+273342 us: Thread DCT is attempting to receive frame63 from Read BMP
+273342 us: Thread DCT has received frame63 from Read BMP
+273342 us: Thread Read BMP has sent frame163 to DCT
+273857 us: Thread Quantize is attempting to send frame46 to ZigZag
+273857 us: Thread Quantize has sent frame46 to ZigZag
+273857 us: Thread Quantize is attempting to receive frame47 from DCT
+273857 us: Thread Quantize has received frame47 from DCT
+273857 us: Thread ZigZag has received frame46 from Quantize
+274444 us: Thread ZigZag is attempting to send frame46 to Huffman
+274444 us: Thread ZigZag has sent frame46 to Huffman
+274444 us: Thread ZigZag is attempting to receive frame47 from Quantize
+274461 us: Thread Read BMP attempting to send frame164 to DCT
+275950 us: Thread Huffman is attempting to receive frame26 from ZigZag
+275950 us: Thread Huffman has received frame26 from ZigZag
+277663 us: Thread DCT is attempting to send frame63 to Quantize
+277663 us: Thread DCT has sent frame63 to Quantize
+277663 us: Thread DCT is attempting to receive frame64 from Read BMP
+277663 us: Thread DCT has received frame64 from Read BMP
+277663 us: Thread Read BMP has sent frame164 to DCT
+278782 us: Thread Read BMP attempting to send frame165 to DCT
+279568 us: Thread Quantize is attempting to send frame47 to ZigZag
+279568 us: Thread Quantize has sent frame47 to ZigZag
+279568 us: Thread Quantize is attempting to receive frame48 from DCT
+279568 us: Thread Quantize has received frame48 from DCT
+279568 us: Thread ZigZag has received frame47 from Quantize
+280155 us: Thread ZigZag is attempting to send frame47 to Huffman
+280155 us: Thread ZigZag has sent frame47 to Huffman
+280155 us: Thread ZigZag is attempting to receive frame48 from Quantize
+281984 us: Thread DCT is attempting to send frame64 to Quantize
+281984 us: Thread DCT has sent frame64 to Quantize
+281984 us: Thread DCT is attempting to receive frame65 from Read BMP
+281984 us: Thread DCT has received frame65 from Read BMP
+281984 us: Thread Read BMP has sent frame165 to DCT
+283103 us: Thread Read BMP attempting to send frame166 to DCT
+285279 us: Thread Quantize is attempting to send frame48 to ZigZag
+285279 us: Thread Quantize has sent frame48 to ZigZag
+285279 us: Thread Quantize is attempting to receive frame49 from DCT
+285279 us: Thread Quantize has received frame49 from DCT
+285279 us: Thread ZigZag has received frame48 from Quantize
+285866 us: Thread ZigZag is attempting to send frame48 to Huffman
+285866 us: Thread ZigZag has sent frame48 to Huffman
+285866 us: Thread ZigZag is attempting to receive frame49 from Quantize
+286112 us: Thread Huffman is attempting to receive frame27 from ZigZag
+286112 us: Thread Huffman has received frame27 from ZigZag
+286305 us: Thread DCT is attempting to send frame65 to Quantize
+286305 us: Thread DCT has sent frame65 to Quantize
+286305 us: Thread DCT is attempting to receive frame66 from Read BMP
+286305 us: Thread DCT has received frame66 from Read BMP
+286305 us: Thread Read BMP has sent frame166 to DCT
+287424 us: Thread Read BMP attempting to send frame167 to DCT
+290626 us: Thread DCT is attempting to send frame66 to Quantize
+290626 us: Thread DCT has sent frame66 to Quantize
+290626 us: Thread DCT is attempting to receive frame67 from Read BMP
+290626 us: Thread DCT has received frame67 from Read BMP
+290626 us: Thread Read BMP has sent frame167 to DCT
+290990 us: Thread Quantize is attempting to send frame49 to ZigZag
+290990 us: Thread Quantize has sent frame49 to ZigZag
+290990 us: Thread Quantize is attempting to receive frame50 from DCT
+290990 us: Thread Quantize has received frame50 from DCT
+290990 us: Thread ZigZag has received frame49 from Quantize
+291577 us: Thread ZigZag is attempting to send frame49 to Huffman
+291577 us: Thread ZigZag has sent frame49 to Huffman
+291577 us: Thread ZigZag is attempting to receive frame50 from Quantize
+291745 us: Thread Read BMP attempting to send frame168 to DCT
+294947 us: Thread DCT is attempting to send frame67 to Quantize
+294947 us: Thread DCT has sent frame67 to Quantize
+294947 us: Thread DCT is attempting to receive frame68 from Read BMP
+294947 us: Thread DCT has received frame68 from Read BMP
+294947 us: Thread Read BMP has sent frame168 to DCT
+296066 us: Thread Read BMP attempting to send frame169 to DCT
+296274 us: Thread Huffman is attempting to receive frame28 from ZigZag
+296274 us: Thread Huffman has received frame28 from ZigZag
+296701 us: Thread Quantize is attempting to send frame50 to ZigZag
+296701 us: Thread Quantize has sent frame50 to ZigZag
+296701 us: Thread Quantize is attempting to receive frame51 from DCT
+296701 us: Thread Quantize has received frame51 from DCT
+296701 us: Thread ZigZag has received frame50 from Quantize
+297288 us: Thread ZigZag is attempting to send frame50 to Huffman
+297288 us: Thread ZigZag has sent frame50 to Huffman
+297288 us: Thread ZigZag is attempting to receive frame51 from Quantize
+299268 us: Thread DCT is attempting to send frame68 to Quantize
+299268 us: Thread DCT has sent frame68 to Quantize
+299268 us: Thread DCT is attempting to receive frame69 from Read BMP
+299268 us: Thread DCT has received frame69 from Read BMP
+299268 us: Thread Read BMP has sent frame169 to DCT
+300387 us: Thread Read BMP attempting to send frame170 to DCT
+302412 us: Thread Quantize is attempting to send frame51 to ZigZag
+302412 us: Thread Quantize has sent frame51 to ZigZag
+302412 us: Thread Quantize is attempting to receive frame52 from DCT
+302412 us: Thread Quantize has received frame52 from DCT
+302412 us: Thread ZigZag has received frame51 from Quantize
+302999 us: Thread ZigZag is attempting to send frame51 to Huffman
+302999 us: Thread ZigZag has sent frame51 to Huffman
+302999 us: Thread ZigZag is attempting to receive frame52 from Quantize
+303589 us: Thread DCT is attempting to send frame69 to Quantize
+303589 us: Thread DCT has sent frame69 to Quantize
+303589 us: Thread DCT is attempting to receive frame70 from Read BMP
+303589 us: Thread DCT has received frame70 from Read BMP
+303589 us: Thread Read BMP has sent frame170 to DCT
+304708 us: Thread Read BMP attempting to send frame171 to DCT
+306436 us: Thread Huffman is attempting to receive frame29 from ZigZag
+306436 us: Thread Huffman has received frame29 from ZigZag
+307910 us: Thread DCT is attempting to send frame70 to Quantize
+307910 us: Thread DCT has sent frame70 to Quantize
+307910 us: Thread DCT is attempting to receive frame71 from Read BMP
+307910 us: Thread DCT has received frame71 from Read BMP
+307910 us: Thread Read BMP has sent frame171 to DCT
+308123 us: Thread Quantize is attempting to send frame52 to ZigZag
+308123 us: Thread Quantize has sent frame52 to ZigZag
+308123 us: Thread Quantize is attempting to receive frame53 from DCT
+308123 us: Thread Quantize has received frame53 from DCT
+308123 us: Thread ZigZag has received frame52 from Quantize
+308710 us: Thread ZigZag is attempting to send frame52 to Huffman
+308710 us: Thread ZigZag has sent frame52 to Huffman
+308710 us: Thread ZigZag is attempting to receive frame53 from Quantize
+309029 us: Thread Read BMP attempting to send frame172 to DCT
+312231 us: Thread DCT is attempting to send frame71 to Quantize
+312231 us: Thread DCT has sent frame71 to Quantize
+312231 us: Thread DCT is attempting to receive frame72 from Read BMP
+312231 us: Thread DCT has received frame72 from Read BMP
+312231 us: Thread Read BMP has sent frame172 to DCT
+313350 us: Thread Read BMP attempting to send frame173 to DCT
+313834 us: Thread Quantize is attempting to send frame53 to ZigZag
+313834 us: Thread Quantize has sent frame53 to ZigZag
+313834 us: Thread Quantize is attempting to receive frame54 from DCT
+313834 us: Thread Quantize has received frame54 from DCT
+313834 us: Thread ZigZag has received frame53 from Quantize
+314421 us: Thread ZigZag is attempting to send frame53 to Huffman
+314421 us: Thread ZigZag has sent frame53 to Huffman
+314421 us: Thread ZigZag is attempting to receive frame54 from Quantize
+316552 us: Thread DCT is attempting to send frame72 to Quantize
+316552 us: Thread DCT has sent frame72 to Quantize
+316552 us: Thread DCT is attempting to receive frame73 from Read BMP
+316552 us: Thread DCT has received frame73 from Read BMP
+316552 us: Thread Read BMP has sent frame173 to DCT
+316598 us: Thread Huffman is attempting to receive frame30 from ZigZag
+316598 us: Thread Huffman has received frame30 from ZigZag
+317671 us: Thread Read BMP attempting to send frame174 to DCT
+319545 us: Thread Quantize is attempting to send frame54 to ZigZag
+319545 us: Thread Quantize has sent frame54 to ZigZag
+319545 us: Thread Quantize is attempting to receive frame55 from DCT
+319545 us: Thread Quantize has received frame55 from DCT
+319545 us: Thread ZigZag has received frame54 from Quantize
+320132 us: Thread ZigZag is attempting to send frame54 to Huffman
+320132 us: Thread ZigZag has sent frame54 to Huffman
+320132 us: Thread ZigZag is attempting to receive frame55 from Quantize
+320873 us: Thread DCT is attempting to send frame73 to Quantize
+320873 us: Thread DCT has sent frame73 to Quantize
+320873 us: Thread DCT is attempting to receive frame74 from Read BMP
+320873 us: Thread DCT has received frame74 from Read BMP
+320873 us: Thread Read BMP has sent frame174 to DCT
+321992 us: Thread Read BMP attempting to send frame175 to DCT
+325194 us: Thread DCT is attempting to send frame74 to Quantize
+325194 us: Thread DCT has sent frame74 to Quantize
+325194 us: Thread DCT is attempting to receive frame75 from Read BMP
+325194 us: Thread DCT has received frame75 from Read BMP
+325194 us: Thread Read BMP has sent frame175 to DCT
+325256 us: Thread Quantize is attempting to send frame55 to ZigZag
+325256 us: Thread Quantize has sent frame55 to ZigZag
+325256 us: Thread Quantize is attempting to receive frame56 from DCT
+325256 us: Thread Quantize has received frame56 from DCT
+325256 us: Thread ZigZag has received frame55 from Quantize
+325843 us: Thread ZigZag is attempting to send frame55 to Huffman
+325843 us: Thread ZigZag has sent frame55 to Huffman
+325843 us: Thread ZigZag is attempting to receive frame56 from Quantize
+326313 us: Thread Read BMP attempting to send frame176 to DCT
+326760 us: Thread Huffman is attempting to receive frame31 from ZigZag
+326760 us: Thread Huffman has received frame31 from ZigZag
+329515 us: Thread DCT is attempting to send frame75 to Quantize
+329515 us: Thread DCT has sent frame75 to Quantize
+329515 us: Thread DCT is attempting to receive frame76 from Read BMP
+329515 us: Thread DCT has received frame76 from Read BMP
+329515 us: Thread Read BMP has sent frame176 to DCT
+330634 us: Thread Read BMP attempting to send frame177 to DCT
+330967 us: Thread Quantize is attempting to send frame56 to ZigZag
+330967 us: Thread Quantize has sent frame56 to ZigZag
+330967 us: Thread Quantize is attempting to receive frame57 from DCT
+330967 us: Thread Quantize has received frame57 from DCT
+330967 us: Thread ZigZag has received frame56 from Quantize
+331554 us: Thread ZigZag is attempting to send frame56 to Huffman
+331554 us: Thread ZigZag has sent frame56 to Huffman
+331554 us: Thread ZigZag is attempting to receive frame57 from Quantize
+333836 us: Thread DCT is attempting to send frame76 to Quantize
+333836 us: Thread DCT has sent frame76 to Quantize
+333836 us: Thread DCT is attempting to receive frame77 from Read BMP
+333836 us: Thread DCT has received frame77 from Read BMP
+333836 us: Thread Read BMP has sent frame177 to DCT
+334955 us: Thread Read BMP attempting to send frame178 to DCT
+336678 us: Thread Quantize is attempting to send frame57 to ZigZag
+336678 us: Thread Quantize has sent frame57 to ZigZag
+336678 us: Thread Quantize is attempting to receive frame58 from DCT
+336678 us: Thread Quantize has received frame58 from DCT
+336678 us: Thread ZigZag has received frame57 from Quantize
+336922 us: Thread Huffman is attempting to receive frame32 from ZigZag
+336922 us: Thread Huffman has received frame32 from ZigZag
+337265 us: Thread ZigZag is attempting to send frame57 to Huffman
+337265 us: Thread ZigZag has sent frame57 to Huffman
+337265 us: Thread ZigZag is attempting to receive frame58 from Quantize
+338157 us: Thread DCT is attempting to send frame77 to Quantize
+338157 us: Thread DCT has sent frame77 to Quantize
+338157 us: Thread DCT is attempting to receive frame78 from Read BMP
+338157 us: Thread DCT has received frame78 from Read BMP
+338157 us: Thread Read BMP has sent frame178 to DCT
+339276 us: Thread Read BMP attempting to send frame179 to DCT
+342389 us: Thread Quantize is attempting to send frame58 to ZigZag
+342389 us: Thread Quantize has sent frame58 to ZigZag
+342389 us: Thread Quantize is attempting to receive frame59 from DCT
+342389 us: Thread Quantize has received frame59 from DCT
+342389 us: Thread ZigZag has received frame58 from Quantize
+342478 us: Thread DCT is attempting to send frame78 to Quantize
+342478 us: Thread DCT has sent frame78 to Quantize
+342478 us: Thread DCT is attempting to receive frame79 from Read BMP
+342478 us: Thread DCT has received frame79 from Read BMP
+342478 us: Thread Read BMP has sent frame179 to DCT
+342976 us: Thread ZigZag is attempting to send frame58 to Huffman
+342976 us: Thread ZigZag has sent frame58 to Huffman
+342976 us: Thread ZigZag is attempting to receive frame59 from Quantize
+346799 us: Thread DCT is attempting to send frame79 to Quantize
+346799 us: Thread DCT has sent frame79 to Quantize
+346799 us: Thread DCT is attempting to receive frame80 from Read BMP
+346799 us: Thread DCT has received frame80 from Read BMP
+347084 us: Thread Huffman is attempting to receive frame33 from ZigZag
+347084 us: Thread Huffman has received frame33 from ZigZag
+348100 us: Thread Quantize is attempting to send frame59 to ZigZag
+348100 us: Thread Quantize has sent frame59 to ZigZag
+348100 us: Thread Quantize is attempting to receive frame60 from DCT
+348100 us: Thread Quantize has received frame60 from DCT
+348100 us: Thread ZigZag has received frame59 from Quantize
+348687 us: Thread ZigZag is attempting to send frame59 to Huffman
+348687 us: Thread ZigZag has sent frame59 to Huffman
+348687 us: Thread ZigZag is attempting to receive frame60 from Quantize
+351120 us: Thread DCT is attempting to send frame80 to Quantize
+351120 us: Thread DCT has sent frame80 to Quantize
+351120 us: Thread DCT is attempting to receive frame81 from Read BMP
+351120 us: Thread DCT has received frame81 from Read BMP
+353811 us: Thread Quantize is attempting to send frame60 to ZigZag
+353811 us: Thread Quantize has sent frame60 to ZigZag
+353811 us: Thread Quantize is attempting to receive frame61 from DCT
+353811 us: Thread Quantize has received frame61 from DCT
+353811 us: Thread ZigZag has received frame60 from Quantize
+354398 us: Thread ZigZag is attempting to send frame60 to Huffman
+354398 us: Thread ZigZag has sent frame60 to Huffman
+354398 us: Thread ZigZag is attempting to receive frame61 from Quantize
+355441 us: Thread DCT is attempting to send frame81 to Quantize
+355441 us: Thread DCT has sent frame81 to Quantize
+355441 us: Thread DCT is attempting to receive frame82 from Read BMP
+355441 us: Thread DCT has received frame82 from Read BMP
+357246 us: Thread Huffman is attempting to receive frame34 from ZigZag
+357246 us: Thread Huffman has received frame34 from ZigZag
+359522 us: Thread Quantize is attempting to send frame61 to ZigZag
+359522 us: Thread Quantize has sent frame61 to ZigZag
+359522 us: Thread Quantize is attempting to receive frame62 from DCT
+359522 us: Thread Quantize has received frame62 from DCT
+359522 us: Thread ZigZag has received frame61 from Quantize
+359762 us: Thread DCT is attempting to send frame82 to Quantize
+359762 us: Thread DCT has sent frame82 to Quantize
+359762 us: Thread DCT is attempting to receive frame83 from Read BMP
+359762 us: Thread DCT has received frame83 from Read BMP
+360109 us: Thread ZigZag is attempting to send frame61 to Huffman
+360109 us: Thread ZigZag has sent frame61 to Huffman
+360109 us: Thread ZigZag is attempting to receive frame62 from Quantize
+364083 us: Thread DCT is attempting to send frame83 to Quantize
+364083 us: Thread DCT has sent frame83 to Quantize
+364083 us: Thread DCT is attempting to receive frame84 from Read BMP
+364083 us: Thread DCT has received frame84 from Read BMP
+365233 us: Thread Quantize is attempting to send frame62 to ZigZag
+365233 us: Thread Quantize has sent frame62 to ZigZag
+365233 us: Thread Quantize is attempting to receive frame63 from DCT
+365233 us: Thread Quantize has received frame63 from DCT
+365233 us: Thread ZigZag has received frame62 from Quantize
+365820 us: Thread ZigZag is attempting to send frame62 to Huffman
+365820 us: Thread ZigZag has sent frame62 to Huffman
+365820 us: Thread ZigZag is attempting to receive frame63 from Quantize
+367408 us: Thread Huffman is attempting to receive frame35 from ZigZag
+367408 us: Thread Huffman has received frame35 from ZigZag
+368404 us: Thread DCT is attempting to send frame84 to Quantize
+368404 us: Thread DCT has sent frame84 to Quantize
+368404 us: Thread DCT is attempting to receive frame85 from Read BMP
+368404 us: Thread DCT has received frame85 from Read BMP
+370944 us: Thread Quantize is attempting to send frame63 to ZigZag
+370944 us: Thread Quantize has sent frame63 to ZigZag
+370944 us: Thread Quantize is attempting to receive frame64 from DCT
+370944 us: Thread Quantize has received frame64 from DCT
+370944 us: Thread ZigZag has received frame63 from Quantize
+371531 us: Thread ZigZag is attempting to send frame63 to Huffman
+371531 us: Thread ZigZag has sent frame63 to Huffman
+371531 us: Thread ZigZag is attempting to receive frame64 from Quantize
+372725 us: Thread DCT is attempting to send frame85 to Quantize
+372725 us: Thread DCT has sent frame85 to Quantize
+372725 us: Thread DCT is attempting to receive frame86 from Read BMP
+372725 us: Thread DCT has received frame86 from Read BMP
+376655 us: Thread Quantize is attempting to send frame64 to ZigZag
+376655 us: Thread Quantize has sent frame64 to ZigZag
+376655 us: Thread Quantize is attempting to receive frame65 from DCT
+376655 us: Thread Quantize has received frame65 from DCT
+376655 us: Thread ZigZag has received frame64 from Quantize
+377046 us: Thread DCT is attempting to send frame86 to Quantize
+377046 us: Thread DCT has sent frame86 to Quantize
+377046 us: Thread DCT is attempting to receive frame87 from Read BMP
+377046 us: Thread DCT has received frame87 from Read BMP
+377242 us: Thread ZigZag is attempting to send frame64 to Huffman
+377242 us: Thread ZigZag has sent frame64 to Huffman
+377242 us: Thread ZigZag is attempting to receive frame65 from Quantize
+377570 us: Thread Huffman is attempting to receive frame36 from ZigZag
+377570 us: Thread Huffman has received frame36 from ZigZag
+381367 us: Thread DCT is attempting to send frame87 to Quantize
+381367 us: Thread DCT has sent frame87 to Quantize
+381367 us: Thread DCT is attempting to receive frame88 from Read BMP
+381367 us: Thread DCT has received frame88 from Read BMP
+382366 us: Thread Quantize is attempting to send frame65 to ZigZag
+382366 us: Thread Quantize has sent frame65 to ZigZag
+382366 us: Thread Quantize is attempting to receive frame66 from DCT
+382366 us: Thread Quantize has received frame66 from DCT
+382366 us: Thread ZigZag has received frame65 from Quantize
+382953 us: Thread ZigZag is attempting to send frame65 to Huffman
+382953 us: Thread ZigZag has sent frame65 to Huffman
+382953 us: Thread ZigZag is attempting to receive frame66 from Quantize
+385688 us: Thread DCT is attempting to send frame88 to Quantize
+385688 us: Thread DCT has sent frame88 to Quantize
+385688 us: Thread DCT is attempting to receive frame89 from Read BMP
+385688 us: Thread DCT has received frame89 from Read BMP
+387732 us: Thread Huffman is attempting to receive frame37 from ZigZag
+387732 us: Thread Huffman has received frame37 from ZigZag
+388077 us: Thread Quantize is attempting to send frame66 to ZigZag
+388077 us: Thread Quantize has sent frame66 to ZigZag
+388077 us: Thread Quantize is attempting to receive frame67 from DCT
+388077 us: Thread Quantize has received frame67 from DCT
+388077 us: Thread ZigZag has received frame66 from Quantize
+388664 us: Thread ZigZag is attempting to send frame66 to Huffman
+388664 us: Thread ZigZag has sent frame66 to Huffman
+388664 us: Thread ZigZag is attempting to receive frame67 from Quantize
+390009 us: Thread DCT is attempting to send frame89 to Quantize
+390009 us: Thread DCT has sent frame89 to Quantize
+390009 us: Thread DCT is attempting to receive frame90 from Read BMP
+390009 us: Thread DCT has received frame90 from Read BMP
+393788 us: Thread Quantize is attempting to send frame67 to ZigZag
+393788 us: Thread Quantize has sent frame67 to ZigZag
+393788 us: Thread Quantize is attempting to receive frame68 from DCT
+393788 us: Thread Quantize has received frame68 from DCT
+393788 us: Thread ZigZag has received frame67 from Quantize
+394330 us: Thread DCT is attempting to send frame90 to Quantize
+394330 us: Thread DCT has sent frame90 to Quantize
+394330 us: Thread DCT is attempting to receive frame91 from Read BMP
+394330 us: Thread DCT has received frame91 from Read BMP
+394375 us: Thread ZigZag is attempting to send frame67 to Huffman
+394375 us: Thread ZigZag has sent frame67 to Huffman
+394375 us: Thread ZigZag is attempting to receive frame68 from Quantize
+397894 us: Thread Huffman is attempting to receive frame38 from ZigZag
+397894 us: Thread Huffman has received frame38 from ZigZag
+398651 us: Thread DCT is attempting to send frame91 to Quantize
+398651 us: Thread DCT has sent frame91 to Quantize
+398651 us: Thread DCT is attempting to receive frame92 from Read BMP
+398651 us: Thread DCT has received frame92 from Read BMP
+399499 us: Thread Quantize is attempting to send frame68 to ZigZag
+399499 us: Thread Quantize has sent frame68 to ZigZag
+399499 us: Thread Quantize is attempting to receive frame69 from DCT
+399499 us: Thread Quantize has received frame69 from DCT
+399499 us: Thread ZigZag has received frame68 from Quantize
+400086 us: Thread ZigZag is attempting to send frame68 to Huffman
+400086 us: Thread ZigZag has sent frame68 to Huffman
+400086 us: Thread ZigZag is attempting to receive frame69 from Quantize
+402972 us: Thread DCT is attempting to send frame92 to Quantize
+402972 us: Thread DCT has sent frame92 to Quantize
+402972 us: Thread DCT is attempting to receive frame93 from Read BMP
+402972 us: Thread DCT has received frame93 from Read BMP
+405210 us: Thread Quantize is attempting to send frame69 to ZigZag
+405210 us: Thread Quantize has sent frame69 to ZigZag
+405210 us: Thread Quantize is attempting to receive frame70 from DCT
+405210 us: Thread Quantize has received frame70 from DCT
+405210 us: Thread ZigZag has received frame69 from Quantize
+405797 us: Thread ZigZag is attempting to send frame69 to Huffman
+405797 us: Thread ZigZag has sent frame69 to Huffman
+405797 us: Thread ZigZag is attempting to receive frame70 from Quantize
+407293 us: Thread DCT is attempting to send frame93 to Quantize
+407293 us: Thread DCT has sent frame93 to Quantize
+407293 us: Thread DCT is attempting to receive frame94 from Read BMP
+407293 us: Thread DCT has received frame94 from Read BMP
+408056 us: Thread Huffman is attempting to receive frame39 from ZigZag
+408056 us: Thread Huffman has received frame39 from ZigZag
+410921 us: Thread Quantize is attempting to send frame70 to ZigZag
+410921 us: Thread Quantize has sent frame70 to ZigZag
+410921 us: Thread Quantize is attempting to receive frame71 from DCT
+410921 us: Thread Quantize has received frame71 from DCT
+410921 us: Thread ZigZag has received frame70 from Quantize
+411508 us: Thread ZigZag is attempting to send frame70 to Huffman
+411508 us: Thread ZigZag has sent frame70 to Huffman
+411508 us: Thread ZigZag is attempting to receive frame71 from Quantize
+411614 us: Thread DCT is attempting to send frame94 to Quantize
+411614 us: Thread DCT has sent frame94 to Quantize
+411614 us: Thread DCT is attempting to receive frame95 from Read BMP
+411614 us: Thread DCT has received frame95 from Read BMP
+415935 us: Thread DCT is attempting to send frame95 to Quantize
+415935 us: Thread DCT has sent frame95 to Quantize
+415935 us: Thread DCT is attempting to receive frame96 from Read BMP
+415935 us: Thread DCT has received frame96 from Read BMP
+416632 us: Thread Quantize is attempting to send frame71 to ZigZag
+416632 us: Thread Quantize has sent frame71 to ZigZag
+416632 us: Thread Quantize is attempting to receive frame72 from DCT
+416632 us: Thread Quantize has received frame72 from DCT
+416632 us: Thread ZigZag has received frame71 from Quantize
+417219 us: Thread ZigZag is attempting to send frame71 to Huffman
+417219 us: Thread ZigZag has sent frame71 to Huffman
+417219 us: Thread ZigZag is attempting to receive frame72 from Quantize
+418218 us: Thread Huffman is attempting to receive frame40 from ZigZag
+418218 us: Thread Huffman has received frame40 from ZigZag
+420256 us: Thread DCT is attempting to send frame96 to Quantize
+420256 us: Thread DCT has sent frame96 to Quantize
+420256 us: Thread DCT is attempting to receive frame97 from Read BMP
+420256 us: Thread DCT has received frame97 from Read BMP
+422343 us: Thread Quantize is attempting to send frame72 to ZigZag
+422343 us: Thread Quantize has sent frame72 to ZigZag
+422343 us: Thread Quantize is attempting to receive frame73 from DCT
+422343 us: Thread Quantize has received frame73 from DCT
+422343 us: Thread ZigZag has received frame72 from Quantize
+422930 us: Thread ZigZag is attempting to send frame72 to Huffman
+422930 us: Thread ZigZag has sent frame72 to Huffman
+422930 us: Thread ZigZag is attempting to receive frame73 from Quantize
+424577 us: Thread DCT is attempting to send frame97 to Quantize
+424577 us: Thread DCT has sent frame97 to Quantize
+424577 us: Thread DCT is attempting to receive frame98 from Read BMP
+424577 us: Thread DCT has received frame98 from Read BMP
+428054 us: Thread Quantize is attempting to send frame73 to ZigZag
+428054 us: Thread Quantize has sent frame73 to ZigZag
+428054 us: Thread Quantize is attempting to receive frame74 from DCT
+428054 us: Thread Quantize has received frame74 from DCT
+428054 us: Thread ZigZag has received frame73 from Quantize
+428380 us: Thread Huffman is attempting to receive frame41 from ZigZag
+428380 us: Thread Huffman has received frame41 from ZigZag
+428641 us: Thread ZigZag is attempting to send frame73 to Huffman
+428641 us: Thread ZigZag has sent frame73 to Huffman
+428641 us: Thread ZigZag is attempting to receive frame74 from Quantize
+428898 us: Thread DCT is attempting to send frame98 to Quantize
+428898 us: Thread DCT has sent frame98 to Quantize
+428898 us: Thread DCT is attempting to receive frame99 from Read BMP
+428898 us: Thread DCT has received frame99 from Read BMP
+433219 us: Thread DCT is attempting to send frame99 to Quantize
+433219 us: Thread DCT has sent frame99 to Quantize
+433219 us: Thread DCT is attempting to receive frame100 from Read BMP
+433219 us: Thread DCT has received frame100 from Read BMP
+433765 us: Thread Quantize is attempting to send frame74 to ZigZag
+433765 us: Thread Quantize has sent frame74 to ZigZag
+433765 us: Thread Quantize is attempting to receive frame75 from DCT
+433765 us: Thread Quantize has received frame75 from DCT
+433765 us: Thread ZigZag has received frame74 from Quantize
+434352 us: Thread ZigZag is attempting to send frame74 to Huffman
+434352 us: Thread ZigZag has sent frame74 to Huffman
+434352 us: Thread ZigZag is attempting to receive frame75 from Quantize
+437540 us: Thread DCT is attempting to send frame100 to Quantize
+437540 us: Thread DCT has sent frame100 to Quantize
+437540 us: Thread DCT is attempting to receive frame101 from Read BMP
+437540 us: Thread DCT has received frame101 from Read BMP
+438542 us: Thread Huffman is attempting to receive frame42 from ZigZag
+438542 us: Thread Huffman has received frame42 from ZigZag
+439476 us: Thread Quantize is attempting to send frame75 to ZigZag
+439476 us: Thread Quantize has sent frame75 to ZigZag
+439476 us: Thread Quantize is attempting to receive frame76 from DCT
+439476 us: Thread Quantize has received frame76 from DCT
+439476 us: Thread ZigZag has received frame75 from Quantize
+440063 us: Thread ZigZag is attempting to send frame75 to Huffman
+440063 us: Thread ZigZag has sent frame75 to Huffman
+440063 us: Thread ZigZag is attempting to receive frame76 from Quantize
+441861 us: Thread DCT is attempting to send frame101 to Quantize
+441861 us: Thread DCT has sent frame101 to Quantize
+441861 us: Thread DCT is attempting to receive frame102 from Read BMP
+441861 us: Thread DCT has received frame102 from Read BMP
+445187 us: Thread Quantize is attempting to send frame76 to ZigZag
+445187 us: Thread Quantize has sent frame76 to ZigZag
+445187 us: Thread Quantize is attempting to receive frame77 from DCT
+445187 us: Thread Quantize has received frame77 from DCT
+445187 us: Thread ZigZag has received frame76 from Quantize
+445774 us: Thread ZigZag is attempting to send frame76 to Huffman
+445774 us: Thread ZigZag has sent frame76 to Huffman
+445774 us: Thread ZigZag is attempting to receive frame77 from Quantize
+446182 us: Thread DCT is attempting to send frame102 to Quantize
+446182 us: Thread DCT has sent frame102 to Quantize
+446182 us: Thread DCT is attempting to receive frame103 from Read BMP
+446182 us: Thread DCT has received frame103 from Read BMP
+448704 us: Thread Huffman is attempting to receive frame43 from ZigZag
+448704 us: Thread Huffman has received frame43 from ZigZag
+450503 us: Thread DCT is attempting to send frame103 to Quantize
+450503 us: Thread DCT has sent frame103 to Quantize
+450503 us: Thread DCT is attempting to receive frame104 from Read BMP
+450503 us: Thread DCT has received frame104 from Read BMP
+450898 us: Thread Quantize is attempting to send frame77 to ZigZag
+450898 us: Thread Quantize has sent frame77 to ZigZag
+450898 us: Thread Quantize is attempting to receive frame78 from DCT
+450898 us: Thread Quantize has received frame78 from DCT
+450898 us: Thread ZigZag has received frame77 from Quantize
+451485 us: Thread ZigZag is attempting to send frame77 to Huffman
+451485 us: Thread ZigZag has sent frame77 to Huffman
+451485 us: Thread ZigZag is attempting to receive frame78 from Quantize
+454824 us: Thread DCT is attempting to send frame104 to Quantize
+454824 us: Thread DCT has sent frame104 to Quantize
+454824 us: Thread DCT is attempting to receive frame105 from Read BMP
+454824 us: Thread DCT has received frame105 from Read BMP
+456609 us: Thread Quantize is attempting to send frame78 to ZigZag
+456609 us: Thread Quantize has sent frame78 to ZigZag
+456609 us: Thread Quantize is attempting to receive frame79 from DCT
+456609 us: Thread Quantize has received frame79 from DCT
+456609 us: Thread ZigZag has received frame78 from Quantize
+457196 us: Thread ZigZag is attempting to send frame78 to Huffman
+457196 us: Thread ZigZag has sent frame78 to Huffman
+457196 us: Thread ZigZag is attempting to receive frame79 from Quantize
+458866 us: Thread Huffman is attempting to receive frame44 from ZigZag
+458866 us: Thread Huffman has received frame44 from ZigZag
+459145 us: Thread DCT is attempting to send frame105 to Quantize
+459145 us: Thread DCT has sent frame105 to Quantize
+459145 us: Thread DCT is attempting to receive frame106 from Read BMP
+459145 us: Thread DCT has received frame106 from Read BMP
+462320 us: Thread Quantize is attempting to send frame79 to ZigZag
+462320 us: Thread Quantize has sent frame79 to ZigZag
+462320 us: Thread Quantize is attempting to receive frame80 from DCT
+462320 us: Thread Quantize has received frame80 from DCT
+462320 us: Thread ZigZag has received frame79 from Quantize
+462907 us: Thread ZigZag is attempting to send frame79 to Huffman
+462907 us: Thread ZigZag has sent frame79 to Huffman
+462907 us: Thread ZigZag is attempting to receive frame80 from Quantize
+463466 us: Thread DCT is attempting to send frame106 to Quantize
+463466 us: Thread DCT has sent frame106 to Quantize
+463466 us: Thread DCT is attempting to receive frame107 from Read BMP
+463466 us: Thread DCT has received frame107 from Read BMP
+467787 us: Thread DCT is attempting to send frame107 to Quantize
+467787 us: Thread DCT has sent frame107 to Quantize
+467787 us: Thread DCT is attempting to receive frame108 from Read BMP
+467787 us: Thread DCT has received frame108 from Read BMP
+468031 us: Thread Quantize is attempting to send frame80 to ZigZag
+468031 us: Thread Quantize has sent frame80 to ZigZag
+468031 us: Thread Quantize is attempting to receive frame81 from DCT
+468031 us: Thread Quantize has received frame81 from DCT
+468031 us: Thread ZigZag has received frame80 from Quantize
+468618 us: Thread ZigZag is attempting to send frame80 to Huffman
+468618 us: Thread ZigZag has sent frame80 to Huffman
+468618 us: Thread ZigZag is attempting to receive frame81 from Quantize
+469028 us: Thread Huffman is attempting to receive frame45 from ZigZag
+469028 us: Thread Huffman has received frame45 from ZigZag
+472108 us: Thread DCT is attempting to send frame108 to Quantize
+472108 us: Thread DCT has sent frame108 to Quantize
+472108 us: Thread DCT is attempting to receive frame109 from Read BMP
+472108 us: Thread DCT has received frame109 from Read BMP
+473742 us: Thread Quantize is attempting to send frame81 to ZigZag
+473742 us: Thread Quantize has sent frame81 to ZigZag
+473742 us: Thread Quantize is attempting to receive frame82 from DCT
+473742 us: Thread Quantize has received frame82 from DCT
+473742 us: Thread ZigZag has received frame81 from Quantize
+474329 us: Thread ZigZag is attempting to send frame81 to Huffman
+474329 us: Thread ZigZag has sent frame81 to Huffman
+474329 us: Thread ZigZag is attempting to receive frame82 from Quantize
+476429 us: Thread DCT is attempting to send frame109 to Quantize
+476429 us: Thread DCT has sent frame109 to Quantize
+476429 us: Thread DCT is attempting to receive frame110 from Read BMP
+476429 us: Thread DCT has received frame110 from Read BMP
+479190 us: Thread Huffman is attempting to receive frame46 from ZigZag
+479190 us: Thread Huffman has received frame46 from ZigZag
+479453 us: Thread Quantize is attempting to send frame82 to ZigZag
+479453 us: Thread Quantize has sent frame82 to ZigZag
+479453 us: Thread Quantize is attempting to receive frame83 from DCT
+479453 us: Thread Quantize has received frame83 from DCT
+479453 us: Thread ZigZag has received frame82 from Quantize
+480040 us: Thread ZigZag is attempting to send frame82 to Huffman
+480040 us: Thread ZigZag has sent frame82 to Huffman
+480040 us: Thread ZigZag is attempting to receive frame83 from Quantize
+480750 us: Thread DCT is attempting to send frame110 to Quantize
+480750 us: Thread DCT has sent frame110 to Quantize
+480750 us: Thread DCT is attempting to receive frame111 from Read BMP
+480750 us: Thread DCT has received frame111 from Read BMP
+485071 us: Thread DCT is attempting to send frame111 to Quantize
+485071 us: Thread DCT has sent frame111 to Quantize
+485071 us: Thread DCT is attempting to receive frame112 from Read BMP
+485071 us: Thread DCT has received frame112 from Read BMP
+485164 us: Thread Quantize is attempting to send frame83 to ZigZag
+485164 us: Thread Quantize has sent frame83 to ZigZag
+485164 us: Thread Quantize is attempting to receive frame84 from DCT
+485164 us: Thread Quantize has received frame84 from DCT
+485164 us: Thread ZigZag has received frame83 from Quantize
+485751 us: Thread ZigZag is attempting to send frame83 to Huffman
+485751 us: Thread ZigZag has sent frame83 to Huffman
+485751 us: Thread ZigZag is attempting to receive frame84 from Quantize
+489352 us: Thread Huffman is attempting to receive frame47 from ZigZag
+489352 us: Thread Huffman has received frame47 from ZigZag
+489392 us: Thread DCT is attempting to send frame112 to Quantize
+489392 us: Thread DCT has sent frame112 to Quantize
+489392 us: Thread DCT is attempting to receive frame113 from Read BMP
+489392 us: Thread DCT has received frame113 from Read BMP
+490875 us: Thread Quantize is attempting to send frame84 to ZigZag
+490875 us: Thread Quantize has sent frame84 to ZigZag
+490875 us: Thread Quantize is attempting to receive frame85 from DCT
+490875 us: Thread Quantize has received frame85 from DCT
+490875 us: Thread ZigZag has received frame84 from Quantize
+491462 us: Thread ZigZag is attempting to send frame84 to Huffman
+491462 us: Thread ZigZag has sent frame84 to Huffman
+491462 us: Thread ZigZag is attempting to receive frame85 from Quantize
+493713 us: Thread DCT is attempting to send frame113 to Quantize
+493713 us: Thread DCT has sent frame113 to Quantize
+493713 us: Thread DCT is attempting to receive frame114 from Read BMP
+493713 us: Thread DCT has received frame114 from Read BMP
+496586 us: Thread Quantize is attempting to send frame85 to ZigZag
+496586 us: Thread Quantize has sent frame85 to ZigZag
+496586 us: Thread Quantize is attempting to receive frame86 from DCT
+496586 us: Thread Quantize has received frame86 from DCT
+496586 us: Thread ZigZag has received frame85 from Quantize
+497173 us: Thread ZigZag is attempting to send frame85 to Huffman
+497173 us: Thread ZigZag has sent frame85 to Huffman
+497173 us: Thread ZigZag is attempting to receive frame86 from Quantize
+498034 us: Thread DCT is attempting to send frame114 to Quantize
+498034 us: Thread DCT has sent frame114 to Quantize
+498034 us: Thread DCT is attempting to receive frame115 from Read BMP
+498034 us: Thread DCT has received frame115 from Read BMP
+499514 us: Thread Huffman is attempting to receive frame48 from ZigZag
+499514 us: Thread Huffman has received frame48 from ZigZag
+502297 us: Thread Quantize is attempting to send frame86 to ZigZag
+502297 us: Thread Quantize has sent frame86 to ZigZag
+502297 us: Thread Quantize is attempting to receive frame87 from DCT
+502297 us: Thread Quantize has received frame87 from DCT
+502297 us: Thread ZigZag has received frame86 from Quantize
+502355 us: Thread DCT is attempting to send frame115 to Quantize
+502355 us: Thread DCT has sent frame115 to Quantize
+502355 us: Thread DCT is attempting to receive frame116 from Read BMP
+502355 us: Thread DCT has received frame116 from Read BMP
+502884 us: Thread ZigZag is attempting to send frame86 to Huffman
+502884 us: Thread ZigZag has sent frame86 to Huffman
+502884 us: Thread ZigZag is attempting to receive frame87 from Quantize
+506676 us: Thread DCT is attempting to send frame116 to Quantize
+506676 us: Thread DCT has sent frame116 to Quantize
+506676 us: Thread DCT is attempting to receive frame117 from Read BMP
+506676 us: Thread DCT has received frame117 from Read BMP
+508008 us: Thread Quantize is attempting to send frame87 to ZigZag
+508008 us: Thread Quantize has sent frame87 to ZigZag
+508008 us: Thread Quantize is attempting to receive frame88 from DCT
+508008 us: Thread Quantize has received frame88 from DCT
+508008 us: Thread ZigZag has received frame87 from Quantize
+508595 us: Thread ZigZag is attempting to send frame87 to Huffman
+508595 us: Thread ZigZag has sent frame87 to Huffman
+508595 us: Thread ZigZag is attempting to receive frame88 from Quantize
+509676 us: Thread Huffman is attempting to receive frame49 from ZigZag
+509676 us: Thread Huffman has received frame49 from ZigZag
+510997 us: Thread DCT is attempting to send frame117 to Quantize
+510997 us: Thread DCT has sent frame117 to Quantize
+510997 us: Thread DCT is attempting to receive frame118 from Read BMP
+510997 us: Thread DCT has received frame118 from Read BMP
+513719 us: Thread Quantize is attempting to send frame88 to ZigZag
+513719 us: Thread Quantize has sent frame88 to ZigZag
+513719 us: Thread Quantize is attempting to receive frame89 from DCT
+513719 us: Thread Quantize has received frame89 from DCT
+513719 us: Thread ZigZag has received frame88 from Quantize
+514306 us: Thread ZigZag is attempting to send frame88 to Huffman
+514306 us: Thread ZigZag has sent frame88 to Huffman
+514306 us: Thread ZigZag is attempting to receive frame89 from Quantize
+515318 us: Thread DCT is attempting to send frame118 to Quantize
+515318 us: Thread DCT has sent frame118 to Quantize
+515318 us: Thread DCT is attempting to receive frame119 from Read BMP
+515318 us: Thread DCT has received frame119 from Read BMP
+519430 us: Thread Quantize is attempting to send frame89 to ZigZag
+519430 us: Thread Quantize has sent frame89 to ZigZag
+519430 us: Thread Quantize is attempting to receive frame90 from DCT
+519430 us: Thread Quantize has received frame90 from DCT
+519430 us: Thread ZigZag has received frame89 from Quantize
+519639 us: Thread DCT is attempting to send frame119 to Quantize
+519639 us: Thread DCT has sent frame119 to Quantize
+519639 us: Thread DCT is attempting to receive frame120 from Read BMP
+519639 us: Thread DCT has received frame120 from Read BMP
+519838 us: Thread Huffman is attempting to receive frame50 from ZigZag
+519838 us: Thread Huffman has received frame50 from ZigZag
+520017 us: Thread ZigZag is attempting to send frame89 to Huffman
+520017 us: Thread ZigZag has sent frame89 to Huffman
+520017 us: Thread ZigZag is attempting to receive frame90 from Quantize
+523960 us: Thread DCT is attempting to send frame120 to Quantize
+523960 us: Thread DCT has sent frame120 to Quantize
+523960 us: Thread DCT is attempting to receive frame121 from Read BMP
+523960 us: Thread DCT has received frame121 from Read BMP
+525141 us: Thread Quantize is attempting to send frame90 to ZigZag
+525141 us: Thread Quantize has sent frame90 to ZigZag
+525141 us: Thread Quantize is attempting to receive frame91 from DCT
+525141 us: Thread Quantize has received frame91 from DCT
+525141 us: Thread ZigZag has received frame90 from Quantize
+525728 us: Thread ZigZag is attempting to send frame90 to Huffman
+525728 us: Thread ZigZag has sent frame90 to Huffman
+525728 us: Thread ZigZag is attempting to receive frame91 from Quantize
+528281 us: Thread DCT is attempting to send frame121 to Quantize
+528281 us: Thread DCT has sent frame121 to Quantize
+528281 us: Thread DCT is attempting to receive frame122 from Read BMP
+528281 us: Thread DCT has received frame122 from Read BMP
+530 ms: Thread Huffman is attempting to receive frame51 from ZigZag
+530 ms: Thread Huffman has received frame51 from ZigZag
+530852 us: Thread Quantize is attempting to send frame91 to ZigZag
+530852 us: Thread Quantize has sent frame91 to ZigZag
+530852 us: Thread Quantize is attempting to receive frame92 from DCT
+530852 us: Thread Quantize has received frame92 from DCT
+530852 us: Thread ZigZag has received frame91 from Quantize
+531439 us: Thread ZigZag is attempting to send frame91 to Huffman
+531439 us: Thread ZigZag has sent frame91 to Huffman
+531439 us: Thread ZigZag is attempting to receive frame92 from Quantize
+532602 us: Thread DCT is attempting to send frame122 to Quantize
+532602 us: Thread DCT has sent frame122 to Quantize
+532602 us: Thread DCT is attempting to receive frame123 from Read BMP
+532602 us: Thread DCT has received frame123 from Read BMP
+536563 us: Thread Quantize is attempting to send frame92 to ZigZag
+536563 us: Thread Quantize has sent frame92 to ZigZag
+536563 us: Thread Quantize is attempting to receive frame93 from DCT
+536563 us: Thread Quantize has received frame93 from DCT
+536563 us: Thread ZigZag has received frame92 from Quantize
+536923 us: Thread DCT is attempting to send frame123 to Quantize
+536923 us: Thread DCT has sent frame123 to Quantize
+536923 us: Thread DCT is attempting to receive frame124 from Read BMP
+536923 us: Thread DCT has received frame124 from Read BMP
+537150 us: Thread ZigZag is attempting to send frame92 to Huffman
+537150 us: Thread ZigZag has sent frame92 to Huffman
+537150 us: Thread ZigZag is attempting to receive frame93 from Quantize
+540162 us: Thread Huffman is attempting to receive frame52 from ZigZag
+540162 us: Thread Huffman has received frame52 from ZigZag
+541244 us: Thread DCT is attempting to send frame124 to Quantize
+541244 us: Thread DCT has sent frame124 to Quantize
+541244 us: Thread DCT is attempting to receive frame125 from Read BMP
+541244 us: Thread DCT has received frame125 from Read BMP
+542274 us: Thread Quantize is attempting to send frame93 to ZigZag
+542274 us: Thread Quantize has sent frame93 to ZigZag
+542274 us: Thread Quantize is attempting to receive frame94 from DCT
+542274 us: Thread Quantize has received frame94 from DCT
+542274 us: Thread ZigZag has received frame93 from Quantize
+542861 us: Thread ZigZag is attempting to send frame93 to Huffman
+542861 us: Thread ZigZag has sent frame93 to Huffman
+542861 us: Thread ZigZag is attempting to receive frame94 from Quantize
+545565 us: Thread DCT is attempting to send frame125 to Quantize
+545565 us: Thread DCT has sent frame125 to Quantize
+545565 us: Thread DCT is attempting to receive frame126 from Read BMP
+545565 us: Thread DCT has received frame126 from Read BMP
+547985 us: Thread Quantize is attempting to send frame94 to ZigZag
+547985 us: Thread Quantize has sent frame94 to ZigZag
+547985 us: Thread Quantize is attempting to receive frame95 from DCT
+547985 us: Thread Quantize has received frame95 from DCT
+547985 us: Thread ZigZag has received frame94 from Quantize
+548572 us: Thread ZigZag is attempting to send frame94 to Huffman
+548572 us: Thread ZigZag has sent frame94 to Huffman
+548572 us: Thread ZigZag is attempting to receive frame95 from Quantize
+549886 us: Thread DCT is attempting to send frame126 to Quantize
+549886 us: Thread DCT has sent frame126 to Quantize
+549886 us: Thread DCT is attempting to receive frame127 from Read BMP
+549886 us: Thread DCT has received frame127 from Read BMP
+550324 us: Thread Huffman is attempting to receive frame53 from ZigZag
+550324 us: Thread Huffman has received frame53 from ZigZag
+553696 us: Thread Quantize is attempting to send frame95 to ZigZag
+553696 us: Thread Quantize has sent frame95 to ZigZag
+553696 us: Thread Quantize is attempting to receive frame96 from DCT
+553696 us: Thread Quantize has received frame96 from DCT
+553696 us: Thread ZigZag has received frame95 from Quantize
+554207 us: Thread DCT is attempting to send frame127 to Quantize
+554207 us: Thread DCT has sent frame127 to Quantize
+554207 us: Thread DCT is attempting to receive frame128 from Read BMP
+554207 us: Thread DCT has received frame128 from Read BMP
+554283 us: Thread ZigZag is attempting to send frame95 to Huffman
+554283 us: Thread ZigZag has sent frame95 to Huffman
+554283 us: Thread ZigZag is attempting to receive frame96 from Quantize
+558528 us: Thread DCT is attempting to send frame128 to Quantize
+558528 us: Thread DCT has sent frame128 to Quantize
+558528 us: Thread DCT is attempting to receive frame129 from Read BMP
+558528 us: Thread DCT has received frame129 from Read BMP
+559407 us: Thread Quantize is attempting to send frame96 to ZigZag
+559407 us: Thread Quantize has sent frame96 to ZigZag
+559407 us: Thread Quantize is attempting to receive frame97 from DCT
+559407 us: Thread Quantize has received frame97 from DCT
+559407 us: Thread ZigZag has received frame96 from Quantize
+559994 us: Thread ZigZag is attempting to send frame96 to Huffman
+559994 us: Thread ZigZag has sent frame96 to Huffman
+559994 us: Thread ZigZag is attempting to receive frame97 from Quantize
+560486 us: Thread Huffman is attempting to receive frame54 from ZigZag
+560486 us: Thread Huffman has received frame54 from ZigZag
+562849 us: Thread DCT is attempting to send frame129 to Quantize
+562849 us: Thread DCT has sent frame129 to Quantize
+562849 us: Thread DCT is attempting to receive frame130 from Read BMP
+562849 us: Thread DCT has received frame130 from Read BMP
+565118 us: Thread Quantize is attempting to send frame97 to ZigZag
+565118 us: Thread Quantize has sent frame97 to ZigZag
+565118 us: Thread Quantize is attempting to receive frame98 from DCT
+565118 us: Thread Quantize has received frame98 from DCT
+565118 us: Thread ZigZag has received frame97 from Quantize
+565705 us: Thread ZigZag is attempting to send frame97 to Huffman
+565705 us: Thread ZigZag has sent frame97 to Huffman
+565705 us: Thread ZigZag is attempting to receive frame98 from Quantize
+567170 us: Thread DCT is attempting to send frame130 to Quantize
+567170 us: Thread DCT has sent frame130 to Quantize
+567170 us: Thread DCT is attempting to receive frame131 from Read BMP
+567170 us: Thread DCT has received frame131 from Read BMP
+570648 us: Thread Huffman is attempting to receive frame55 from ZigZag
+570648 us: Thread Huffman has received frame55 from ZigZag
+570829 us: Thread Quantize is attempting to send frame98 to ZigZag
+570829 us: Thread Quantize has sent frame98 to ZigZag
+570829 us: Thread Quantize is attempting to receive frame99 from DCT
+570829 us: Thread Quantize has received frame99 from DCT
+570829 us: Thread ZigZag has received frame98 from Quantize
+571416 us: Thread ZigZag is attempting to send frame98 to Huffman
+571416 us: Thread ZigZag has sent frame98 to Huffman
+571416 us: Thread ZigZag is attempting to receive frame99 from Quantize
+571491 us: Thread DCT is attempting to send frame131 to Quantize
+571491 us: Thread DCT has sent frame131 to Quantize
+571491 us: Thread DCT is attempting to receive frame132 from Read BMP
+571491 us: Thread DCT has received frame132 from Read BMP
+575812 us: Thread DCT is attempting to send frame132 to Quantize
+575812 us: Thread DCT has sent frame132 to Quantize
+575812 us: Thread DCT is attempting to receive frame133 from Read BMP
+575812 us: Thread DCT has received frame133 from Read BMP
+576540 us: Thread Quantize is attempting to send frame99 to ZigZag
+576540 us: Thread Quantize has sent frame99 to ZigZag
+576540 us: Thread Quantize is attempting to receive frame100 from DCT
+576540 us: Thread Quantize has received frame100 from DCT
+576540 us: Thread ZigZag has received frame99 from Quantize
+577127 us: Thread ZigZag is attempting to send frame99 to Huffman
+577127 us: Thread ZigZag has sent frame99 to Huffman
+577127 us: Thread ZigZag is attempting to receive frame100 from Quantize
+580133 us: Thread DCT is attempting to send frame133 to Quantize
+580133 us: Thread DCT has sent frame133 to Quantize
+580133 us: Thread DCT is attempting to receive frame134 from Read BMP
+580133 us: Thread DCT has received frame134 from Read BMP
+580810 us: Thread Huffman is attempting to receive frame56 from ZigZag
+580810 us: Thread Huffman has received frame56 from ZigZag
+582251 us: Thread Quantize is attempting to send frame100 to ZigZag
+582251 us: Thread Quantize has sent frame100 to ZigZag
+582251 us: Thread Quantize is attempting to receive frame101 from DCT
+582251 us: Thread Quantize has received frame101 from DCT
+582251 us: Thread ZigZag has received frame100 from Quantize
+582838 us: Thread ZigZag is attempting to send frame100 to Huffman
+582838 us: Thread ZigZag has sent frame100 to Huffman
+582838 us: Thread ZigZag is attempting to receive frame101 from Quantize
+584454 us: Thread DCT is attempting to send frame134 to Quantize
+584454 us: Thread DCT has sent frame134 to Quantize
+584454 us: Thread DCT is attempting to receive frame135 from Read BMP
+584454 us: Thread DCT has received frame135 from Read BMP
+587962 us: Thread Quantize is attempting to send frame101 to ZigZag
+587962 us: Thread Quantize has sent frame101 to ZigZag
+587962 us: Thread Quantize is attempting to receive frame102 from DCT
+587962 us: Thread Quantize has received frame102 from DCT
+587962 us: Thread ZigZag has received frame101 from Quantize
+588549 us: Thread ZigZag is attempting to send frame101 to Huffman
+588549 us: Thread ZigZag has sent frame101 to Huffman
+588549 us: Thread ZigZag is attempting to receive frame102 from Quantize
+588775 us: Thread DCT is attempting to send frame135 to Quantize
+588775 us: Thread DCT has sent frame135 to Quantize
+588775 us: Thread DCT is attempting to receive frame136 from Read BMP
+588775 us: Thread DCT has received frame136 from Read BMP
+590972 us: Thread Huffman is attempting to receive frame57 from ZigZag
+590972 us: Thread Huffman has received frame57 from ZigZag
+593096 us: Thread DCT is attempting to send frame136 to Quantize
+593096 us: Thread DCT has sent frame136 to Quantize
+593096 us: Thread DCT is attempting to receive frame137 from Read BMP
+593096 us: Thread DCT has received frame137 from Read BMP
+593673 us: Thread Quantize is attempting to send frame102 to ZigZag
+593673 us: Thread Quantize has sent frame102 to ZigZag
+593673 us: Thread Quantize is attempting to receive frame103 from DCT
+593673 us: Thread Quantize has received frame103 from DCT
+593673 us: Thread ZigZag has received frame102 from Quantize
+594260 us: Thread ZigZag is attempting to send frame102 to Huffman
+594260 us: Thread ZigZag has sent frame102 to Huffman
+594260 us: Thread ZigZag is attempting to receive frame103 from Quantize
+597417 us: Thread DCT is attempting to send frame137 to Quantize
+597417 us: Thread DCT has sent frame137 to Quantize
+597417 us: Thread DCT is attempting to receive frame138 from Read BMP
+597417 us: Thread DCT has received frame138 from Read BMP
+599384 us: Thread Quantize is attempting to send frame103 to ZigZag
+599384 us: Thread Quantize has sent frame103 to ZigZag
+599384 us: Thread Quantize is attempting to receive frame104 from DCT
+599384 us: Thread Quantize has received frame104 from DCT
+599384 us: Thread ZigZag has received frame103 from Quantize
+599971 us: Thread ZigZag is attempting to send frame103 to Huffman
+599971 us: Thread ZigZag has sent frame103 to Huffman
+599971 us: Thread ZigZag is attempting to receive frame104 from Quantize
+601134 us: Thread Huffman is attempting to receive frame58 from ZigZag
+601134 us: Thread Huffman has received frame58 from ZigZag
+601738 us: Thread DCT is attempting to send frame138 to Quantize
+601738 us: Thread DCT has sent frame138 to Quantize
+601738 us: Thread DCT is attempting to receive frame139 from Read BMP
+601738 us: Thread DCT has received frame139 from Read BMP
+605095 us: Thread Quantize is attempting to send frame104 to ZigZag
+605095 us: Thread Quantize has sent frame104 to ZigZag
+605095 us: Thread Quantize is attempting to receive frame105 from DCT
+605095 us: Thread Quantize has received frame105 from DCT
+605095 us: Thread ZigZag has received frame104 from Quantize
+605682 us: Thread ZigZag is attempting to send frame104 to Huffman
+605682 us: Thread ZigZag has sent frame104 to Huffman
+605682 us: Thread ZigZag is attempting to receive frame105 from Quantize
+606059 us: Thread DCT is attempting to send frame139 to Quantize
+606059 us: Thread DCT has sent frame139 to Quantize
+606059 us: Thread DCT is attempting to receive frame140 from Read BMP
+606059 us: Thread DCT has received frame140 from Read BMP
+610380 us: Thread DCT is attempting to send frame140 to Quantize
+610380 us: Thread DCT has sent frame140 to Quantize
+610380 us: Thread DCT is attempting to receive frame141 from Read BMP
+610380 us: Thread DCT has received frame141 from Read BMP
+610806 us: Thread Quantize is attempting to send frame105 to ZigZag
+610806 us: Thread Quantize has sent frame105 to ZigZag
+610806 us: Thread Quantize is attempting to receive frame106 from DCT
+610806 us: Thread Quantize has received frame106 from DCT
+610806 us: Thread ZigZag has received frame105 from Quantize
+611296 us: Thread Huffman is attempting to receive frame59 from ZigZag
+611296 us: Thread Huffman has received frame59 from ZigZag
+611393 us: Thread ZigZag is attempting to send frame105 to Huffman
+611393 us: Thread ZigZag has sent frame105 to Huffman
+611393 us: Thread ZigZag is attempting to receive frame106 from Quantize
+614701 us: Thread DCT is attempting to send frame141 to Quantize
+614701 us: Thread DCT has sent frame141 to Quantize
+614701 us: Thread DCT is attempting to receive frame142 from Read BMP
+614701 us: Thread DCT has received frame142 from Read BMP
+616517 us: Thread Quantize is attempting to send frame106 to ZigZag
+616517 us: Thread Quantize has sent frame106 to ZigZag
+616517 us: Thread Quantize is attempting to receive frame107 from DCT
+616517 us: Thread Quantize has received frame107 from DCT
+616517 us: Thread ZigZag has received frame106 from Quantize
+617104 us: Thread ZigZag is attempting to send frame106 to Huffman
+617104 us: Thread ZigZag has sent frame106 to Huffman
+617104 us: Thread ZigZag is attempting to receive frame107 from Quantize
+619022 us: Thread DCT is attempting to send frame142 to Quantize
+619022 us: Thread DCT has sent frame142 to Quantize
+619022 us: Thread DCT is attempting to receive frame143 from Read BMP
+619022 us: Thread DCT has received frame143 from Read BMP
+621458 us: Thread Huffman is attempting to receive frame60 from ZigZag
+621458 us: Thread Huffman has received frame60 from ZigZag
+622228 us: Thread Quantize is attempting to send frame107 to ZigZag
+622228 us: Thread Quantize has sent frame107 to ZigZag
+622228 us: Thread Quantize is attempting to receive frame108 from DCT
+622228 us: Thread Quantize has received frame108 from DCT
+622228 us: Thread ZigZag has received frame107 from Quantize
+622815 us: Thread ZigZag is attempting to send frame107 to Huffman
+622815 us: Thread ZigZag has sent frame107 to Huffman
+622815 us: Thread ZigZag is attempting to receive frame108 from Quantize
+623343 us: Thread DCT is attempting to send frame143 to Quantize
+623343 us: Thread DCT has sent frame143 to Quantize
+623343 us: Thread DCT is attempting to receive frame144 from Read BMP
+623343 us: Thread DCT has received frame144 from Read BMP
+627664 us: Thread DCT is attempting to send frame144 to Quantize
+627664 us: Thread DCT has sent frame144 to Quantize
+627664 us: Thread DCT is attempting to receive frame145 from Read BMP
+627664 us: Thread DCT has received frame145 from Read BMP
+627939 us: Thread Quantize is attempting to send frame108 to ZigZag
+627939 us: Thread Quantize has sent frame108 to ZigZag
+627939 us: Thread Quantize is attempting to receive frame109 from DCT
+627939 us: Thread Quantize has received frame109 from DCT
+627939 us: Thread ZigZag has received frame108 from Quantize
+628526 us: Thread ZigZag is attempting to send frame108 to Huffman
+628526 us: Thread ZigZag has sent frame108 to Huffman
+628526 us: Thread ZigZag is attempting to receive frame109 from Quantize
+631620 us: Thread Huffman is attempting to receive frame61 from ZigZag
+631620 us: Thread Huffman has received frame61 from ZigZag
+631985 us: Thread DCT is attempting to send frame145 to Quantize
+631985 us: Thread DCT has sent frame145 to Quantize
+631985 us: Thread DCT is attempting to receive frame146 from Read BMP
+631985 us: Thread DCT has received frame146 from Read BMP
+633650 us: Thread Quantize is attempting to send frame109 to ZigZag
+633650 us: Thread Quantize has sent frame109 to ZigZag
+633650 us: Thread Quantize is attempting to receive frame110 from DCT
+633650 us: Thread Quantize has received frame110 from DCT
+633650 us: Thread ZigZag has received frame109 from Quantize
+634237 us: Thread ZigZag is attempting to send frame109 to Huffman
+634237 us: Thread ZigZag has sent frame109 to Huffman
+634237 us: Thread ZigZag is attempting to receive frame110 from Quantize
+636306 us: Thread DCT is attempting to send frame146 to Quantize
+636306 us: Thread DCT has sent frame146 to Quantize
+636306 us: Thread DCT is attempting to receive frame147 from Read BMP
+636306 us: Thread DCT has received frame147 from Read BMP
+639361 us: Thread Quantize is attempting to send frame110 to ZigZag
+639361 us: Thread Quantize has sent frame110 to ZigZag
+639361 us: Thread Quantize is attempting to receive frame111 from DCT
+639361 us: Thread Quantize has received frame111 from DCT
+639361 us: Thread ZigZag has received frame110 from Quantize
+639948 us: Thread ZigZag is attempting to send frame110 to Huffman
+639948 us: Thread ZigZag has sent frame110 to Huffman
+639948 us: Thread ZigZag is attempting to receive frame111 from Quantize
+640627 us: Thread DCT is attempting to send frame147 to Quantize
+640627 us: Thread DCT has sent frame147 to Quantize
+640627 us: Thread DCT is attempting to receive frame148 from Read BMP
+640627 us: Thread DCT has received frame148 from Read BMP
+641782 us: Thread Huffman is attempting to receive frame62 from ZigZag
+641782 us: Thread Huffman has received frame62 from ZigZag
+644948 us: Thread DCT is attempting to send frame148 to Quantize
+644948 us: Thread DCT has sent frame148 to Quantize
+644948 us: Thread DCT is attempting to receive frame149 from Read BMP
+644948 us: Thread DCT has received frame149 from Read BMP
+645072 us: Thread Quantize is attempting to send frame111 to ZigZag
+645072 us: Thread Quantize has sent frame111 to ZigZag
+645072 us: Thread Quantize is attempting to receive frame112 from DCT
+645072 us: Thread Quantize has received frame112 from DCT
+645072 us: Thread ZigZag has received frame111 from Quantize
+645659 us: Thread ZigZag is attempting to send frame111 to Huffman
+645659 us: Thread ZigZag has sent frame111 to Huffman
+645659 us: Thread ZigZag is attempting to receive frame112 from Quantize
+649269 us: Thread DCT is attempting to send frame149 to Quantize
+649269 us: Thread DCT has sent frame149 to Quantize
+649269 us: Thread DCT is attempting to receive frame150 from Read BMP
+649269 us: Thread DCT has received frame150 from Read BMP
+650783 us: Thread Quantize is attempting to send frame112 to ZigZag
+650783 us: Thread Quantize has sent frame112 to ZigZag
+650783 us: Thread Quantize is attempting to receive frame113 from DCT
+650783 us: Thread Quantize has received frame113 from DCT
+650783 us: Thread ZigZag has received frame112 from Quantize
+651370 us: Thread ZigZag is attempting to send frame112 to Huffman
+651370 us: Thread ZigZag has sent frame112 to Huffman
+651370 us: Thread ZigZag is attempting to receive frame113 from Quantize
+651944 us: Thread Huffman is attempting to receive frame63 from ZigZag
+651944 us: Thread Huffman has received frame63 from ZigZag
+653590 us: Thread DCT is attempting to send frame150 to Quantize
+653590 us: Thread DCT has sent frame150 to Quantize
+653590 us: Thread DCT is attempting to receive frame151 from Read BMP
+653590 us: Thread DCT has received frame151 from Read BMP
+656494 us: Thread Quantize is attempting to send frame113 to ZigZag
+656494 us: Thread Quantize has sent frame113 to ZigZag
+656494 us: Thread Quantize is attempting to receive frame114 from DCT
+656494 us: Thread Quantize has received frame114 from DCT
+656494 us: Thread ZigZag has received frame113 from Quantize
+657081 us: Thread ZigZag is attempting to send frame113 to Huffman
+657081 us: Thread ZigZag has sent frame113 to Huffman
+657081 us: Thread ZigZag is attempting to receive frame114 from Quantize
+657911 us: Thread DCT is attempting to send frame151 to Quantize
+657911 us: Thread DCT has sent frame151 to Quantize
+657911 us: Thread DCT is attempting to receive frame152 from Read BMP
+657911 us: Thread DCT has received frame152 from Read BMP
+662106 us: Thread Huffman is attempting to receive frame64 from ZigZag
+662106 us: Thread Huffman has received frame64 from ZigZag
+662205 us: Thread Quantize is attempting to send frame114 to ZigZag
+662205 us: Thread Quantize has sent frame114 to ZigZag
+662205 us: Thread Quantize is attempting to receive frame115 from DCT
+662205 us: Thread Quantize has received frame115 from DCT
+662205 us: Thread ZigZag has received frame114 from Quantize
+662232 us: Thread DCT is attempting to send frame152 to Quantize
+662232 us: Thread DCT has sent frame152 to Quantize
+662232 us: Thread DCT is attempting to receive frame153 from Read BMP
+662232 us: Thread DCT has received frame153 from Read BMP
+662792 us: Thread ZigZag is attempting to send frame114 to Huffman
+662792 us: Thread ZigZag has sent frame114 to Huffman
+662792 us: Thread ZigZag is attempting to receive frame115 from Quantize
+666553 us: Thread DCT is attempting to send frame153 to Quantize
+666553 us: Thread DCT has sent frame153 to Quantize
+666553 us: Thread DCT is attempting to receive frame154 from Read BMP
+666553 us: Thread DCT has received frame154 from Read BMP
+667916 us: Thread Quantize is attempting to send frame115 to ZigZag
+667916 us: Thread Quantize has sent frame115 to ZigZag
+667916 us: Thread Quantize is attempting to receive frame116 from DCT
+667916 us: Thread Quantize has received frame116 from DCT
+667916 us: Thread ZigZag has received frame115 from Quantize
+668503 us: Thread ZigZag is attempting to send frame115 to Huffman
+668503 us: Thread ZigZag has sent frame115 to Huffman
+668503 us: Thread ZigZag is attempting to receive frame116 from Quantize
+670874 us: Thread DCT is attempting to send frame154 to Quantize
+670874 us: Thread DCT has sent frame154 to Quantize
+670874 us: Thread DCT is attempting to receive frame155 from Read BMP
+670874 us: Thread DCT has received frame155 from Read BMP
+672268 us: Thread Huffman is attempting to receive frame65 from ZigZag
+672268 us: Thread Huffman has received frame65 from ZigZag
+673627 us: Thread Quantize is attempting to send frame116 to ZigZag
+673627 us: Thread Quantize has sent frame116 to ZigZag
+673627 us: Thread Quantize is attempting to receive frame117 from DCT
+673627 us: Thread Quantize has received frame117 from DCT
+673627 us: Thread ZigZag has received frame116 from Quantize
+674214 us: Thread ZigZag is attempting to send frame116 to Huffman
+674214 us: Thread ZigZag has sent frame116 to Huffman
+674214 us: Thread ZigZag is attempting to receive frame117 from Quantize
+675195 us: Thread DCT is attempting to send frame155 to Quantize
+675195 us: Thread DCT has sent frame155 to Quantize
+675195 us: Thread DCT is attempting to receive frame156 from Read BMP
+675195 us: Thread DCT has received frame156 from Read BMP
+679338 us: Thread Quantize is attempting to send frame117 to ZigZag
+679338 us: Thread Quantize has sent frame117 to ZigZag
+679338 us: Thread Quantize is attempting to receive frame118 from DCT
+679338 us: Thread Quantize has received frame118 from DCT
+679338 us: Thread ZigZag has received frame117 from Quantize
+679516 us: Thread DCT is attempting to send frame156 to Quantize
+679516 us: Thread DCT has sent frame156 to Quantize
+679516 us: Thread DCT is attempting to receive frame157 from Read BMP
+679516 us: Thread DCT has received frame157 from Read BMP
+679925 us: Thread ZigZag is attempting to send frame117 to Huffman
+679925 us: Thread ZigZag has sent frame117 to Huffman
+679925 us: Thread ZigZag is attempting to receive frame118 from Quantize
+682430 us: Thread Huffman is attempting to receive frame66 from ZigZag
+682430 us: Thread Huffman has received frame66 from ZigZag
+683837 us: Thread DCT is attempting to send frame157 to Quantize
+683837 us: Thread DCT has sent frame157 to Quantize
+683837 us: Thread DCT is attempting to receive frame158 from Read BMP
+683837 us: Thread DCT has received frame158 from Read BMP
+685049 us: Thread Quantize is attempting to send frame118 to ZigZag
+685049 us: Thread Quantize has sent frame118 to ZigZag
+685049 us: Thread Quantize is attempting to receive frame119 from DCT
+685049 us: Thread Quantize has received frame119 from DCT
+685049 us: Thread ZigZag has received frame118 from Quantize
+685636 us: Thread ZigZag is attempting to send frame118 to Huffman
+685636 us: Thread ZigZag has sent frame118 to Huffman
+685636 us: Thread ZigZag is attempting to receive frame119 from Quantize
+688158 us: Thread DCT is attempting to send frame158 to Quantize
+688158 us: Thread DCT has sent frame158 to Quantize
+688158 us: Thread DCT is attempting to receive frame159 from Read BMP
+688158 us: Thread DCT has received frame159 from Read BMP
+690760 us: Thread Quantize is attempting to send frame119 to ZigZag
+690760 us: Thread Quantize has sent frame119 to ZigZag
+690760 us: Thread Quantize is attempting to receive frame120 from DCT
+690760 us: Thread Quantize has received frame120 from DCT
+690760 us: Thread ZigZag has received frame119 from Quantize
+691347 us: Thread ZigZag is attempting to send frame119 to Huffman
+691347 us: Thread ZigZag has sent frame119 to Huffman
+691347 us: Thread ZigZag is attempting to receive frame120 from Quantize
+692479 us: Thread DCT is attempting to send frame159 to Quantize
+692479 us: Thread DCT has sent frame159 to Quantize
+692479 us: Thread DCT is attempting to receive frame160 from Read BMP
+692479 us: Thread DCT has received frame160 from Read BMP
+692592 us: Thread Huffman is attempting to receive frame67 from ZigZag
+692592 us: Thread Huffman has received frame67 from ZigZag
+696471 us: Thread Quantize is attempting to send frame120 to ZigZag
+696471 us: Thread Quantize has sent frame120 to ZigZag
+696471 us: Thread Quantize is attempting to receive frame121 from DCT
+696471 us: Thread Quantize has received frame121 from DCT
+696471 us: Thread ZigZag has received frame120 from Quantize
+696800 us: Thread DCT is attempting to send frame160 to Quantize
+696800 us: Thread DCT has sent frame160 to Quantize
+696800 us: Thread DCT is attempting to receive frame161 from Read BMP
+696800 us: Thread DCT has received frame161 from Read BMP
+697058 us: Thread ZigZag is attempting to send frame120 to Huffman
+697058 us: Thread ZigZag has sent frame120 to Huffman
+697058 us: Thread ZigZag is attempting to receive frame121 from Quantize
+701121 us: Thread DCT is attempting to send frame161 to Quantize
+701121 us: Thread DCT has sent frame161 to Quantize
+701121 us: Thread DCT is attempting to receive frame162 from Read BMP
+701121 us: Thread DCT has received frame162 from Read BMP
+702182 us: Thread Quantize is attempting to send frame121 to ZigZag
+702182 us: Thread Quantize has sent frame121 to ZigZag
+702182 us: Thread Quantize is attempting to receive frame122 from DCT
+702182 us: Thread Quantize has received frame122 from DCT
+702182 us: Thread ZigZag has received frame121 from Quantize
+702754 us: Thread Huffman is attempting to receive frame68 from ZigZag
+702754 us: Thread Huffman has received frame68 from ZigZag
+702769 us: Thread ZigZag is attempting to send frame121 to Huffman
+702769 us: Thread ZigZag has sent frame121 to Huffman
+702769 us: Thread ZigZag is attempting to receive frame122 from Quantize
+705442 us: Thread DCT is attempting to send frame162 to Quantize
+705442 us: Thread DCT has sent frame162 to Quantize
+705442 us: Thread DCT is attempting to receive frame163 from Read BMP
+705442 us: Thread DCT has received frame163 from Read BMP
+707893 us: Thread Quantize is attempting to send frame122 to ZigZag
+707893 us: Thread Quantize has sent frame122 to ZigZag
+707893 us: Thread Quantize is attempting to receive frame123 from DCT
+707893 us: Thread Quantize has received frame123 from DCT
+707893 us: Thread ZigZag has received frame122 from Quantize
+708480 us: Thread ZigZag is attempting to send frame122 to Huffman
+708480 us: Thread ZigZag has sent frame122 to Huffman
+708480 us: Thread ZigZag is attempting to receive frame123 from Quantize
+709763 us: Thread DCT is attempting to send frame163 to Quantize
+709763 us: Thread DCT has sent frame163 to Quantize
+709763 us: Thread DCT is attempting to receive frame164 from Read BMP
+709763 us: Thread DCT has received frame164 from Read BMP
+712916 us: Thread Huffman is attempting to receive frame69 from ZigZag
+712916 us: Thread Huffman has received frame69 from ZigZag
+713604 us: Thread Quantize is attempting to send frame123 to ZigZag
+713604 us: Thread Quantize has sent frame123 to ZigZag
+713604 us: Thread Quantize is attempting to receive frame124 from DCT
+713604 us: Thread Quantize has received frame124 from DCT
+713604 us: Thread ZigZag has received frame123 from Quantize
+714084 us: Thread DCT is attempting to send frame164 to Quantize
+714084 us: Thread DCT has sent frame164 to Quantize
+714084 us: Thread DCT is attempting to receive frame165 from Read BMP
+714084 us: Thread DCT has received frame165 from Read BMP
+714191 us: Thread ZigZag is attempting to send frame123 to Huffman
+714191 us: Thread ZigZag has sent frame123 to Huffman
+714191 us: Thread ZigZag is attempting to receive frame124 from Quantize
+718405 us: Thread DCT is attempting to send frame165 to Quantize
+718405 us: Thread DCT has sent frame165 to Quantize
+718405 us: Thread DCT is attempting to receive frame166 from Read BMP
+718405 us: Thread DCT has received frame166 from Read BMP
+719315 us: Thread Quantize is attempting to send frame124 to ZigZag
+719315 us: Thread Quantize has sent frame124 to ZigZag
+719315 us: Thread Quantize is attempting to receive frame125 from DCT
+719315 us: Thread Quantize has received frame125 from DCT
+719315 us: Thread ZigZag has received frame124 from Quantize
+719902 us: Thread ZigZag is attempting to send frame124 to Huffman
+719902 us: Thread ZigZag has sent frame124 to Huffman
+719902 us: Thread ZigZag is attempting to receive frame125 from Quantize
+722726 us: Thread DCT is attempting to send frame166 to Quantize
+722726 us: Thread DCT has sent frame166 to Quantize
+722726 us: Thread DCT is attempting to receive frame167 from Read BMP
+722726 us: Thread DCT has received frame167 from Read BMP
+723078 us: Thread Huffman is attempting to receive frame70 from ZigZag
+723078 us: Thread Huffman has received frame70 from ZigZag
+725026 us: Thread Quantize is attempting to send frame125 to ZigZag
+725026 us: Thread Quantize has sent frame125 to ZigZag
+725026 us: Thread Quantize is attempting to receive frame126 from DCT
+725026 us: Thread Quantize has received frame126 from DCT
+725026 us: Thread ZigZag has received frame125 from Quantize
+725613 us: Thread ZigZag is attempting to send frame125 to Huffman
+725613 us: Thread ZigZag has sent frame125 to Huffman
+725613 us: Thread ZigZag is attempting to receive frame126 from Quantize
+727047 us: Thread DCT is attempting to send frame167 to Quantize
+727047 us: Thread DCT has sent frame167 to Quantize
+727047 us: Thread DCT is attempting to receive frame168 from Read BMP
+727047 us: Thread DCT has received frame168 from Read BMP
+730737 us: Thread Quantize is attempting to send frame126 to ZigZag
+730737 us: Thread Quantize has sent frame126 to ZigZag
+730737 us: Thread Quantize is attempting to receive frame127 from DCT
+730737 us: Thread Quantize has received frame127 from DCT
+730737 us: Thread ZigZag has received frame126 from Quantize
+731324 us: Thread ZigZag is attempting to send frame126 to Huffman
+731324 us: Thread ZigZag has sent frame126 to Huffman
+731324 us: Thread ZigZag is attempting to receive frame127 from Quantize
+731368 us: Thread DCT is attempting to send frame168 to Quantize
+731368 us: Thread DCT has sent frame168 to Quantize
+731368 us: Thread DCT is attempting to receive frame169 from Read BMP
+731368 us: Thread DCT has received frame169 from Read BMP
+733240 us: Thread Huffman is attempting to receive frame71 from ZigZag
+733240 us: Thread Huffman has received frame71 from ZigZag
+735689 us: Thread DCT is attempting to send frame169 to Quantize
+735689 us: Thread DCT has sent frame169 to Quantize
+735689 us: Thread DCT is attempting to receive frame170 from Read BMP
+735689 us: Thread DCT has received frame170 from Read BMP
+736448 us: Thread Quantize is attempting to send frame127 to ZigZag
+736448 us: Thread Quantize has sent frame127 to ZigZag
+736448 us: Thread Quantize is attempting to receive frame128 from DCT
+736448 us: Thread Quantize has received frame128 from DCT
+736448 us: Thread ZigZag has received frame127 from Quantize
+737035 us: Thread ZigZag is attempting to send frame127 to Huffman
+737035 us: Thread ZigZag has sent frame127 to Huffman
+737035 us: Thread ZigZag is attempting to receive frame128 from Quantize
+740010 us: Thread DCT is attempting to send frame170 to Quantize
+740010 us: Thread DCT has sent frame170 to Quantize
+740010 us: Thread DCT is attempting to receive frame171 from Read BMP
+740010 us: Thread DCT has received frame171 from Read BMP
+742159 us: Thread Quantize is attempting to send frame128 to ZigZag
+742159 us: Thread Quantize has sent frame128 to ZigZag
+742159 us: Thread Quantize is attempting to receive frame129 from DCT
+742159 us: Thread Quantize has received frame129 from DCT
+742159 us: Thread ZigZag has received frame128 from Quantize
+742746 us: Thread ZigZag is attempting to send frame128 to Huffman
+742746 us: Thread ZigZag has sent frame128 to Huffman
+742746 us: Thread ZigZag is attempting to receive frame129 from Quantize
+743402 us: Thread Huffman is attempting to receive frame72 from ZigZag
+743402 us: Thread Huffman has received frame72 from ZigZag
+744331 us: Thread DCT is attempting to send frame171 to Quantize
+744331 us: Thread DCT has sent frame171 to Quantize
+744331 us: Thread DCT is attempting to receive frame172 from Read BMP
+744331 us: Thread DCT has received frame172 from Read BMP
+747870 us: Thread Quantize is attempting to send frame129 to ZigZag
+747870 us: Thread Quantize has sent frame129 to ZigZag
+747870 us: Thread Quantize is attempting to receive frame130 from DCT
+747870 us: Thread Quantize has received frame130 from DCT
+747870 us: Thread ZigZag has received frame129 from Quantize
+748457 us: Thread ZigZag is attempting to send frame129 to Huffman
+748457 us: Thread ZigZag has sent frame129 to Huffman
+748457 us: Thread ZigZag is attempting to receive frame130 from Quantize
+748652 us: Thread DCT is attempting to send frame172 to Quantize
+748652 us: Thread DCT has sent frame172 to Quantize
+748652 us: Thread DCT is attempting to receive frame173 from Read BMP
+748652 us: Thread DCT has received frame173 from Read BMP
+752973 us: Thread DCT is attempting to send frame173 to Quantize
+752973 us: Thread DCT has sent frame173 to Quantize
+752973 us: Thread DCT is attempting to receive frame174 from Read BMP
+752973 us: Thread DCT has received frame174 from Read BMP
+753564 us: Thread Huffman is attempting to receive frame73 from ZigZag
+753564 us: Thread Huffman has received frame73 from ZigZag
+753581 us: Thread Quantize is attempting to send frame130 to ZigZag
+753581 us: Thread Quantize has sent frame130 to ZigZag
+753581 us: Thread Quantize is attempting to receive frame131 from DCT
+753581 us: Thread Quantize has received frame131 from DCT
+753581 us: Thread ZigZag has received frame130 from Quantize
+754168 us: Thread ZigZag is attempting to send frame130 to Huffman
+754168 us: Thread ZigZag has sent frame130 to Huffman
+754168 us: Thread ZigZag is attempting to receive frame131 from Quantize
+757294 us: Thread DCT is attempting to send frame174 to Quantize
+757294 us: Thread DCT has sent frame174 to Quantize
+757294 us: Thread DCT is attempting to receive frame175 from Read BMP
+757294 us: Thread DCT has received frame175 from Read BMP
+759292 us: Thread Quantize is attempting to send frame131 to ZigZag
+759292 us: Thread Quantize has sent frame131 to ZigZag
+759292 us: Thread Quantize is attempting to receive frame132 from DCT
+759292 us: Thread Quantize has received frame132 from DCT
+759292 us: Thread ZigZag has received frame131 from Quantize
+759879 us: Thread ZigZag is attempting to send frame131 to Huffman
+759879 us: Thread ZigZag has sent frame131 to Huffman
+759879 us: Thread ZigZag is attempting to receive frame132 from Quantize
+761615 us: Thread DCT is attempting to send frame175 to Quantize
+761615 us: Thread DCT has sent frame175 to Quantize
+761615 us: Thread DCT is attempting to receive frame176 from Read BMP
+761615 us: Thread DCT has received frame176 from Read BMP
+763726 us: Thread Huffman is attempting to receive frame74 from ZigZag
+763726 us: Thread Huffman has received frame74 from ZigZag
+765003 us: Thread Quantize is attempting to send frame132 to ZigZag
+765003 us: Thread Quantize has sent frame132 to ZigZag
+765003 us: Thread Quantize is attempting to receive frame133 from DCT
+765003 us: Thread Quantize has received frame133 from DCT
+765003 us: Thread ZigZag has received frame132 from Quantize
+765590 us: Thread ZigZag is attempting to send frame132 to Huffman
+765590 us: Thread ZigZag has sent frame132 to Huffman
+765590 us: Thread ZigZag is attempting to receive frame133 from Quantize
+765936 us: Thread DCT is attempting to send frame176 to Quantize
+765936 us: Thread DCT has sent frame176 to Quantize
+765936 us: Thread DCT is attempting to receive frame177 from Read BMP
+765936 us: Thread DCT has received frame177 from Read BMP
+770257 us: Thread DCT is attempting to send frame177 to Quantize
+770257 us: Thread DCT has sent frame177 to Quantize
+770257 us: Thread DCT is attempting to receive frame178 from Read BMP
+770257 us: Thread DCT has received frame178 from Read BMP
+770714 us: Thread Quantize is attempting to send frame133 to ZigZag
+770714 us: Thread Quantize has sent frame133 to ZigZag
+770714 us: Thread Quantize is attempting to receive frame134 from DCT
+770714 us: Thread Quantize has received frame134 from DCT
+770714 us: Thread ZigZag has received frame133 from Quantize
+771301 us: Thread ZigZag is attempting to send frame133 to Huffman
+771301 us: Thread ZigZag has sent frame133 to Huffman
+771301 us: Thread ZigZag is attempting to receive frame134 from Quantize
+773888 us: Thread Huffman is attempting to receive frame75 from ZigZag
+773888 us: Thread Huffman has received frame75 from ZigZag
+774578 us: Thread DCT is attempting to send frame178 to Quantize
+774578 us: Thread DCT has sent frame178 to Quantize
+774578 us: Thread DCT is attempting to receive frame179 from Read BMP
+774578 us: Thread DCT has received frame179 from Read BMP
+776425 us: Thread Quantize is attempting to send frame134 to ZigZag
+776425 us: Thread Quantize has sent frame134 to ZigZag
+776425 us: Thread Quantize is attempting to receive frame135 from DCT
+776425 us: Thread Quantize has received frame135 from DCT
+776425 us: Thread ZigZag has received frame134 from Quantize
+777012 us: Thread ZigZag is attempting to send frame134 to Huffman
+777012 us: Thread ZigZag has sent frame134 to Huffman
+777012 us: Thread ZigZag is attempting to receive frame135 from Quantize
+778899 us: Thread DCT is attempting to send frame179 to Quantize
+778899 us: Thread DCT has sent frame179 to Quantize
+782136 us: Thread Quantize is attempting to send frame135 to ZigZag
+782136 us: Thread Quantize has sent frame135 to ZigZag
+782136 us: Thread Quantize is attempting to receive frame136 from DCT
+782136 us: Thread Quantize has received frame136 from DCT
+782136 us: Thread ZigZag has received frame135 from Quantize
+782723 us: Thread ZigZag is attempting to send frame135 to Huffman
+782723 us: Thread ZigZag has sent frame135 to Huffman
+782723 us: Thread ZigZag is attempting to receive frame136 from Quantize
+784050 us: Thread Huffman is attempting to receive frame76 from ZigZag
+784050 us: Thread Huffman has received frame76 from ZigZag
+787847 us: Thread Quantize is attempting to send frame136 to ZigZag
+787847 us: Thread Quantize has sent frame136 to ZigZag
+787847 us: Thread Quantize is attempting to receive frame137 from DCT
+787847 us: Thread Quantize has received frame137 from DCT
+787847 us: Thread ZigZag has received frame136 from Quantize
+788434 us: Thread ZigZag is attempting to send frame136 to Huffman
+788434 us: Thread ZigZag has sent frame136 to Huffman
+788434 us: Thread ZigZag is attempting to receive frame137 from Quantize
+793558 us: Thread Quantize is attempting to send frame137 to ZigZag
+793558 us: Thread Quantize has sent frame137 to ZigZag
+793558 us: Thread Quantize is attempting to receive frame138 from DCT
+793558 us: Thread Quantize has received frame138 from DCT
+793558 us: Thread ZigZag has received frame137 from Quantize
+794145 us: Thread ZigZag is attempting to send frame137 to Huffman
+794145 us: Thread ZigZag has sent frame137 to Huffman
+794145 us: Thread ZigZag is attempting to receive frame138 from Quantize
+794212 us: Thread Huffman is attempting to receive frame77 from ZigZag
+794212 us: Thread Huffman has received frame77 from ZigZag
+799269 us: Thread Quantize is attempting to send frame138 to ZigZag
+799269 us: Thread Quantize has sent frame138 to ZigZag
+799269 us: Thread Quantize is attempting to receive frame139 from DCT
+799269 us: Thread Quantize has received frame139 from DCT
+799269 us: Thread ZigZag has received frame138 from Quantize
+799856 us: Thread ZigZag is attempting to send frame138 to Huffman
+799856 us: Thread ZigZag has sent frame138 to Huffman
+799856 us: Thread ZigZag is attempting to receive frame139 from Quantize
+804374 us: Thread Huffman is attempting to receive frame78 from ZigZag
+804374 us: Thread Huffman has received frame78 from ZigZag
+804980 us: Thread Quantize is attempting to send frame139 to ZigZag
+804980 us: Thread Quantize has sent frame139 to ZigZag
+804980 us: Thread Quantize is attempting to receive frame140 from DCT
+804980 us: Thread Quantize has received frame140 from DCT
+804980 us: Thread ZigZag has received frame139 from Quantize
+805567 us: Thread ZigZag is attempting to send frame139 to Huffman
+805567 us: Thread ZigZag has sent frame139 to Huffman
+805567 us: Thread ZigZag is attempting to receive frame140 from Quantize
+810691 us: Thread Quantize is attempting to send frame140 to ZigZag
+810691 us: Thread Quantize has sent frame140 to ZigZag
+810691 us: Thread Quantize is attempting to receive frame141 from DCT
+810691 us: Thread Quantize has received frame141 from DCT
+810691 us: Thread ZigZag has received frame140 from Quantize
+811278 us: Thread ZigZag is attempting to send frame140 to Huffman
+811278 us: Thread ZigZag has sent frame140 to Huffman
+811278 us: Thread ZigZag is attempting to receive frame141 from Quantize
+814536 us: Thread Huffman is attempting to receive frame79 from ZigZag
+814536 us: Thread Huffman has received frame79 from ZigZag
+816402 us: Thread Quantize is attempting to send frame141 to ZigZag
+816402 us: Thread Quantize has sent frame141 to ZigZag
+816402 us: Thread Quantize is attempting to receive frame142 from DCT
+816402 us: Thread Quantize has received frame142 from DCT
+816402 us: Thread ZigZag has received frame141 from Quantize
+816989 us: Thread ZigZag is attempting to send frame141 to Huffman
+816989 us: Thread ZigZag has sent frame141 to Huffman
+816989 us: Thread ZigZag is attempting to receive frame142 from Quantize
+822113 us: Thread Quantize is attempting to send frame142 to ZigZag
+822113 us: Thread Quantize has sent frame142 to ZigZag
+822113 us: Thread Quantize is attempting to receive frame143 from DCT
+822113 us: Thread Quantize has received frame143 from DCT
+822113 us: Thread ZigZag has received frame142 from Quantize
+822700 us: Thread ZigZag is attempting to send frame142 to Huffman
+822700 us: Thread ZigZag has sent frame142 to Huffman
+822700 us: Thread ZigZag is attempting to receive frame143 from Quantize
+824698 us: Thread Huffman is attempting to receive frame80 from ZigZag
+824698 us: Thread Huffman has received frame80 from ZigZag
+827824 us: Thread Quantize is attempting to send frame143 to ZigZag
+827824 us: Thread Quantize has sent frame143 to ZigZag
+827824 us: Thread Quantize is attempting to receive frame144 from DCT
+827824 us: Thread Quantize has received frame144 from DCT
+827824 us: Thread ZigZag has received frame143 from Quantize
+828411 us: Thread ZigZag is attempting to send frame143 to Huffman
+828411 us: Thread ZigZag has sent frame143 to Huffman
+828411 us: Thread ZigZag is attempting to receive frame144 from Quantize
+833535 us: Thread Quantize is attempting to send frame144 to ZigZag
+833535 us: Thread Quantize has sent frame144 to ZigZag
+833535 us: Thread Quantize is attempting to receive frame145 from DCT
+833535 us: Thread Quantize has received frame145 from DCT
+833535 us: Thread ZigZag has received frame144 from Quantize
+834122 us: Thread ZigZag is attempting to send frame144 to Huffman
+834122 us: Thread ZigZag has sent frame144 to Huffman
+834122 us: Thread ZigZag is attempting to receive frame145 from Quantize
+834860 us: Thread Huffman is attempting to receive frame81 from ZigZag
+834860 us: Thread Huffman has received frame81 from ZigZag
+839246 us: Thread Quantize is attempting to send frame145 to ZigZag
+839246 us: Thread Quantize has sent frame145 to ZigZag
+839246 us: Thread Quantize is attempting to receive frame146 from DCT
+839246 us: Thread Quantize has received frame146 from DCT
+839246 us: Thread ZigZag has received frame145 from Quantize
+839833 us: Thread ZigZag is attempting to send frame145 to Huffman
+839833 us: Thread ZigZag has sent frame145 to Huffman
+839833 us: Thread ZigZag is attempting to receive frame146 from Quantize
+844957 us: Thread Quantize is attempting to send frame146 to ZigZag
+844957 us: Thread Quantize has sent frame146 to ZigZag
+844957 us: Thread Quantize is attempting to receive frame147 from DCT
+844957 us: Thread Quantize has received frame147 from DCT
+844957 us: Thread ZigZag has received frame146 from Quantize
+845022 us: Thread Huffman is attempting to receive frame82 from ZigZag
+845022 us: Thread Huffman has received frame82 from ZigZag
+845544 us: Thread ZigZag is attempting to send frame146 to Huffman
+845544 us: Thread ZigZag has sent frame146 to Huffman
+845544 us: Thread ZigZag is attempting to receive frame147 from Quantize
+850668 us: Thread Quantize is attempting to send frame147 to ZigZag
+850668 us: Thread Quantize has sent frame147 to ZigZag
+850668 us: Thread Quantize is attempting to receive frame148 from DCT
+850668 us: Thread Quantize has received frame148 from DCT
+850668 us: Thread ZigZag has received frame147 from Quantize
+851255 us: Thread ZigZag is attempting to send frame147 to Huffman
+851255 us: Thread ZigZag has sent frame147 to Huffman
+851255 us: Thread ZigZag is attempting to receive frame148 from Quantize
+855184 us: Thread Huffman is attempting to receive frame83 from ZigZag
+855184 us: Thread Huffman has received frame83 from ZigZag
+856379 us: Thread Quantize is attempting to send frame148 to ZigZag
+856379 us: Thread Quantize has sent frame148 to ZigZag
+856379 us: Thread Quantize is attempting to receive frame149 from DCT
+856379 us: Thread Quantize has received frame149 from DCT
+856379 us: Thread ZigZag has received frame148 from Quantize
+856966 us: Thread ZigZag is attempting to send frame148 to Huffman
+856966 us: Thread ZigZag has sent frame148 to Huffman
+856966 us: Thread ZigZag is attempting to receive frame149 from Quantize
+862090 us: Thread Quantize is attempting to send frame149 to ZigZag
+862090 us: Thread Quantize has sent frame149 to ZigZag
+862090 us: Thread Quantize is attempting to receive frame150 from DCT
+862090 us: Thread Quantize has received frame150 from DCT
+862090 us: Thread ZigZag has received frame149 from Quantize
+862677 us: Thread ZigZag is attempting to send frame149 to Huffman
+862677 us: Thread ZigZag has sent frame149 to Huffman
+862677 us: Thread ZigZag is attempting to receive frame150 from Quantize
+865346 us: Thread Huffman is attempting to receive frame84 from ZigZag
+865346 us: Thread Huffman has received frame84 from ZigZag
+867801 us: Thread Quantize is attempting to send frame150 to ZigZag
+867801 us: Thread Quantize has sent frame150 to ZigZag
+867801 us: Thread Quantize is attempting to receive frame151 from DCT
+867801 us: Thread Quantize has received frame151 from DCT
+867801 us: Thread ZigZag has received frame150 from Quantize
+868388 us: Thread ZigZag is attempting to send frame150 to Huffman
+868388 us: Thread ZigZag has sent frame150 to Huffman
+868388 us: Thread ZigZag is attempting to receive frame151 from Quantize
+873512 us: Thread Quantize is attempting to send frame151 to ZigZag
+873512 us: Thread Quantize has sent frame151 to ZigZag
+873512 us: Thread Quantize is attempting to receive frame152 from DCT
+873512 us: Thread Quantize has received frame152 from DCT
+873512 us: Thread ZigZag has received frame151 from Quantize
+874099 us: Thread ZigZag is attempting to send frame151 to Huffman
+874099 us: Thread ZigZag has sent frame151 to Huffman
+874099 us: Thread ZigZag is attempting to receive frame152 from Quantize
+875508 us: Thread Huffman is attempting to receive frame85 from ZigZag
+875508 us: Thread Huffman has received frame85 from ZigZag
+879223 us: Thread Quantize is attempting to send frame152 to ZigZag
+879223 us: Thread Quantize has sent frame152 to ZigZag
+879223 us: Thread Quantize is attempting to receive frame153 from DCT
+879223 us: Thread Quantize has received frame153 from DCT
+879223 us: Thread ZigZag has received frame152 from Quantize
+879810 us: Thread ZigZag is attempting to send frame152 to Huffman
+879810 us: Thread ZigZag has sent frame152 to Huffman
+879810 us: Thread ZigZag is attempting to receive frame153 from Quantize
+884934 us: Thread Quantize is attempting to send frame153 to ZigZag
+884934 us: Thread Quantize has sent frame153 to ZigZag
+884934 us: Thread Quantize is attempting to receive frame154 from DCT
+884934 us: Thread Quantize has received frame154 from DCT
+884934 us: Thread ZigZag has received frame153 from Quantize
+885521 us: Thread ZigZag is attempting to send frame153 to Huffman
+885521 us: Thread ZigZag has sent frame153 to Huffman
+885521 us: Thread ZigZag is attempting to receive frame154 from Quantize
+885670 us: Thread Huffman is attempting to receive frame86 from ZigZag
+885670 us: Thread Huffman has received frame86 from ZigZag
+890645 us: Thread Quantize is attempting to send frame154 to ZigZag
+890645 us: Thread Quantize has sent frame154 to ZigZag
+890645 us: Thread Quantize is attempting to receive frame155 from DCT
+890645 us: Thread Quantize has received frame155 from DCT
+890645 us: Thread ZigZag has received frame154 from Quantize
+891232 us: Thread ZigZag is attempting to send frame154 to Huffman
+891232 us: Thread ZigZag has sent frame154 to Huffman
+891232 us: Thread ZigZag is attempting to receive frame155 from Quantize
+895832 us: Thread Huffman is attempting to receive frame87 from ZigZag
+895832 us: Thread Huffman has received frame87 from ZigZag
+896356 us: Thread Quantize is attempting to send frame155 to ZigZag
+896356 us: Thread Quantize has sent frame155 to ZigZag
+896356 us: Thread Quantize is attempting to receive frame156 from DCT
+896356 us: Thread Quantize has received frame156 from DCT
+896356 us: Thread ZigZag has received frame155 from Quantize
+896943 us: Thread ZigZag is attempting to send frame155 to Huffman
+896943 us: Thread ZigZag has sent frame155 to Huffman
+896943 us: Thread ZigZag is attempting to receive frame156 from Quantize
+902067 us: Thread Quantize is attempting to send frame156 to ZigZag
+902067 us: Thread Quantize has sent frame156 to ZigZag
+902067 us: Thread Quantize is attempting to receive frame157 from DCT
+902067 us: Thread Quantize has received frame157 from DCT
+902067 us: Thread ZigZag has received frame156 from Quantize
+902654 us: Thread ZigZag is attempting to send frame156 to Huffman
+902654 us: Thread ZigZag has sent frame156 to Huffman
+902654 us: Thread ZigZag is attempting to receive frame157 from Quantize
+905994 us: Thread Huffman is attempting to receive frame88 from ZigZag
+905994 us: Thread Huffman has received frame88 from ZigZag
+907778 us: Thread Quantize is attempting to send frame157 to ZigZag
+907778 us: Thread Quantize has sent frame157 to ZigZag
+907778 us: Thread Quantize is attempting to receive frame158 from DCT
+907778 us: Thread Quantize has received frame158 from DCT
+907778 us: Thread ZigZag has received frame157 from Quantize
+908365 us: Thread ZigZag is attempting to send frame157 to Huffman
+908365 us: Thread ZigZag has sent frame157 to Huffman
+908365 us: Thread ZigZag is attempting to receive frame158 from Quantize
+913489 us: Thread Quantize is attempting to send frame158 to ZigZag
+913489 us: Thread Quantize has sent frame158 to ZigZag
+913489 us: Thread Quantize is attempting to receive frame159 from DCT
+913489 us: Thread Quantize has received frame159 from DCT
+913489 us: Thread ZigZag has received frame158 from Quantize
+914076 us: Thread ZigZag is attempting to send frame158 to Huffman
+914076 us: Thread ZigZag has sent frame158 to Huffman
+914076 us: Thread ZigZag is attempting to receive frame159 from Quantize
+916156 us: Thread Huffman is attempting to receive frame89 from ZigZag
+916156 us: Thread Huffman has received frame89 from ZigZag
+919200 us: Thread Quantize is attempting to send frame159 to ZigZag
+919200 us: Thread Quantize has sent frame159 to ZigZag
+919200 us: Thread Quantize is attempting to receive frame160 from DCT
+919200 us: Thread Quantize has received frame160 from DCT
+919200 us: Thread ZigZag has received frame159 from Quantize
+919787 us: Thread ZigZag is attempting to send frame159 to Huffman
+919787 us: Thread ZigZag has sent frame159 to Huffman
+919787 us: Thread ZigZag is attempting to receive frame160 from Quantize
+924911 us: Thread Quantize is attempting to send frame160 to ZigZag
+924911 us: Thread Quantize has sent frame160 to ZigZag
+924911 us: Thread Quantize is attempting to receive frame161 from DCT
+924911 us: Thread Quantize has received frame161 from DCT
+924911 us: Thread ZigZag has received frame160 from Quantize
+925498 us: Thread ZigZag is attempting to send frame160 to Huffman
+925498 us: Thread ZigZag has sent frame160 to Huffman
+925498 us: Thread ZigZag is attempting to receive frame161 from Quantize
+926318 us: Thread Huffman is attempting to receive frame90 from ZigZag
+926318 us: Thread Huffman has received frame90 from ZigZag
+930622 us: Thread Quantize is attempting to send frame161 to ZigZag
+930622 us: Thread Quantize has sent frame161 to ZigZag
+930622 us: Thread Quantize is attempting to receive frame162 from DCT
+930622 us: Thread Quantize has received frame162 from DCT
+930622 us: Thread ZigZag has received frame161 from Quantize
+931209 us: Thread ZigZag is attempting to send frame161 to Huffman
+931209 us: Thread ZigZag has sent frame161 to Huffman
+931209 us: Thread ZigZag is attempting to receive frame162 from Quantize
+936333 us: Thread Quantize is attempting to send frame162 to ZigZag
+936333 us: Thread Quantize has sent frame162 to ZigZag
+936333 us: Thread Quantize is attempting to receive frame163 from DCT
+936333 us: Thread Quantize has received frame163 from DCT
+936333 us: Thread ZigZag has received frame162 from Quantize
+936480 us: Thread Huffman is attempting to receive frame91 from ZigZag
+936480 us: Thread Huffman has received frame91 from ZigZag
+936920 us: Thread ZigZag is attempting to send frame162 to Huffman
+936920 us: Thread ZigZag has sent frame162 to Huffman
+936920 us: Thread ZigZag is attempting to receive frame163 from Quantize
+942044 us: Thread Quantize is attempting to send frame163 to ZigZag
+942044 us: Thread Quantize has sent frame163 to ZigZag
+942044 us: Thread Quantize is attempting to receive frame164 from DCT
+942044 us: Thread Quantize has received frame164 from DCT
+942044 us: Thread ZigZag has received frame163 from Quantize
+942631 us: Thread ZigZag is attempting to send frame163 to Huffman
+942631 us: Thread ZigZag has sent frame163 to Huffman
+942631 us: Thread ZigZag is attempting to receive frame164 from Quantize
+946642 us: Thread Huffman is attempting to receive frame92 from ZigZag
+946642 us: Thread Huffman has received frame92 from ZigZag
+947755 us: Thread Quantize is attempting to send frame164 to ZigZag
+947755 us: Thread Quantize has sent frame164 to ZigZag
+947755 us: Thread Quantize is attempting to receive frame165 from DCT
+947755 us: Thread Quantize has received frame165 from DCT
+947755 us: Thread ZigZag has received frame164 from Quantize
+948342 us: Thread ZigZag is attempting to send frame164 to Huffman
+948342 us: Thread ZigZag has sent frame164 to Huffman
+948342 us: Thread ZigZag is attempting to receive frame165 from Quantize
+953466 us: Thread Quantize is attempting to send frame165 to ZigZag
+953466 us: Thread Quantize has sent frame165 to ZigZag
+953466 us: Thread Quantize is attempting to receive frame166 from DCT
+953466 us: Thread Quantize has received frame166 from DCT
+953466 us: Thread ZigZag has received frame165 from Quantize
+954053 us: Thread ZigZag is attempting to send frame165 to Huffman
+954053 us: Thread ZigZag has sent frame165 to Huffman
+954053 us: Thread ZigZag is attempting to receive frame166 from Quantize
+956804 us: Thread Huffman is attempting to receive frame93 from ZigZag
+956804 us: Thread Huffman has received frame93 from ZigZag
+959177 us: Thread Quantize is attempting to send frame166 to ZigZag
+959177 us: Thread Quantize has sent frame166 to ZigZag
+959177 us: Thread Quantize is attempting to receive frame167 from DCT
+959177 us: Thread Quantize has received frame167 from DCT
+959177 us: Thread ZigZag has received frame166 from Quantize
+959764 us: Thread ZigZag is attempting to send frame166 to Huffman
+959764 us: Thread ZigZag has sent frame166 to Huffman
+959764 us: Thread ZigZag is attempting to receive frame167 from Quantize
+964888 us: Thread Quantize is attempting to send frame167 to ZigZag
+964888 us: Thread Quantize has sent frame167 to ZigZag
+964888 us: Thread Quantize is attempting to receive frame168 from DCT
+964888 us: Thread Quantize has received frame168 from DCT
+964888 us: Thread ZigZag has received frame167 from Quantize
+965475 us: Thread ZigZag is attempting to send frame167 to Huffman
+965475 us: Thread ZigZag has sent frame167 to Huffman
+965475 us: Thread ZigZag is attempting to receive frame168 from Quantize
+966966 us: Thread Huffman is attempting to receive frame94 from ZigZag
+966966 us: Thread Huffman has received frame94 from ZigZag
+970599 us: Thread Quantize is attempting to send frame168 to ZigZag
+970599 us: Thread Quantize has sent frame168 to ZigZag
+970599 us: Thread Quantize is attempting to receive frame169 from DCT
+970599 us: Thread Quantize has received frame169 from DCT
+970599 us: Thread ZigZag has received frame168 from Quantize
+971186 us: Thread ZigZag is attempting to send frame168 to Huffman
+971186 us: Thread ZigZag has sent frame168 to Huffman
+971186 us: Thread ZigZag is attempting to receive frame169 from Quantize
+976310 us: Thread Quantize is attempting to send frame169 to ZigZag
+976310 us: Thread Quantize has sent frame169 to ZigZag
+976310 us: Thread Quantize is attempting to receive frame170 from DCT
+976310 us: Thread Quantize has received frame170 from DCT
+976310 us: Thread ZigZag has received frame169 from Quantize
+976897 us: Thread ZigZag is attempting to send frame169 to Huffman
+976897 us: Thread ZigZag has sent frame169 to Huffman
+976897 us: Thread ZigZag is attempting to receive frame170 from Quantize
+977128 us: Thread Huffman is attempting to receive frame95 from ZigZag
+977128 us: Thread Huffman has received frame95 from ZigZag
+982021 us: Thread Quantize is attempting to send frame170 to ZigZag
+982021 us: Thread Quantize has sent frame170 to ZigZag
+982021 us: Thread Quantize is attempting to receive frame171 from DCT
+982021 us: Thread Quantize has received frame171 from DCT
+982021 us: Thread ZigZag has received frame170 from Quantize
+982608 us: Thread ZigZag is attempting to send frame170 to Huffman
+982608 us: Thread ZigZag has sent frame170 to Huffman
+982608 us: Thread ZigZag is attempting to receive frame171 from Quantize
+987290 us: Thread Huffman is attempting to receive frame96 from ZigZag
+987290 us: Thread Huffman has received frame96 from ZigZag
+987732 us: Thread Quantize is attempting to send frame171 to ZigZag
+987732 us: Thread Quantize has sent frame171 to ZigZag
+987732 us: Thread Quantize is attempting to receive frame172 from DCT
+987732 us: Thread Quantize has received frame172 from DCT
+987732 us: Thread ZigZag has received frame171 from Quantize
+988319 us: Thread ZigZag is attempting to send frame171 to Huffman
+988319 us: Thread ZigZag has sent frame171 to Huffman
+988319 us: Thread ZigZag is attempting to receive frame172 from Quantize
+993443 us: Thread Quantize is attempting to send frame172 to ZigZag
+993443 us: Thread Quantize has sent frame172 to ZigZag
+993443 us: Thread Quantize is attempting to receive frame173 from DCT
+993443 us: Thread Quantize has received frame173 from DCT
+993443 us: Thread ZigZag has received frame172 from Quantize
+994030 us: Thread ZigZag is attempting to send frame172 to Huffman
+994030 us: Thread ZigZag has sent frame172 to Huffman
+994030 us: Thread ZigZag is attempting to receive frame173 from Quantize
+997452 us: Thread Huffman is attempting to receive frame97 from ZigZag
+997452 us: Thread Huffman has received frame97 from ZigZag
+999154 us: Thread Quantize is attempting to send frame173 to ZigZag
+999154 us: Thread Quantize has sent frame173 to ZigZag
+999154 us: Thread Quantize is attempting to receive frame174 from DCT
+999154 us: Thread Quantize has received frame174 from DCT
+999154 us: Thread ZigZag has received frame173 from Quantize
+999741 us: Thread ZigZag is attempting to send frame173 to Huffman
+999741 us: Thread ZigZag has sent frame173 to Huffman
+999741 us: Thread ZigZag is attempting to receive frame174 from Quantize
+1004865 us: Thread Quantize is attempting to send frame174 to ZigZag
+1004865 us: Thread Quantize has sent frame174 to ZigZag
+1004865 us: Thread Quantize is attempting to receive frame175 from DCT
+1004865 us: Thread Quantize has received frame175 from DCT
+1004865 us: Thread ZigZag has received frame174 from Quantize
+1005452 us: Thread ZigZag is attempting to send frame174 to Huffman
+1005452 us: Thread ZigZag has sent frame174 to Huffman
+1005452 us: Thread ZigZag is attempting to receive frame175 from Quantize
+1007614 us: Thread Huffman is attempting to receive frame98 from ZigZag
+1007614 us: Thread Huffman has received frame98 from ZigZag
+1010576 us: Thread Quantize is attempting to send frame175 to ZigZag
+1010576 us: Thread Quantize has sent frame175 to ZigZag
+1010576 us: Thread Quantize is attempting to receive frame176 from DCT
+1010576 us: Thread Quantize has received frame176 from DCT
+1010576 us: Thread ZigZag has received frame175 from Quantize
+1011163 us: Thread ZigZag is attempting to send frame175 to Huffman
+1011163 us: Thread ZigZag has sent frame175 to Huffman
+1011163 us: Thread ZigZag is attempting to receive frame176 from Quantize
+1016287 us: Thread Quantize is attempting to send frame176 to ZigZag
+1016287 us: Thread Quantize has sent frame176 to ZigZag
+1016287 us: Thread Quantize is attempting to receive frame177 from DCT
+1016287 us: Thread Quantize has received frame177 from DCT
+1016287 us: Thread ZigZag has received frame176 from Quantize
+1016874 us: Thread ZigZag is attempting to send frame176 to Huffman
+1016874 us: Thread ZigZag has sent frame176 to Huffman
+1016874 us: Thread ZigZag is attempting to receive frame177 from Quantize
+1017776 us: Thread Huffman is attempting to receive frame99 from ZigZag
+1017776 us: Thread Huffman has received frame99 from ZigZag
+1021998 us: Thread Quantize is attempting to send frame177 to ZigZag
+1021998 us: Thread Quantize has sent frame177 to ZigZag
+1021998 us: Thread Quantize is attempting to receive frame178 from DCT
+1021998 us: Thread Quantize has received frame178 from DCT
+1021998 us: Thread ZigZag has received frame177 from Quantize
+1022585 us: Thread ZigZag is attempting to send frame177 to Huffman
+1022585 us: Thread ZigZag has sent frame177 to Huffman
+1022585 us: Thread ZigZag is attempting to receive frame178 from Quantize
+1027709 us: Thread Quantize is attempting to send frame178 to ZigZag
+1027709 us: Thread Quantize has sent frame178 to ZigZag
+1027709 us: Thread Quantize is attempting to receive frame179 from DCT
+1027709 us: Thread Quantize has received frame179 from DCT
+1027709 us: Thread ZigZag has received frame178 from Quantize
+1027938 us: Thread Huffman is attempting to receive frame100 from ZigZag
+1027938 us: Thread Huffman has received frame100 from ZigZag
+1028296 us: Thread ZigZag is attempting to send frame178 to Huffman
+1028296 us: Thread ZigZag has sent frame178 to Huffman
+1028296 us: Thread ZigZag is attempting to receive frame179 from Quantize
+1033420 us: Thread Quantize is attempting to send frame179 to ZigZag
+1033420 us: Thread Quantize has sent frame179 to ZigZag
+1033420 us: Thread ZigZag has received frame179 from Quantize
+1034007 us: Thread ZigZag is attempting to send frame179 to Huffman
+1034007 us: Thread ZigZag has sent frame179 to Huffman
+1038100 us: Thread Huffman is attempting to receive frame101 from ZigZag
+1038100 us: Thread Huffman has received frame101 from ZigZag
+1048262 us: Thread Huffman is attempting to receive frame102 from ZigZag
+1048262 us: Thread Huffman has received frame102 from ZigZag
+1058424 us: Thread Huffman is attempting to receive frame103 from ZigZag
+1058424 us: Thread Huffman has received frame103 from ZigZag
+1068586 us: Thread Huffman is attempting to receive frame104 from ZigZag
+1068586 us: Thread Huffman has received frame104 from ZigZag
+1078748 us: Thread Huffman is attempting to receive frame105 from ZigZag
+1078748 us: Thread Huffman has received frame105 from ZigZag
+1088910 us: Thread Huffman is attempting to receive frame106 from ZigZag
+1088910 us: Thread Huffman has received frame106 from ZigZag
+1099072 us: Thread Huffman is attempting to receive frame107 from ZigZag
+1099072 us: Thread Huffman has received frame107 from ZigZag
+1109234 us: Thread Huffman is attempting to receive frame108 from ZigZag
+1109234 us: Thread Huffman has received frame108 from ZigZag
+1119396 us: Thread Huffman is attempting to receive frame109 from ZigZag
+1119396 us: Thread Huffman has received frame109 from ZigZag
+1129558 us: Thread Huffman is attempting to receive frame110 from ZigZag
+1129558 us: Thread Huffman has received frame110 from ZigZag
+1139720 us: Thread Huffman is attempting to receive frame111 from ZigZag
+1139720 us: Thread Huffman has received frame111 from ZigZag
+1149882 us: Thread Huffman is attempting to receive frame112 from ZigZag
+1149882 us: Thread Huffman has received frame112 from ZigZag
+1160044 us: Thread Huffman is attempting to receive frame113 from ZigZag
+1160044 us: Thread Huffman has received frame113 from ZigZag
+1170206 us: Thread Huffman is attempting to receive frame114 from ZigZag
+1170206 us: Thread Huffman has received frame114 from ZigZag
+1180368 us: Thread Huffman is attempting to receive frame115 from ZigZag
+1180368 us: Thread Huffman has received frame115 from ZigZag
+1190530 us: Thread Huffman is attempting to receive frame116 from ZigZag
+1190530 us: Thread Huffman has received frame116 from ZigZag
+1200692 us: Thread Huffman is attempting to receive frame117 from ZigZag
+1200692 us: Thread Huffman has received frame117 from ZigZag
+1210854 us: Thread Huffman is attempting to receive frame118 from ZigZag
+1210854 us: Thread Huffman has received frame118 from ZigZag
+1221016 us: Thread Huffman is attempting to receive frame119 from ZigZag
+1221016 us: Thread Huffman has received frame119 from ZigZag
+1231178 us: Thread Huffman is attempting to receive frame120 from ZigZag
+1231178 us: Thread Huffman has received frame120 from ZigZag
+1241340 us: Thread Huffman is attempting to receive frame121 from ZigZag
+1241340 us: Thread Huffman has received frame121 from ZigZag
+1251502 us: Thread Huffman is attempting to receive frame122 from ZigZag
+1251502 us: Thread Huffman has received frame122 from ZigZag
+1261664 us: Thread Huffman is attempting to receive frame123 from ZigZag
+1261664 us: Thread Huffman has received frame123 from ZigZag
+1271826 us: Thread Huffman is attempting to receive frame124 from ZigZag
+1271826 us: Thread Huffman has received frame124 from ZigZag
+1281988 us: Thread Huffman is attempting to receive frame125 from ZigZag
+1281988 us: Thread Huffman has received frame125 from ZigZag
+1292150 us: Thread Huffman is attempting to receive frame126 from ZigZag
+1292150 us: Thread Huffman has received frame126 from ZigZag
+1302312 us: Thread Huffman is attempting to receive frame127 from ZigZag
+1302312 us: Thread Huffman has received frame127 from ZigZag
+1312474 us: Thread Huffman is attempting to receive frame128 from ZigZag
+1312474 us: Thread Huffman has received frame128 from ZigZag
+1322636 us: Thread Huffman is attempting to receive frame129 from ZigZag
+1322636 us: Thread Huffman has received frame129 from ZigZag
+1332798 us: Thread Huffman is attempting to receive frame130 from ZigZag
+1332798 us: Thread Huffman has received frame130 from ZigZag
+1342960 us: Thread Huffman is attempting to receive frame131 from ZigZag
+1342960 us: Thread Huffman has received frame131 from ZigZag
+1353122 us: Thread Huffman is attempting to receive frame132 from ZigZag
+1353122 us: Thread Huffman has received frame132 from ZigZag
+1363284 us: Thread Huffman is attempting to receive frame133 from ZigZag
+1363284 us: Thread Huffman has received frame133 from ZigZag
+1373446 us: Thread Huffman is attempting to receive frame134 from ZigZag
+1373446 us: Thread Huffman has received frame134 from ZigZag
+1383608 us: Thread Huffman is attempting to receive frame135 from ZigZag
+1383608 us: Thread Huffman has received frame135 from ZigZag
+1393770 us: Thread Huffman is attempting to receive frame136 from ZigZag
+1393770 us: Thread Huffman has received frame136 from ZigZag
+1403932 us: Thread Huffman is attempting to receive frame137 from ZigZag
+1403932 us: Thread Huffman has received frame137 from ZigZag
+1414094 us: Thread Huffman is attempting to receive frame138 from ZigZag
+1414094 us: Thread Huffman has received frame138 from ZigZag
+1424256 us: Thread Huffman is attempting to receive frame139 from ZigZag
+1424256 us: Thread Huffman has received frame139 from ZigZag
+1434418 us: Thread Huffman is attempting to receive frame140 from ZigZag
+1434418 us: Thread Huffman has received frame140 from ZigZag
+1444580 us: Thread Huffman is attempting to receive frame141 from ZigZag
+1444580 us: Thread Huffman has received frame141 from ZigZag
+1454742 us: Thread Huffman is attempting to receive frame142 from ZigZag
+1454742 us: Thread Huffman has received frame142 from ZigZag
+1464904 us: Thread Huffman is attempting to receive frame143 from ZigZag
+1464904 us: Thread Huffman has received frame143 from ZigZag
+1475066 us: Thread Huffman is attempting to receive frame144 from ZigZag
+1475066 us: Thread Huffman has received frame144 from ZigZag
+1485228 us: Thread Huffman is attempting to receive frame145 from ZigZag
+1485228 us: Thread Huffman has received frame145 from ZigZag
+1495390 us: Thread Huffman is attempting to receive frame146 from ZigZag
+1495390 us: Thread Huffman has received frame146 from ZigZag
+1505552 us: Thread Huffman is attempting to receive frame147 from ZigZag
+1505552 us: Thread Huffman has received frame147 from ZigZag
+1515714 us: Thread Huffman is attempting to receive frame148 from ZigZag
+1515714 us: Thread Huffman has received frame148 from ZigZag
+1525876 us: Thread Huffman is attempting to receive frame149 from ZigZag
+1525876 us: Thread Huffman has received frame149 from ZigZag
+1536038 us: Thread Huffman is attempting to receive frame150 from ZigZag
+1536038 us: Thread Huffman has received frame150 from ZigZag
+1546200 us: Thread Huffman is attempting to receive frame151 from ZigZag
+1546200 us: Thread Huffman has received frame151 from ZigZag
+1556362 us: Thread Huffman is attempting to receive frame152 from ZigZag
+1556362 us: Thread Huffman has received frame152 from ZigZag
+1566524 us: Thread Huffman is attempting to receive frame153 from ZigZag
+1566524 us: Thread Huffman has received frame153 from ZigZag
+1576686 us: Thread Huffman is attempting to receive frame154 from ZigZag
+1576686 us: Thread Huffman has received frame154 from ZigZag
+1586848 us: Thread Huffman is attempting to receive frame155 from ZigZag
+1586848 us: Thread Huffman has received frame155 from ZigZag
+1597010 us: Thread Huffman is attempting to receive frame156 from ZigZag
+1597010 us: Thread Huffman has received frame156 from ZigZag
+1607172 us: Thread Huffman is attempting to receive frame157 from ZigZag
+1607172 us: Thread Huffman has received frame157 from ZigZag
+1617334 us: Thread Huffman is attempting to receive frame158 from ZigZag
+1617334 us: Thread Huffman has received frame158 from ZigZag
+1627496 us: Thread Huffman is attempting to receive frame159 from ZigZag
+1627496 us: Thread Huffman has received frame159 from ZigZag
+1637658 us: Thread Huffman is attempting to receive frame160 from ZigZag
+1637658 us: Thread Huffman has received frame160 from ZigZag
+1647820 us: Thread Huffman is attempting to receive frame161 from ZigZag
+1647820 us: Thread Huffman has received frame161 from ZigZag
+1657982 us: Thread Huffman is attempting to receive frame162 from ZigZag
+1657982 us: Thread Huffman has received frame162 from ZigZag
+1668144 us: Thread Huffman is attempting to receive frame163 from ZigZag
+1668144 us: Thread Huffman has received frame163 from ZigZag
+1678306 us: Thread Huffman is attempting to receive frame164 from ZigZag
+1678306 us: Thread Huffman has received frame164 from ZigZag
+1688468 us: Thread Huffman is attempting to receive frame165 from ZigZag
+1688468 us: Thread Huffman has received frame165 from ZigZag
+1698630 us: Thread Huffman is attempting to receive frame166 from ZigZag
+1698630 us: Thread Huffman has received frame166 from ZigZag
+1708792 us: Thread Huffman is attempting to receive frame167 from ZigZag
+1708792 us: Thread Huffman has received frame167 from ZigZag
+1718954 us: Thread Huffman is attempting to receive frame168 from ZigZag
+1718954 us: Thread Huffman has received frame168 from ZigZag
+1729116 us: Thread Huffman is attempting to receive frame169 from ZigZag
+1729116 us: Thread Huffman has received frame169 from ZigZag
+1739278 us: Thread Huffman is attempting to receive frame170 from ZigZag
+1739278 us: Thread Huffman has received frame170 from ZigZag
+1749440 us: Thread Huffman is attempting to receive frame171 from ZigZag
+1749440 us: Thread Huffman has received frame171 from ZigZag
+1759602 us: Thread Huffman is attempting to receive frame172 from ZigZag
+1759602 us: Thread Huffman has received frame172 from ZigZag
+1769764 us: Thread Huffman is attempting to receive frame173 from ZigZag
+1769764 us: Thread Huffman has received frame173 from ZigZag
+1779926 us: Thread Huffman is attempting to receive frame174 from ZigZag
+1779926 us: Thread Huffman has received frame174 from ZigZag
+1790088 us: Thread Huffman is attempting to receive frame175 from ZigZag
+1790088 us: Thread Huffman has received frame175 from ZigZag
+1800250 us: Thread Huffman is attempting to receive frame176 from ZigZag
+1800250 us: Thread Huffman has received frame176 from ZigZag
+1810412 us: Thread Huffman is attempting to receive frame177 from ZigZag
+1810412 us: Thread Huffman has received frame177 from ZigZag
+1820574 us: Thread Huffman is attempting to receive frame178 from ZigZag
+1820574 us: Thread Huffman has received frame178 from ZigZag
+1830736 us: Thread Huffman is attempting to receive frame179 from ZigZag
+1830736 us: Thread Huffman has received frame179 from ZigZag
+1840898 us: Thread Huffman is writing encoded JPEG to file
+1840898 us: JPEG encoding completed
